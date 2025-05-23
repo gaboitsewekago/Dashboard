@@ -1,0 +1,1001 @@
+data_type,continent,country,demographic,signup_date,day,time_period,job_category,posting_date,region,job_type,skill,demo_type,request_date,event_type,query_date,query_type
+demographic data,Australia,Australia,Individual,2023/05/05,Wednesday,Evening (6PM-12AM),Sales,2023/12/11,Australia,Full-Time,C++,Academic,2023/12/01,promotional event data,2023/11/06,category query
+demographic data,Asia,India,Enterprise,2024/12/03,Saturday,Evening (6PM-12AM),Customer Support,2023/10/26,North America,Part-Time,C++,Individual,2023/10/14,assistant data,2023/08/21,job search
+user data,South America,Argentina,Enterprise,2024/05/13,Saturday,Afternoon (12PM-6PM),Design,2024/09/08,Africa,Part-Time,C++,Individual,2024/10/16,job posting data,2024/09/10,category query
+job posting data,Africa,Nigeria,Small Business,2023/02/04,Saturday,Afternoon (12PM-6PM),Design,2023/08/26,Europe,Full-Time,Excel,Academic,2024/04/21,assistant data,2023/06/11,job search
+promotional event data,Africa,Kenya,Academic,2023/05/15,Friday,Evening (6PM-12AM),Customer Support,2024/03/12,North America,Internship,SQL,Individual,2023/09/05,job posting data,2024/06/30,job search
+assistant data,Africa,Nigeria,Startup,2024/11/16,Tuesday,Night (12AM-6AM),Engineering,2023/01/16,South America,Internship,JavaScript,Enterprise,2023/10/07,promotional event data,2023/09/24,job search
+assistant data,Australia,Australia,Academic,2023/03/12,Friday,Evening (6PM-12AM),Engineering,2024/03/20,Asia,Part-Time,Python,Individual,2024/08/28,promotional event data,2024/05/12,job search
+demographic data,Africa,Kenya,Individual,2023/04/17,Tuesday,Morning (6AM-12PM),Product Management,2024/01/21,North America,Part-Time,Python,Enterprise,2024/02/18,job posting data,2024/12/01,category query
+demographic data,North America,Mexico,Enterprise,2024/08/06,Friday,Evening (6PM-12AM),Engineering,2024/03/24,Europe,Contract,SQL,Individual,2024/10/12,promotional event data,2023/03/29,category query
+user data,Africa,Kenya,Startup,2023/12/19,Tuesday,Evening (6PM-12AM),Customer Support,2024/07/07,Australia,Internship,SQL,Individual,2024/02/06,job posting data,2024/01/03,region search
+demographic data,Europe,Germany,Startup,2023/09/08,Monday,Afternoon (12PM-6PM),Customer Support,2023/01/13,Asia,Part-Time,C++,Enterprise,2024/12/25,promotional event data,2024/09/06,category query
+promotional event data,Asia,China,Academic,2023/06/03,Wednesday,Night (12AM-6AM),Design,2024/10/22,Australia,Full-Time,SQL,Academic,2024/08/18,promotional event data,2024/12/26,region search
+job type data,South America,Chile,Startup,2023/12/19,Friday,Morning (6AM-12PM),Sales,2023/08/13,Europe,Part-Time,JavaScript,Small Business,2023/11/29,assistant data,2023/07/14,job search
+user data,Africa,Nigeria,Enterprise,2024/01/08,Sunday,Evening (6PM-12AM),Marketing,2023/07/23,Asia,Internship,Java,Individual,2023/03/24,assistant data,2023/10/22,region search
+promotional event data,North America,Canada,Startup,2024/12/01,Sunday,Morning (6AM-12PM),Sales,2024/03/15,Africa,Part-Time,C++,Academic,2024/07/20,job posting data,2023/12/15,region search
+assistant data,Australia,Australia,Small Business,2023/12/27,Saturday,Afternoon (12PM-6PM),Marketing,2024/05/29,Africa,Contract,JavaScript,Academic,2023/09/06,job posting data,2024/11/19,category query
+demographic data,North America,USA,Small Business,2023/04/09,Saturday,Evening (6PM-12AM),Engineering,2024/06/26,Australia,Contract,Python,Small Business,2024/12/29,job posting data,2023/08/31,region search
+job type data,South America,Argentina,Enterprise,2023/01/10,Tuesday,Morning (6AM-12PM),Product Management,2024/05/14,Australia,Part-Time,SQL,Enterprise,2024/05/04,assistant data,2023/03/15,job search
+user data,Australia,Australia,Individual,2023/07/10,Sunday,Evening (6PM-12AM),Product Management,2024/06/20,Asia,Contract,C++,Academic,2023/02/08,job posting data,2023/11/11,category query
+job type data,Australia,Australia,Academic,2024/05/16,Thursday,Morning (6AM-12PM),Product Management,2024/05/23,Europe,Full-Time,JavaScript,Small Business,2024/11/21,job posting data,2023/01/17,region search
+promotional event data,Europe,UK,Individual,2024/10/14,Sunday,Afternoon (12PM-6PM),Customer Support,2023/03/17,Australia,Contract,Python,Academic,2024/07/28,job posting data,2024/01/26,category query
+user data,Europe,France,Startup,2024/06/14,Sunday,Afternoon (12PM-6PM),Marketing,2023/06/15,Africa,Full-Time,SQL,Individual,2023/04/22,job posting data,2023/08/18,job search
+job type data,South America,Chile,Startup,2024/08/18,Monday,Afternoon (12PM-6PM),Customer Support,2023/07/06,South America,Full-Time,SQL,Small Business,2023/04/19,promotional event data,2024/10/29,region search
+job posting data,Australia,Australia,Small Business,2024/09/01,Saturday,Afternoon (12PM-6PM),Customer Support,2023/10/18,Australia,Full-Time,Excel,Enterprise,2023/11/09,assistant data,2023/06/10,job search
+user data,North America,Mexico,Startup,2023/04/16,Tuesday,Night (12AM-6AM),Marketing,2024/10/16,North America,Contract,C++,Individual,2023/01/12,assistant data,2024/02/29,category query
+user data,North America,Canada,Startup,2024/11/19,Sunday,Afternoon (12PM-6PM),Sales,2024/09/04,South America,Part-Time,JavaScript,Enterprise,2024/04/24,job posting data,2023/04/20,category query
+demographic data,North America,Canada,Enterprise,2024/08/24,Wednesday,Evening (6PM-12AM),Customer Support,2023/11/25,Asia,Part-Time,SQL,Individual,2024/01/02,assistant data,2024/12/27,job search
+assistant data,Africa,Kenya,Individual,2023/03/11,Sunday,Afternoon (12PM-6PM),Marketing,2023/11/25,North America,Part-Time,Python,Enterprise,2023/12/13,assistant data,2023/09/06,category query
+job type data,South America,Brazil,Small Business,2023/09/30,Sunday,Afternoon (12PM-6PM),Design,2024/08/02,North America,Full-Time,Excel,Enterprise,2023/04/27,assistant data,2024/11/22,region search
+promotional event data,North America,USA,Small Business,2023/04/09,Tuesday,Afternoon (12PM-6PM),Marketing,2023/10/02,Asia,Internship,JavaScript,Academic,2023/12/17,assistant data,2024/08/05,region search
+assistant data,Asia,India,Small Business,2024/09/13,Saturday,Afternoon (12PM-6PM),Marketing,2023/08/02,Europe,Full-Time,C++,Academic,2024/11/28,assistant data,2023/11/04,category query
+user data,North America,Canada,Academic,2023/08/29,Friday,Afternoon (12PM-6PM),Customer Support,2024/03/13,Asia,Internship,Python,Enterprise,2024/04/04,promotional event data,2024/04/22,job search
+promotional event data,North America,Canada,Small Business,2024/04/18,Saturday,Night (12AM-6AM),Customer Support,2024/06/05,North America,Part-Time,SQL,Small Business,2023/02/04,assistant data,2024/10/13,category query
+promotional event data,Europe,France,Enterprise,2023/06/08,Friday,Evening (6PM-12AM),Design,2023/02/05,Australia,Contract,Excel,Enterprise,2024/09/07,assistant data,2023/12/28,category query
+promotional event data,Asia,Japan,Academic,2023/01/20,Wednesday,Afternoon (12PM-6PM),Customer Support,2023/09/08,Europe,Full-Time,Excel,Individual,2024/02/03,promotional event data,2023/09/06,category query
+demographic data,Europe,France,Small Business,2024/02/22,Wednesday,Evening (6PM-12AM),Marketing,2024/01/07,Asia,Full-Time,SQL,Enterprise,2024/03/18,job posting data,2023/02/01,region search
+user data,Australia,Australia,Enterprise,2023/07/31,Friday,Night (12AM-6AM),Engineering,2024/01/21,North America,Part-Time,Excel,Small Business,2023/12/18,job posting data,2023/10/25,category query
+assistant data,Asia,China,Startup,2023/04/06,Friday,Morning (6AM-12PM),Customer Support,2023/07/12,Africa,Part-Time,JavaScript,Academic,2024/03/14,assistant data,2024/10/27,job search
+job posting data,Asia,India,Small Business,2024/02/15,Tuesday,Night (12AM-6AM),Design,2024/01/15,Australia,Contract,C++,Small Business,2023/02/16,assistant data,2023/12/28,category query
+job posting data,North America,USA,Startup,2024/03/05,Saturday,Night (12AM-6AM),Engineering,2024/09/25,Australia,Internship,Python,Academic,2024/02/28,job posting data,2024/02/07,job search
+demographic data,North America,USA,Small Business,2023/10/11,Wednesday,Night (12AM-6AM),Marketing,2024/02/18,Asia,Internship,Excel,Academic,2024/07/08,job posting data,2023/05/02,category query
+job type data,Europe,UK,Startup,2023/07/20,Thursday,Evening (6PM-12AM),Design,2023/08/30,Australia,Full-Time,Excel,Individual,2024/03/20,job posting data,2023/08/07,region search
+assistant data,North America,Mexico,Startup,2024/11/17,Friday,Evening (6PM-12AM),Customer Support,2023/06/13,Asia,Internship,Excel,Small Business,2024/02/16,assistant data,2023/05/25,category query
+job type data,Australia,Australia,Enterprise,2024/10/03,Friday,Night (12AM-6AM),Customer Support,2024/01/11,Europe,Full-Time,JavaScript,Enterprise,2023/09/26,promotional event data,2024/01/24,job search
+promotional event data,Africa,Nigeria,Individual,2023/03/26,Sunday,Night (12AM-6AM),Engineering,2023/02/12,Europe,Full-Time,JavaScript,Enterprise,2023/01/31,job posting data,2024/05/18,category query
+job type data,North America,USA,Startup,2023/04/20,Saturday,Afternoon (12PM-6PM),Marketing,2023/07/31,North America,Part-Time,JavaScript,Small Business,2024/06/20,job posting data,2023/04/23,job search
+user data,South America,Chile,Small Business,2024/04/18,Wednesday,Morning (6AM-12PM),Engineering,2023/11/11,South America,Full-Time,Excel,Enterprise,2024/04/30,assistant data,2023/04/25,category query
+job type data,Australia,Australia,Individual,2023/08/11,Friday,Evening (6PM-12AM),Sales,2024/05/03,Europe,Full-Time,SQL,Small Business,2024/04/14,promotional event data,2024/06/14,region search
+promotional event data,Australia,Australia,Startup,2024/08/02,Thursday,Night (12AM-6AM),Design,2023/02/08,Asia,Contract,Java,Academic,2023/08/31,assistant data,2024/07/14,category query
+promotional event data,South America,Argentina,Individual,2023/11/29,Thursday,Afternoon (12PM-6PM),Marketing,2023/12/16,Asia,Contract,Python,Academic,2024/07/06,promotional event data,2023/07/14,category query
+promotional event data,North America,USA,Small Business,2023/06/09,Saturday,Morning (6AM-12PM),Product Management,2023/10/04,South America,Contract,Java,Academic,2023/04/23,job posting data,2023/02/27,job search
+job posting data,Europe,Germany,Enterprise,2023/05/23,Tuesday,Afternoon (12PM-6PM),Design,2024/01/03,Asia,Contract,Java,Individual,2024/12/26,promotional event data,2023/01/31,region search
+job type data,Europe,Germany,Individual,2023/09/10,Friday,Night (12AM-6AM),Customer Support,2024/04/21,North America,Part-Time,Excel,Individual,2024/07/18,assistant data,2023/07/26,category query
+assistant data,North America,Canada,Enterprise,2023/08/17,Friday,Night (12AM-6AM),Customer Support,2023/01/20,Asia,Part-Time,JavaScript,Individual,2024/06/26,job posting data,2023/01/23,job search
+job type data,North America,USA,Academic,2023/02/13,Thursday,Morning (6AM-12PM),Sales,2023/11/08,Europe,Full-Time,Python,Academic,2023/04/08,assistant data,2023/06/25,category query
+demographic data,Europe,UK,Academic,2023/03/13,Wednesday,Night (12AM-6AM),Marketing,2023/07/15,South America,Contract,Java,Individual,2024/04/30,job posting data,2023/01/25,region search
+job type data,North America,Mexico,Academic,2023/12/18,Friday,Evening (6PM-12AM),Marketing,2024/10/03,Asia,Full-Time,C++,Small Business,2023/05/24,promotional event data,2024/03/22,region search
+job posting data,Europe,France,Startup,2024/01/30,Wednesday,Afternoon (12PM-6PM),Sales,2023/07/11,Australia,Full-Time,SQL,Enterprise,2024/10/08,assistant data,2024/06/08,job search
+promotional event data,South America,Argentina,Individual,2023/02/15,Monday,Night (12AM-6AM),Sales,2023/01/23,North America,Internship,Java,Individual,2024/07/19,promotional event data,2024/02/21,region search
+assistant data,Europe,UK,Individual,2023/09/25,Friday,Afternoon (12PM-6PM),Engineering,2024/12/22,Africa,Contract,C++,Small Business,2024/08/26,assistant data,2023/01/03,job search
+assistant data,North America,Canada,Enterprise,2024/12/10,Monday,Morning (6AM-12PM),Design,2023/05/10,North America,Full-Time,Excel,Academic,2024/11/26,job posting data,2024/03/17,job search
+demographic data,Europe,France,Enterprise,2024/11/06,Saturday,Evening (6PM-12AM),Engineering,2024/09/08,Australia,Part-Time,JavaScript,Individual,2024/04/25,assistant data,2023/04/28,region search
+user data,Europe,Germany,Individual,2024/01/08,Sunday,Evening (6PM-12AM),Product Management,2024/07/06,Asia,Full-Time,C++,Enterprise,2024/09/13,job posting data,2023/11/11,job search
+promotional event data,Europe,UK,Academic,2024/12/18,Tuesday,Morning (6AM-12PM),Product Management,2024/05/12,Australia,Full-Time,Java,Individual,2023/03/22,job posting data,2023/02/08,job search
+assistant data,North America,Canada,Academic,2024/06/03,Friday,Afternoon (12PM-6PM),Product Management,2024/12/05,Asia,Contract,Excel,Individual,2024/09/26,job posting data,2024/10/09,job search
+user data,Asia,India,Small Business,2023/07/08,Monday,Morning (6AM-12PM),Marketing,2024/11/26,South America,Contract,C++,Enterprise,2023/03/26,job posting data,2023/12/28,region search
+assistant data,Africa,Kenya,Academic,2023/04/14,Saturday,Evening (6PM-12AM),Product Management,2024/06/06,South America,Part-Time,SQL,Individual,2023/03/01,assistant data,2024/06/18,job search
+promotional event data,Asia,China,Individual,2024/10/21,Monday,Afternoon (12PM-6PM),Marketing,2023/02/16,North America,Part-Time,JavaScript,Small Business,2024/03/18,promotional event data,2024/01/13,job search
+job type data,Europe,France,Academic,2023/11/21,Thursday,Evening (6PM-12AM),Design,2024/02/04,Europe,Contract,JavaScript,Academic,2024/10/12,job posting data,2024/12/26,region search
+job posting data,Australia,Australia,Startup,2024/04/11,Saturday,Evening (6PM-12AM),Design,2024/07/07,North America,Internship,Java,Small Business,2024/05/04,job posting data,2023/03/07,job search
+job type data,Asia,China,Startup,2024/01/13,Thursday,Afternoon (12PM-6PM),Design,2023/12/31,North America,Internship,C++,Academic,2023/08/28,promotional event data,2023/08/18,category query
+demographic data,South America,Chile,Individual,2023/02/13,Monday,Afternoon (12PM-6PM),Sales,2023/09/07,Africa,Contract,Python,Enterprise,2024/01/19,assistant data,2024/02/07,job search
+promotional event data,Australia,Australia,Academic,2024/04/18,Monday,Evening (6PM-12AM),Design,2023/10/29,Europe,Full-Time,Java,Enterprise,2024/04/25,promotional event data,2024/04/07,job search
+demographic data,South America,Chile,Academic,2024/07/20,Monday,Night (12AM-6AM),Sales,2024/07/14,Europe,Contract,C++,Small Business,2023/05/04,promotional event data,2023/07/31,region search
+job posting data,North America,USA,Small Business,2023/07/05,Saturday,Night (12AM-6AM),Engineering,2023/11/01,Asia,Internship,Python,Enterprise,2024/07/01,assistant data,2023/07/13,category query
+job posting data,South America,Chile,Startup,2023/10/06,Sunday,Night (12AM-6AM),Product Management,2023/02/25,Australia,Internship,JavaScript,Academic,2023/03/23,promotional event data,2024/05/21,category query
+user data,Australia,Australia,Small Business,2023/05/05,Sunday,Morning (6AM-12PM),Sales,2024/01/05,North America,Full-Time,Excel,Individual,2024/12/08,job posting data,2024/01/20,job search
+demographic data,Asia,Japan,Startup,2024/06/04,Monday,Morning (6AM-12PM),Customer Support,2023/04/19,Europe,Full-Time,Python,Academic,2024/05/06,promotional event data,2023/11/29,job search
+job type data,Africa,South Africa,Enterprise,2023/03/21,Tuesday,Morning (6AM-12PM),Marketing,2024/01/22,Australia,Internship,Java,Academic,2024/02/16,promotional event data,2024/07/02,region search
+promotional event data,South America,Brazil,Startup,2024/11/29,Thursday,Afternoon (12PM-6PM),Marketing,2023/10/26,North America,Part-Time,Excel,Academic,2023/08/25,job posting data,2024/10/03,region search
+assistant data,North America,Canada,Academic,2024/11/21,Saturday,Morning (6AM-12PM),Customer Support,2023/08/14,South America,Internship,Excel,Academic,2023/08/27,promotional event data,2024/11/15,job search
+promotional event data,Africa,Nigeria,Startup,2023/01/01,Friday,Morning (6AM-12PM),Design,2023/09/10,Africa,Full-Time,SQL,Academic,2024/01/12,assistant data,2024/10/30,region search
+demographic data,Africa,Kenya,Startup,2024/03/29,Friday,Afternoon (12PM-6PM),Design,2024/01/29,South America,Full-Time,Java,Academic,2023/06/24,assistant data,2023/12/13,region search
+job posting data,Africa,Nigeria,Startup,2024/06/28,Sunday,Morning (6AM-12PM),Design,2023/12/01,Asia,Internship,Python,Small Business,2024/03/19,promotional event data,2023/07/04,region search
+user data,Australia,Australia,Academic,2023/09/14,Tuesday,Evening (6PM-12AM),Engineering,2024/09/09,Australia,Full-Time,Java,Enterprise,2023/03/09,assistant data,2024/10/16,job search
+assistant data,South America,Argentina,Startup,2023/12/09,Saturday,Night (12AM-6AM),Marketing,2024/02/06,Asia,Part-Time,Python,Individual,2024/03/23,assistant data,2024/05/18,category query
+user data,Europe,UK,Enterprise,2024/10/22,Thursday,Evening (6PM-12AM),Engineering,2023/10/03,Australia,Full-Time,Excel,Individual,2023/02/26,job posting data,2024/12/20,region search
+assistant data,Asia,India,Academic,2024/04/01,Sunday,Evening (6PM-12AM),Marketing,2024/06/21,Australia,Contract,SQL,Individual,2023/03/05,job posting data,2023/08/24,job search
+demographic data,North America,Canada,Individual,2023/09/14,Sunday,Morning (6AM-12PM),Product Management,2023/10/04,Asia,Contract,C++,Enterprise,2024/04/04,assistant data,2023/12/09,region search
+assistant data,North America,Canada,Small Business,2024/12/30,Sunday,Night (12AM-6AM),Marketing,2024/02/20,Australia,Contract,Java,Small Business,2023/07/05,job posting data,2023/03/04,job search
+user data,North America,Canada,Individual,2024/12/08,Friday,Evening (6PM-12AM),Customer Support,2023/05/14,Australia,Contract,C++,Small Business,2024/05/03,assistant data,2023/01/12,region search
+assistant data,North America,Canada,Individual,2024/10/23,Wednesday,Night (12AM-6AM),Product Management,2024/07/13,Europe,Full-Time,Python,Academic,2024/08/31,promotional event data,2023/03/12,region search
+user data,Australia,Australia,Small Business,2023/02/16,Friday,Evening (6PM-12AM),Product Management,2024/09/25,South America,Internship,Python,Enterprise,2023/09/07,assistant data,2023/12/10,category query
+assistant data,Asia,China,Startup,2024/06/08,Sunday,Afternoon (12PM-6PM),Engineering,2024/10/06,North America,Contract,Java,Academic,2024/01/25,job posting data,2023/11/05,region search
+user data,Europe,UK,Individual,2024/07/01,Wednesday,Night (12AM-6AM),Product Management,2023/12/26,Europe,Part-Time,Excel,Enterprise,2023/07/29,assistant data,2024/04/27,job search
+job type data,North America,Mexico,Enterprise,2023/05/13,Tuesday,Morning (6AM-12PM),Engineering,2023/04/29,Australia,Part-Time,Python,Academic,2024/03/02,job posting data,2023/03/21,job search
+job type data,Africa,Kenya,Small Business,2024/09/18,Friday,Evening (6PM-12AM),Product Management,2024/06/16,Australia,Internship,JavaScript,Individual,2024/01/13,job posting data,2023/08/18,job search
+promotional event data,Asia,India,Small Business,2023/12/24,Friday,Morning (6AM-12PM),Engineering,2023/01/24,Africa,Contract,Excel,Academic,2023/06/22,promotional event data,2024/06/10,category query
+job type data,Australia,Australia,Academic,2023/12/20,Saturday,Afternoon (12PM-6PM),Sales,2024/02/17,Africa,Internship,Excel,Enterprise,2024/06/02,job posting data,2023/06/21,job search
+demographic data,Africa,Kenya,Startup,2023/01/03,Tuesday,Evening (6PM-12AM),Sales,2024/02/09,South America,Internship,Excel,Individual,2023/03/03,promotional event data,2023/08/22,job search
+job posting data,Asia,Japan,Enterprise,2023/05/12,Monday,Night (12AM-6AM),Customer Support,2024/11/09,South America,Full-Time,Java,Academic,2023/12/08,assistant data,2023/02/02,job search
+user data,Africa,Nigeria,Small Business,2024/06/09,Wednesday,Evening (6PM-12AM),Customer Support,2024/01/20,Africa,Contract,SQL,Small Business,2024/01/30,job posting data,2024/08/09,region search
+demographic data,Africa,Kenya,Individual,2023/03/29,Monday,Night (12AM-6AM),Product Management,2024/10/23,Australia,Part-Time,Java,Academic,2024/01/04,assistant data,2023/01/22,job search
+job type data,Europe,Germany,Enterprise,2023/07/09,Friday,Evening (6PM-12AM),Design,2023/07/07,Australia,Full-Time,Java,Academic,2024/12/25,promotional event data,2024/09/05,job search
+demographic data,Africa,Nigeria,Startup,2023/01/14,Tuesday,Night (12AM-6AM),Design,2024/11/20,Europe,Full-Time,SQL,Small Business,2024/09/26,assistant data,2024/05/05,job search
+job type data,South America,Argentina,Enterprise,2023/07/20,Friday,Evening (6PM-12AM),Sales,2024/03/11,Australia,Part-Time,JavaScript,Academic,2023/05/20,job posting data,2024/10/06,region search
+assistant data,Europe,Germany,Small Business,2023/09/20,Tuesday,Morning (6AM-12PM),Product Management,2024/07/19,Africa,Full-Time,Python,Individual,2024/06/23,promotional event data,2024/02/16,job search
+promotional event data,Australia,Australia,Small Business,2024/01/26,Sunday,Night (12AM-6AM),Design,2023/05/30,North America,Contract,JavaScript,Academic,2023/05/20,assistant data,2023/07/04,region search
+assistant data,South America,Chile,Startup,2024/12/12,Monday,Afternoon (12PM-6PM),Product Management,2023/03/27,Australia,Part-Time,Excel,Enterprise,2023/10/06,promotional event data,2024/05/02,category query
+job type data,South America,Chile,Startup,2023/01/02,Sunday,Evening (6PM-12AM),Product Management,2024/01/15,North America,Part-Time,C++,Individual,2023/03/26,promotional event data,2023/08/27,job search
+job posting data,Europe,France,Academic,2023/11/15,Monday,Evening (6PM-12AM),Sales,2023/10/08,Asia,Part-Time,JavaScript,Academic,2024/07/27,promotional event data,2023/06/28,region search
+user data,Australia,Australia,Startup,2024/05/26,Monday,Morning (6AM-12PM),Sales,2024/07/22,South America,Part-Time,Java,Individual,2023/09/25,assistant data,2023/01/24,region search
+assistant data,Africa,Nigeria,Individual,2023/12/20,Saturday,Evening (6PM-12AM),Product Management,2024/11/06,Asia,Internship,SQL,Enterprise,2023/03/15,promotional event data,2023/04/23,region search
+assistant data,North America,USA,Academic,2024/12/09,Tuesday,Evening (6PM-12AM),Sales,2024/09/20,Africa,Contract,Excel,Small Business,2024/06/02,assistant data,2023/04/28,category query
+demographic data,South America,Argentina,Small Business,2023/03/08,Wednesday,Morning (6AM-12PM),Customer Support,2024/08/11,North America,Part-Time,Python,Small Business,2023/05/27,promotional event data,2024/10/17,job search
+job type data,Europe,UK,Startup,2024/05/01,Wednesday,Night (12AM-6AM),Product Management,2023/11/05,South America,Contract,Python,Individual,2023/02/14,assistant data,2023/03/24,category query
+assistant data,Australia,Australia,Small Business,2024/04/02,Thursday,Evening (6PM-12AM),Marketing,2024/10/21,North America,Contract,Python,Small Business,2023/08/13,promotional event data,2023/12/22,job search
+assistant data,Africa,Kenya,Enterprise,2023/03/04,Sunday,Afternoon (12PM-6PM),Marketing,2024/01/03,Asia,Internship,Excel,Individual,2024/01/03,job posting data,2024/04/30,region search
+assistant data,South America,Chile,Enterprise,2024/07/10,Wednesday,Evening (6PM-12AM),Sales,2024/07/10,North America,Contract,JavaScript,Academic,2023/09/11,assistant data,2024/07/21,region search
+job posting data,Europe,France,Academic,2024/07/03,Wednesday,Night (12AM-6AM),Product Management,2023/12/16,North America,Part-Time,C++,Small Business,2023/04/29,job posting data,2023/03/14,job search
+demographic data,Europe,Germany,Academic,2024/08/05,Sunday,Morning (6AM-12PM),Product Management,2023/09/11,Asia,Part-Time,Java,Individual,2024/08/22,assistant data,2024/10/27,category query
+promotional event data,Australia,Australia,Individual,2023/11/05,Friday,Morning (6AM-12PM),Design,2024/08/28,South America,Internship,Excel,Individual,2024/06/05,assistant data,2024/10/08,category query
+promotional event data,Europe,France,Small Business,2023/09/26,Monday,Afternoon (12PM-6PM),Engineering,2024/06/10,Europe,Contract,SQL,Academic,2024/11/09,assistant data,2024/09/02,region search
+job posting data,North America,Canada,Small Business,2023/01/21,Friday,Morning (6AM-12PM),Product Management,2024/03/27,Europe,Part-Time,Java,Academic,2023/06/11,promotional event data,2024/10/23,category query
+assistant data,North America,USA,Enterprise,2023/12/25,Thursday,Afternoon (12PM-6PM),Product Management,2024/06/17,North America,Full-Time,JavaScript,Academic,2023/08/09,assistant data,2023/10/23,job search
+promotional event data,South America,Brazil,Startup,2023/03/01,Friday,Evening (6PM-12AM),Engineering,2023/03/11,North America,Internship,SQL,Individual,2023/01/24,job posting data,2023/03/10,region search
+job posting data,North America,USA,Enterprise,2024/03/31,Wednesday,Evening (6PM-12AM),Customer Support,2024/09/29,North America,Full-Time,C++,Enterprise,2023/08/26,job posting data,2024/05/05,region search
+demographic data,Europe,France,Enterprise,2023/10/04,Friday,Evening (6PM-12AM),Product Management,2023/11/23,Asia,Part-Time,JavaScript,Small Business,2024/09/20,assistant data,2023/12/30,job search
+job posting data,South America,Brazil,Academic,2024/08/03,Monday,Morning (6AM-12PM),Design,2023/09/09,Australia,Internship,Python,Individual,2024/03/03,assistant data,2023/01/12,category query
+assistant data,North America,Mexico,Startup,2023/07/05,Thursday,Afternoon (12PM-6PM),Engineering,2024/12/06,Australia,Part-Time,Java,Enterprise,2023/09/18,assistant data,2024/03/25,job search
+promotional event data,South America,Chile,Startup,2024/05/12,Friday,Afternoon (12PM-6PM),Sales,2024/09/02,Africa,Part-Time,Java,Academic,2023/11/02,job posting data,2024/09/23,job search
+job type data,Europe,UK,Enterprise,2023/07/25,Tuesday,Night (12AM-6AM),Product Management,2023/01/10,Australia,Part-Time,C++,Academic,2023/06/06,promotional event data,2024/11/13,region search
+job posting data,South America,Chile,Small Business,2024/10/18,Tuesday,Night (12AM-6AM),Design,2024/01/20,Asia,Part-Time,JavaScript,Small Business,2024/03/18,assistant data,2024/09/25,job search
+job type data,Asia,Japan,Small Business,2023/08/09,Tuesday,Morning (6AM-12PM),Design,2024/06/11,Asia,Part-Time,Java,Individual,2024/07/26,job posting data,2023/06/09,region search
+job posting data,South America,Brazil,Individual,2023/05/06,Saturday,Afternoon (12PM-6PM),Product Management,2024/10/20,North America,Internship,SQL,Academic,2024/02/08,assistant data,2023/05/17,category query
+assistant data,Australia,Australia,Academic,2024/07/13,Saturday,Afternoon (12PM-6PM),Engineering,2024/05/20,North America,Contract,SQL,Enterprise,2024/08/12,job posting data,2024/02/12,job search
+job type data,Africa,South Africa,Enterprise,2023/07/14,Sunday,Afternoon (12PM-6PM),Marketing,2023/11/22,Europe,Internship,SQL,Individual,2023/01/12,promotional event data,2023/11/14,category query
+assistant data,Africa,Kenya,Academic,2023/12/21,Tuesday,Evening (6PM-12AM),Sales,2024/01/07,Africa,Internship,Java,Small Business,2023/03/02,promotional event data,2023/04/24,category query
+job type data,Africa,Nigeria,Academic,2024/10/24,Sunday,Morning (6AM-12PM),Customer Support,2023/12/27,Australia,Contract,Python,Enterprise,2023/09/23,job posting data,2023/05/02,region search
+job posting data,South America,Brazil,Small Business,2024/11/27,Monday,Evening (6PM-12AM),Sales,2023/06/24,Australia,Part-Time,Excel,Individual,2024/10/28,assistant data,2023/09/08,category query
+assistant data,North America,USA,Startup,2023/10/27,Tuesday,Night (12AM-6AM),Sales,2024/11/21,Australia,Part-Time,Python,Individual,2024/11/03,promotional event data,2024/03/20,category query
+job posting data,Australia,Australia,Enterprise,2023/09/18,Friday,Night (12AM-6AM),Sales,2023/08/03,Africa,Full-Time,JavaScript,Academic,2024/04/20,assistant data,2024/04/18,region search
+promotional event data,South America,Chile,Small Business,2023/04/10,Saturday,Morning (6AM-12PM),Engineering,2024/03/21,Australia,Full-Time,JavaScript,Academic,2023/11/08,assistant data,2023/01/12,category query
+job posting data,South America,Chile,Individual,2023/04/18,Friday,Morning (6AM-12PM),Sales,2024/11/04,Europe,Contract,Java,Enterprise,2024/03/03,assistant data,2024/07/02,region search
+demographic data,Australia,Australia,Enterprise,2023/01/16,Sunday,Night (12AM-6AM),Customer Support,2023/04/03,South America,Internship,Python,Academic,2023/04/05,job posting data,2023/07/22,job search
+job type data,Australia,Australia,Enterprise,2023/10/05,Saturday,Night (12AM-6AM),Customer Support,2024/08/23,North America,Contract,JavaScript,Enterprise,2023/09/15,job posting data,2024/07/17,region search
+job type data,South America,Chile,Enterprise,2023/12/01,Tuesday,Morning (6AM-12PM),Sales,2023/11/17,Africa,Contract,Excel,Individual,2024/12/15,job posting data,2023/11/05,job search
+user data,Europe,France,Individual,2024/04/12,Thursday,Morning (6AM-12PM),Product Management,2023/01/01,Asia,Contract,C++,Academic,2024/01/23,assistant data,2024/05/16,category query
+promotional event data,Australia,Australia,Small Business,2024/02/26,Tuesday,Afternoon (12PM-6PM),Sales,2023/10/20,Asia,Contract,Java,Academic,2024/06/23,promotional event data,2023/09/07,category query
+assistant data,Australia,Australia,Academic,2024/04/30,Friday,Afternoon (12PM-6PM),Product Management,2024/07/22,Australia,Part-Time,SQL,Individual,2024/04/28,assistant data,2023/11/12,job search
+demographic data,South America,Brazil,Academic,2024/12/20,Tuesday,Morning (6AM-12PM),Marketing,2023/07/22,South America,Contract,JavaScript,Enterprise,2023/09/23,assistant data,2024/11/10,region search
+job posting data,North America,USA,Startup,2023/12/08,Wednesday,Evening (6PM-12AM),Product Management,2024/06/08,Africa,Contract,Java,Individual,2023/09/01,job posting data,2024/08/22,job search
+assistant data,Africa,South Africa,Small Business,2024/02/08,Saturday,Evening (6PM-12AM),Marketing,2023/05/30,Australia,Full-Time,JavaScript,Enterprise,2024/04/22,assistant data,2024/10/04,category query
+promotional event data,Europe,UK,Small Business,2024/07/15,Wednesday,Evening (6PM-12AM),Customer Support,2023/11/09,Africa,Part-Time,Excel,Individual,2023/12/03,job posting data,2023/08/23,region search
+user data,Australia,Australia,Small Business,2023/08/12,Saturday,Afternoon (12PM-6PM),Engineering,2023/10/07,North America,Contract,Excel,Small Business,2024/07/20,job posting data,2024/09/13,category query
+demographic data,Australia,Australia,Small Business,2024/06/12,Tuesday,Night (12AM-6AM),Marketing,2024/05/09,Europe,Internship,SQL,Small Business,2024/05/18,job posting data,2024/08/30,job search
+promotional event data,Europe,UK,Small Business,2023/07/15,Monday,Evening (6PM-12AM),Sales,2024/08/16,Europe,Full-Time,SQL,Enterprise,2024/04/29,promotional event data,2023/11/06,region search
+job posting data,Africa,South Africa,Enterprise,2023/05/11,Sunday,Evening (6PM-12AM),Engineering,2023/04/16,Africa,Contract,Python,Enterprise,2024/01/10,job posting data,2024/01/20,region search
+job posting data,South America,Chile,Startup,2024/06/22,Monday,Morning (6AM-12PM),Product Management,2023/04/16,North America,Full-Time,JavaScript,Enterprise,2024/10/09,job posting data,2023/05/26,region search
+user data,North America,Canada,Small Business,2024/08/09,Monday,Afternoon (12PM-6PM),Product Management,2023/06/01,Australia,Contract,SQL,Individual,2023/12/20,job posting data,2023/05/16,region search
+assistant data,Europe,UK,Startup,2023/01/18,Wednesday,Afternoon (12PM-6PM),Sales,2024/03/05,Australia,Part-Time,JavaScript,Small Business,2023/12/31,job posting data,2023/03/21,job search
+assistant data,Australia,Australia,Small Business,2023/08/10,Tuesday,Afternoon (12PM-6PM),Product Management,2023/03/08,Africa,Internship,JavaScript,Enterprise,2023/04/06,promotional event data,2024/06/04,job search
+job type data,Asia,India,Individual,2023/06/20,Thursday,Morning (6AM-12PM),Engineering,2023/03/27,Australia,Full-Time,Python,Academic,2024/01/29,job posting data,2023/03/01,category query
+promotional event data,North America,Mexico,Enterprise,2024/08/04,Tuesday,Afternoon (12PM-6PM),Engineering,2023/05/20,Europe,Part-Time,SQL,Small Business,2023/04/01,promotional event data,2024/12/06,region search
+demographic data,North America,Mexico,Enterprise,2023/08/12,Saturday,Morning (6AM-12PM),Customer Support,2024/12/09,Africa,Part-Time,Excel,Small Business,2024/02/06,assistant data,2023/04/05,category query
+job posting data,South America,Chile,Enterprise,2023/09/30,Tuesday,Evening (6PM-12AM),Customer Support,2024/10/18,South America,Full-Time,Java,Enterprise,2023/03/08,assistant data,2024/09/24,job search
+assistant data,Asia,China,Individual,2024/01/12,Wednesday,Evening (6PM-12AM),Engineering,2024/09/16,Australia,Part-Time,SQL,Individual,2024/04/20,assistant data,2023/12/03,job search
+promotional event data,North America,Canada,Academic,2023/06/28,Sunday,Evening (6PM-12AM),Sales,2024/02/06,Asia,Full-Time,Java,Academic,2024/08/09,promotional event data,2024/10/30,job search
+promotional event data,Australia,Australia,Individual,2024/01/12,Monday,Morning (6AM-12PM),Sales,2023/11/25,South America,Full-Time,Python,Small Business,2024/08/04,promotional event data,2024/06/05,region search
+job posting data,Asia,India,Enterprise,2024/08/26,Monday,Evening (6PM-12AM),Product Management,2024/04/15,Africa,Part-Time,C++,Academic,2023/08/04,promotional event data,2024/11/03,region search
+demographic data,Europe,UK,Individual,2024/07/07,Thursday,Night (12AM-6AM),Engineering,2024/12/22,Europe,Part-Time,SQL,Enterprise,2023/02/23,assistant data,2024/06/25,category query
+assistant data,South America,Argentina,Academic,2023/06/26,Sunday,Morning (6AM-12PM),Product Management,2023/11/17,Africa,Internship,Excel,Enterprise,2023/11/23,job posting data,2023/07/16,job search
+promotional event data,North America,Canada,Small Business,2023/05/01,Tuesday,Afternoon (12PM-6PM),Design,2024/12/13,Africa,Full-Time,JavaScript,Enterprise,2023/09/30,job posting data,2023/08/03,job search
+user data,Africa,Nigeria,Startup,2024/06/29,Monday,Evening (6PM-12AM),Product Management,2024/05/17,Europe,Internship,Python,Academic,2023/05/15,job posting data,2024/06/09,region search
+job posting data,North America,USA,Startup,2024/11/05,Sunday,Morning (6AM-12PM),Sales,2023/08/28,Asia,Part-Time,JavaScript,Individual,2023/11/01,promotional event data,2024/11/20,category query
+user data,Australia,Australia,Startup,2024/05/04,Thursday,Evening (6PM-12AM),Design,2024/07/17,Australia,Full-Time,JavaScript,Enterprise,2023/06/06,assistant data,2024/04/23,category query
+job posting data,Asia,China,Enterprise,2024/06/19,Thursday,Afternoon (12PM-6PM),Sales,2023/04/19,South America,Part-Time,Excel,Academic,2023/03/26,promotional event data,2024/09/24,job search
+job type data,Australia,Australia,Enterprise,2024/12/05,Friday,Evening (6PM-12AM),Engineering,2023/08/09,Europe,Part-Time,C++,Academic,2024/04/30,job posting data,2024/08/01,category query
+job type data,Europe,Germany,Startup,2023/08/14,Thursday,Morning (6AM-12PM),Product Management,2024/04/01,South America,Internship,Python,Individual,2024/03/03,promotional event data,2023/10/09,job search
+job type data,South America,Argentina,Enterprise,2023/11/22,Thursday,Evening (6PM-12AM),Product Management,2023/05/09,Africa,Internship,Python,Enterprise,2023/02/24,assistant data,2024/07/02,category query
+user data,Europe,UK,Academic,2023/05/06,Tuesday,Night (12AM-6AM),Sales,2024/03/22,Africa,Full-Time,Java,Academic,2024/07/12,assistant data,2023/02/16,job search
+job posting data,Asia,China,Individual,2023/01/19,Thursday,Morning (6AM-12PM),Marketing,2024/10/10,Asia,Full-Time,Excel,Individual,2024/11/17,job posting data,2024/11/05,region search
+user data,North America,Mexico,Enterprise,2023/02/18,Sunday,Night (12AM-6AM),Marketing,2024/02/02,North America,Contract,JavaScript,Academic,2024/10/16,promotional event data,2023/07/23,region search
+job posting data,North America,Mexico,Startup,2023/06/13,Thursday,Night (12AM-6AM),Marketing,2024/05/25,North America,Full-Time,Java,Academic,2024/05/17,promotional event data,2024/09/23,job search
+promotional event data,North America,Canada,Small Business,2024/02/03,Thursday,Afternoon (12PM-6PM),Design,2023/09/05,Europe,Internship,Excel,Academic,2024/07/27,job posting data,2024/10/23,region search
+job type data,Africa,South Africa,Individual,2024/07/19,Tuesday,Afternoon (12PM-6PM),Engineering,2024/05/26,Africa,Internship,Excel,Academic,2023/12/20,assistant data,2023/09/02,job search
+promotional event data,North America,Mexico,Academic,2023/06/01,Wednesday,Night (12AM-6AM),Engineering,2023/05/19,Australia,Full-Time,Java,Individual,2024/09/08,job posting data,2024/07/24,region search
+assistant data,Africa,Nigeria,Enterprise,2024/04/10,Sunday,Afternoon (12PM-6PM),Engineering,2023/01/19,Africa,Full-Time,SQL,Small Business,2023/12/03,job posting data,2023/06/11,region search
+assistant data,Africa,South Africa,Startup,2024/12/19,Tuesday,Afternoon (12PM-6PM),Design,2024/09/08,Asia,Part-Time,Python,Academic,2024/05/24,job posting data,2023/04/13,category query
+job type data,Australia,Australia,Academic,2024/11/10,Wednesday,Afternoon (12PM-6PM),Product Management,2023/01/21,Europe,Full-Time,Java,Academic,2024/06/29,promotional event data,2024/08/25,job search
+assistant data,Asia,China,Small Business,2023/03/01,Monday,Night (12AM-6AM),Sales,2024/07/22,Asia,Part-Time,JavaScript,Individual,2024/07/15,assistant data,2024/09/02,job search
+assistant data,Australia,Australia,Small Business,2024/08/18,Sunday,Evening (6PM-12AM),Sales,2023/08/12,Europe,Internship,Java,Small Business,2023/10/11,promotional event data,2023/05/14,category query
+assistant data,Africa,South Africa,Academic,2024/08/20,Thursday,Evening (6PM-12AM),Design,2024/01/02,South America,Full-Time,C++,Small Business,2023/04/09,job posting data,2023/06/01,job search
+demographic data,Australia,Australia,Academic,2023/03/09,Wednesday,Evening (6PM-12AM),Customer Support,2023/07/27,Asia,Full-Time,C++,Small Business,2024/11/09,promotional event data,2024/07/24,category query
+assistant data,Australia,Australia,Small Business,2023/06/06,Tuesday,Afternoon (12PM-6PM),Customer Support,2024/07/13,South America,Full-Time,Excel,Enterprise,2024/09/30,assistant data,2024/06/25,region search
+job posting data,North America,Mexico,Enterprise,2023/08/06,Sunday,Morning (6AM-12PM),Customer Support,2023/05/01,Africa,Part-Time,C++,Individual,2024/01/19,promotional event data,2023/01/26,job search
+job posting data,North America,Canada,Academic,2024/09/09,Friday,Evening (6PM-12AM),Engineering,2024/08/24,Europe,Contract,C++,Individual,2023/07/28,assistant data,2023/09/05,job search
+demographic data,Asia,India,Enterprise,2024/03/14,Monday,Afternoon (12PM-6PM),Marketing,2024/03/03,North America,Internship,Python,Small Business,2024/01/14,assistant data,2023/12/21,job search
+demographic data,North America,USA,Academic,2023/04/13,Thursday,Afternoon (12PM-6PM),Customer Support,2024/02/24,Asia,Full-Time,JavaScript,Enterprise,2024/06/11,job posting data,2024/05/03,region search
+job posting data,North America,Mexico,Enterprise,2024/10/29,Thursday,Evening (6PM-12AM),Design,2023/09/25,North America,Full-Time,JavaScript,Small Business,2023/09/26,promotional event data,2023/12/06,region search
+job type data,Australia,Australia,Individual,2024/06/13,Sunday,Morning (6AM-12PM),Engineering,2024/07/10,North America,Internship,JavaScript,Small Business,2024/08/02,job posting data,2024/12/12,category query
+user data,South America,Chile,Individual,2024/04/13,Wednesday,Morning (6AM-12PM),Product Management,2024/10/15,Europe,Contract,Java,Academic,2024/04/28,assistant data,2023/11/04,region search
+user data,North America,USA,Individual,2023/11/29,Friday,Night (12AM-6AM),Marketing,2023/09/27,Africa,Contract,Python,Small Business,2023/07/10,promotional event data,2023/06/19,category query
+job type data,Africa,Nigeria,Individual,2023/02/23,Thursday,Morning (6AM-12PM),Sales,2023/06/05,Europe,Internship,C++,Individual,2023/08/26,job posting data,2024/02/29,region search
+assistant data,Africa,South Africa,Academic,2024/08/19,Friday,Evening (6PM-12AM),Sales,2024/10/26,South America,Contract,Excel,Academic,2024/06/15,assistant data,2024/01/18,region search
+demographic data,Africa,South Africa,Startup,2023/05/22,Wednesday,Evening (6PM-12AM),Engineering,2024/10/19,Africa,Contract,C++,Small Business,2024/10/03,job posting data,2024/09/21,region search
+promotional event data,South America,Chile,Startup,2023/01/27,Monday,Evening (6PM-12AM),Customer Support,2024/09/02,Europe,Full-Time,JavaScript,Small Business,2023/09/11,job posting data,2023/05/16,job search
+demographic data,Africa,Nigeria,Academic,2024/04/01,Tuesday,Night (12AM-6AM),Sales,2024/10/12,North America,Part-Time,C++,Small Business,2024/04/01,promotional event data,2024/10/22,job search
+promotional event data,South America,Brazil,Individual,2023/03/22,Tuesday,Evening (6PM-12AM),Sales,2023/12/19,South America,Full-Time,Python,Small Business,2024/02/06,promotional event data,2024/08/02,category query
+job type data,Africa,South Africa,Small Business,2024/07/09,Monday,Evening (6PM-12AM),Engineering,2023/08/11,North America,Full-Time,Java,Small Business,2024/03/23,job posting data,2024/06/29,region search
+user data,Asia,China,Individual,2023/11/10,Friday,Morning (6AM-12PM),Engineering,2023/03/05,North America,Contract,JavaScript,Small Business,2024/12/22,job posting data,2023/07/06,job search
+assistant data,North America,Mexico,Small Business,2024/08/14,Saturday,Morning (6AM-12PM),Engineering,2023/06/17,Africa,Part-Time,Java,Enterprise,2023/05/16,promotional event data,2023/11/14,category query
+job posting data,Australia,Australia,Enterprise,2024/05/11,Friday,Afternoon (12PM-6PM),Product Management,2023/10/07,South America,Part-Time,C++,Academic,2024/02/20,job posting data,2023/11/11,category query
+job type data,South America,Chile,Small Business,2024/12/08,Saturday,Afternoon (12PM-6PM),Sales,2024/08/09,North America,Full-Time,Excel,Individual,2024/11/04,assistant data,2024/04/16,category query
+demographic data,South America,Brazil,Small Business,2023/11/26,Tuesday,Night (12AM-6AM),Marketing,2024/03/31,Europe,Full-Time,Excel,Small Business,2023/07/25,promotional event data,2023/06/01,category query
+job posting data,Europe,France,Individual,2023/10/20,Sunday,Night (12AM-6AM),Customer Support,2023/06/14,Europe,Part-Time,SQL,Enterprise,2023/10/05,promotional event data,2023/10/31,region search
+promotional event data,South America,Brazil,Startup,2024/09/15,Friday,Morning (6AM-12PM),Design,2023/07/11,Europe,Part-Time,Python,Individual,2024/08/02,assistant data,2024/05/25,job search
+demographic data,North America,Canada,Small Business,2024/05/25,Wednesday,Night (12AM-6AM),Marketing,2024/11/16,Europe,Contract,C++,Individual,2023/02/08,promotional event data,2024/05/30,region search
+demographic data,Europe,France,Enterprise,2024/05/15,Sunday,Afternoon (12PM-6PM),Engineering,2024/12/12,North America,Full-Time,Excel,Academic,2024/04/29,assistant data,2023/08/08,category query
+job type data,Africa,Nigeria,Individual,2024/09/16,Wednesday,Evening (6PM-12AM),Design,2024/03/01,South America,Internship,Python,Academic,2024/07/26,job posting data,2023/02/23,region search
+promotional event data,North America,Canada,Small Business,2023/11/03,Friday,Night (12AM-6AM),Customer Support,2023/12/24,Europe,Contract,Python,Small Business,2024/01/21,promotional event data,2023/02/18,region search
+job type data,Africa,Nigeria,Startup,2023/08/28,Saturday,Evening (6PM-12AM),Product Management,2023/05/24,South America,Part-Time,Java,Academic,2023/07/11,promotional event data,2024/09/30,job search
+demographic data,Asia,China,Small Business,2023/10/15,Wednesday,Night (12AM-6AM),Design,2024/04/20,Asia,Full-Time,Python,Academic,2023/01/23,assistant data,2023/10/27,job search
+promotional event data,Africa,Nigeria,Academic,2024/02/02,Saturday,Afternoon (12PM-6PM),Sales,2023/08/21,Australia,Contract,JavaScript,Academic,2024/10/28,job posting data,2024/10/30,region search
+job type data,North America,Canada,Individual,2023/08/16,Friday,Afternoon (12PM-6PM),Customer Support,2023/04/10,Africa,Full-Time,C++,Small Business,2024/04/24,assistant data,2023/05/17,category query
+assistant data,Europe,UK,Individual,2023/11/22,Sunday,Evening (6PM-12AM),Sales,2024/02/09,Europe,Contract,SQL,Enterprise,2023/10/22,assistant data,2024/05/31,category query
+job posting data,North America,USA,Academic,2023/08/21,Thursday,Afternoon (12PM-6PM),Engineering,2024/05/31,Europe,Full-Time,Excel,Individual,2024/01/13,assistant data,2024/12/19,category query
+user data,North America,Mexico,Individual,2023/01/27,Saturday,Evening (6PM-12AM),Design,2024/03/26,Asia,Contract,Java,Enterprise,2023/12/17,assistant data,2023/10/14,region search
+user data,Africa,Nigeria,Individual,2024/05/04,Saturday,Night (12AM-6AM),Customer Support,2023/04/21,Europe,Part-Time,Excel,Academic,2024/12/05,promotional event data,2023/12/30,job search
+assistant data,Asia,India,Small Business,2023/05/18,Thursday,Night (12AM-6AM),Engineering,2023/01/24,South America,Contract,Java,Academic,2023/01/25,assistant data,2024/07/11,job search
+job posting data,North America,Mexico,Small Business,2024/06/09,Saturday,Morning (6AM-12PM),Sales,2023/08/22,North America,Contract,Java,Enterprise,2024/05/06,assistant data,2023/09/24,region search
+job type data,Asia,Japan,Enterprise,2023/03/07,Sunday,Night (12AM-6AM),Sales,2023/05/24,Africa,Full-Time,C++,Academic,2024/11/20,promotional event data,2023/07/15,job search
+job posting data,South America,Brazil,Individual,2023/10/06,Friday,Night (12AM-6AM),Engineering,2024/10/15,South America,Contract,Excel,Small Business,2024/08/29,assistant data,2023/05/27,job search
+promotional event data,South America,Brazil,Startup,2024/08/09,Monday,Morning (6AM-12PM),Design,2024/01/21,South America,Contract,Java,Individual,2023/06/19,job posting data,2023/04/16,job search
+assistant data,Asia,Japan,Small Business,2024/03/02,Thursday,Morning (6AM-12PM),Design,2023/03/02,Europe,Internship,Excel,Academic,2024/01/14,assistant data,2024/10/24,category query
+job posting data,Europe,France,Individual,2024/07/23,Sunday,Evening (6PM-12AM),Customer Support,2024/09/29,Europe,Full-Time,C++,Academic,2023/09/29,job posting data,2024/08/01,job search
+user data,Australia,Australia,Enterprise,2024/07/07,Monday,Evening (6PM-12AM),Product Management,2024/06/24,North America,Part-Time,JavaScript,Small Business,2023/03/14,promotional event data,2023/10/23,category query
+assistant data,Europe,Germany,Small Business,2023/10/29,Saturday,Morning (6AM-12PM),Customer Support,2023/05/03,Australia,Contract,Java,Academic,2023/09/10,assistant data,2024/12/19,category query
+promotional event data,Asia,China,Small Business,2023/10/30,Wednesday,Morning (6AM-12PM),Design,2024/06/18,North America,Full-Time,C++,Small Business,2023/07/13,job posting data,2024/06/01,category query
+job type data,North America,Mexico,Startup,2024/05/05,Wednesday,Afternoon (12PM-6PM),Sales,2024/08/05,South America,Full-Time,Python,Enterprise,2023/01/31,promotional event data,2023/06/25,region search
+job posting data,Australia,Australia,Enterprise,2024/12/09,Friday,Morning (6AM-12PM),Marketing,2023/02/10,Australia,Contract,Python,Academic,2024/12/06,assistant data,2024/07/27,region search
+promotional event data,Europe,UK,Individual,2023/05/15,Saturday,Evening (6PM-12AM),Marketing,2024/10/12,North America,Internship,JavaScript,Academic,2023/04/14,assistant data,2023/03/11,category query
+user data,Africa,South Africa,Individual,2024/03/17,Tuesday,Evening (6PM-12AM),Design,2024/06/24,South America,Contract,SQL,Academic,2023/07/15,assistant data,2024/10/13,job search
+job type data,South America,Chile,Academic,2024/09/18,Sunday,Evening (6PM-12AM),Customer Support,2023/05/24,Africa,Part-Time,SQL,Small Business,2023/05/18,promotional event data,2024/10/23,category query
+job posting data,Asia,India,Startup,2023/09/17,Tuesday,Night (12AM-6AM),Sales,2023/02/20,Asia,Internship,SQL,Academic,2024/12/19,assistant data,2023/12/19,region search
+job type data,Asia,Japan,Academic,2023/01/11,Tuesday,Afternoon (12PM-6PM),Customer Support,2024/11/29,Australia,Full-Time,SQL,Small Business,2023/10/01,job posting data,2023/11/06,job search
+promotional event data,Asia,India,Academic,2024/06/13,Monday,Afternoon (12PM-6PM),Design,2024/02/21,Australia,Part-Time,SQL,Individual,2024/10/21,job posting data,2024/06/02,region search
+user data,Asia,Japan,Enterprise,2023/06/02,Tuesday,Night (12AM-6AM),Marketing,2023/01/28,Africa,Part-Time,Python,Individual,2024/11/12,assistant data,2024/01/29,category query
+user data,Australia,Australia,Enterprise,2024/09/14,Wednesday,Evening (6PM-12AM),Customer Support,2024/11/19,Africa,Full-Time,Java,Small Business,2024/05/22,assistant data,2024/05/23,job search
+assistant data,Asia,Japan,Enterprise,2023/02/18,Wednesday,Evening (6PM-12AM),Sales,2023/12/22,Europe,Full-Time,C++,Academic,2023/01/06,assistant data,2023/03/03,region search
+assistant data,North America,Mexico,Enterprise,2024/07/13,Thursday,Afternoon (12PM-6PM),Sales,2023/02/26,Africa,Part-Time,JavaScript,Individual,2024/06/12,job posting data,2023/11/10,job search
+demographic data,Asia,Japan,Individual,2024/01/01,Friday,Evening (6PM-12AM),Design,2023/08/27,South America,Internship,Java,Enterprise,2024/09/05,job posting data,2024/03/21,job search
+promotional event data,Europe,France,Small Business,2024/07/21,Tuesday,Afternoon (12PM-6PM),Engineering,2023/12/13,Europe,Internship,SQL,Enterprise,2023/08/10,assistant data,2024/03/18,region search
+job posting data,South America,Argentina,Enterprise,2023/05/28,Saturday,Evening (6PM-12AM),Engineering,2023/09/15,Europe,Contract,Python,Academic,2023/08/19,promotional event data,2024/02/04,job search
+user data,Asia,Japan,Enterprise,2024/09/14,Friday,Morning (6AM-12PM),Engineering,2024/01/16,North America,Full-Time,JavaScript,Small Business,2024/10/05,promotional event data,2024/01/05,category query
+assistant data,Africa,South Africa,Startup,2023/07/03,Wednesday,Morning (6AM-12PM),Sales,2023/12/09,South America,Full-Time,Java,Academic,2024/10/01,assistant data,2024/09/25,category query
+user data,Europe,UK,Enterprise,2024/02/16,Saturday,Afternoon (12PM-6PM),Engineering,2023/09/16,South America,Part-Time,SQL,Enterprise,2024/04/08,promotional event data,2024/11/29,job search
+job posting data,Africa,South Africa,Enterprise,2023/07/04,Wednesday,Night (12AM-6AM),Marketing,2024/09/20,Australia,Full-Time,SQL,Enterprise,2024/08/07,promotional event data,2024/03/14,category query
+demographic data,Asia,Japan,Academic,2023/05/09,Thursday,Afternoon (12PM-6PM),Marketing,2024/05/17,Africa,Full-Time,Java,Enterprise,2023/05/29,job posting data,2023/10/23,job search
+assistant data,South America,Brazil,Academic,2024/08/12,Sunday,Evening (6PM-12AM),Customer Support,2023/10/07,Africa,Part-Time,SQL,Enterprise,2024/07/08,assistant data,2023/05/17,job search
+job posting data,Australia,Australia,Academic,2024/01/22,Friday,Afternoon (12PM-6PM),Sales,2023/08/10,Australia,Full-Time,Python,Academic,2023/04/04,promotional event data,2023/07/08,job search
+job type data,Asia,China,Individual,2023/08/29,Monday,Afternoon (12PM-6PM),Design,2023/01/24,Europe,Part-Time,Java,Small Business,2024/06/30,job posting data,2024/07/26,job search
+job type data,South America,Brazil,Academic,2023/11/19,Wednesday,Morning (6AM-12PM),Design,2024/01/07,Asia,Internship,SQL,Individual,2023/10/19,job posting data,2023/06/17,job search
+promotional event data,Europe,France,Enterprise,2023/08/27,Saturday,Evening (6PM-12AM),Customer Support,2023/05/19,South America,Part-Time,Python,Academic,2024/11/06,assistant data,2023/08/20,job search
+user data,South America,Argentina,Small Business,2024/06/24,Tuesday,Afternoon (12PM-6PM),Product Management,2023/01/29,North America,Full-Time,JavaScript,Enterprise,2023/07/27,assistant data,2023/09/18,region search
+job posting data,North America,Canada,Academic,2024/07/12,Sunday,Morning (6AM-12PM),Product Management,2024/10/25,Africa,Part-Time,Java,Enterprise,2024/01/27,job posting data,2024/07/03,category query
+assistant data,Asia,Japan,Enterprise,2023/05/10,Saturday,Night (12AM-6AM),Sales,2024/06/07,South America,Full-Time,C++,Small Business,2023/03/19,promotional event data,2023/02/13,job search
+demographic data,North America,Mexico,Academic,2023/04/27,Sunday,Morning (6AM-12PM),Design,2023/11/05,North America,Full-Time,Excel,Small Business,2024/08/10,promotional event data,2024/06/14,category query
+demographic data,South America,Argentina,Small Business,2024/12/20,Sunday,Morning (6AM-12PM),Product Management,2023/04/24,Asia,Full-Time,JavaScript,Enterprise,2023/03/14,assistant data,2023/02/08,category query
+user data,Australia,Australia,Academic,2024/11/17,Thursday,Evening (6PM-12AM),Product Management,2023/05/06,Africa,Contract,Excel,Individual,2023/03/02,job posting data,2023/06/14,category query
+assistant data,Africa,Kenya,Academic,2023/07/05,Tuesday,Morning (6AM-12PM),Design,2024/11/18,Australia,Contract,Python,Academic,2023/08/22,job posting data,2024/10/27,category query
+job type data,Australia,Australia,Individual,2023/04/25,Sunday,Morning (6AM-12PM),Product Management,2024/12/13,Australia,Full-Time,C++,Small Business,2024/10/28,assistant data,2024/05/15,region search
+assistant data,South America,Brazil,Academic,2023/10/21,Monday,Morning (6AM-12PM),Design,2024/11/27,Australia,Contract,C++,Academic,2023/07/19,job posting data,2024/08/05,category query
+job type data,Asia,China,Small Business,2024/04/04,Thursday,Night (12AM-6AM),Product Management,2023/09/25,Europe,Part-Time,SQL,Enterprise,2024/12/16,assistant data,2024/12/24,job search
+promotional event data,Africa,Nigeria,Enterprise,2024/11/05,Monday,Evening (6PM-12AM),Marketing,2024/03/05,Europe,Part-Time,C++,Academic,2024/07/13,assistant data,2024/09/15,category query
+job posting data,Africa,Nigeria,Small Business,2023/01/12,Wednesday,Afternoon (12PM-6PM),Design,2024/12/19,Asia,Part-Time,Java,Enterprise,2024/10/10,promotional event data,2023/09/15,region search
+job posting data,North America,Canada,Startup,2024/08/31,Tuesday,Afternoon (12PM-6PM),Customer Support,2023/04/04,Europe,Part-Time,Python,Academic,2024/11/22,promotional event data,2023/08/26,region search
+job type data,Africa,Kenya,Academic,2024/10/01,Thursday,Evening (6PM-12AM),Customer Support,2023/04/04,Europe,Internship,SQL,Enterprise,2023/08/22,promotional event data,2024/11/02,job search
+demographic data,North America,USA,Individual,2024/12/06,Saturday,Evening (6PM-12AM),Sales,2024/01/03,Africa,Part-Time,JavaScript,Individual,2024/02/06,job posting data,2024/09/03,region search
+job type data,Europe,UK,Startup,2024/12/08,Saturday,Morning (6AM-12PM),Engineering,2023/09/28,Africa,Internship,Python,Individual,2024/11/04,assistant data,2024/01/24,region search
+user data,North America,Canada,Enterprise,2024/07/23,Sunday,Morning (6AM-12PM),Sales,2023/07/07,Australia,Contract,C++,Individual,2024/11/09,assistant data,2023/03/11,region search
+assistant data,Australia,Australia,Individual,2024/01/14,Thursday,Night (12AM-6AM),Marketing,2024/06/09,Europe,Contract,Excel,Small Business,2024/09/05,assistant data,2023/11/09,category query
+demographic data,North America,Mexico,Small Business,2023/03/20,Thursday,Evening (6PM-12AM),Sales,2023/08/30,Australia,Part-Time,Java,Individual,2024/05/04,job posting data,2024/10/01,category query
+job posting data,North America,USA,Academic,2023/09/15,Tuesday,Night (12AM-6AM),Sales,2023/04/27,South America,Full-Time,C++,Academic,2023/07/26,assistant data,2024/06/13,region search
+demographic data,South America,Chile,Startup,2023/02/19,Sunday,Evening (6PM-12AM),Marketing,2023/04/03,Europe,Contract,Excel,Enterprise,2024/04/19,promotional event data,2024/07/20,region search
+job posting data,North America,Canada,Startup,2024/01/20,Wednesday,Evening (6PM-12AM),Product Management,2024/10/24,Europe,Internship,SQL,Small Business,2023/05/05,promotional event data,2023/06/04,category query
+promotional event data,Africa,South Africa,Small Business,2023/07/12,Sunday,Morning (6AM-12PM),Sales,2023/11/03,Africa,Full-Time,C++,Academic,2024/06/23,assistant data,2024/10/29,category query
+job posting data,North America,Canada,Enterprise,2023/01/11,Tuesday,Afternoon (12PM-6PM),Product Management,2024/04/26,South America,Internship,Excel,Small Business,2023/04/29,job posting data,2024/04/29,category query
+job posting data,Africa,Nigeria,Individual,2023/03/04,Tuesday,Night (12AM-6AM),Engineering,2023/06/06,Australia,Part-Time,Excel,Academic,2023/11/17,job posting data,2023/12/04,category query
+user data,Australia,Australia,Enterprise,2024/03/15,Saturday,Morning (6AM-12PM),Customer Support,2024/04/15,Asia,Part-Time,JavaScript,Academic,2023/10/27,job posting data,2023/01/28,job search
+job type data,Australia,Australia,Startup,2024/05/19,Tuesday,Night (12AM-6AM),Design,2024/06/10,South America,Internship,JavaScript,Academic,2024/12/28,promotional event data,2024/07/13,region search
+user data,South America,Brazil,Small Business,2024/11/13,Thursday,Afternoon (12PM-6PM),Customer Support,2023/10/17,North America,Full-Time,JavaScript,Small Business,2024/08/11,promotional event data,2024/05/09,category query
+user data,Europe,UK,Small Business,2024/05/12,Thursday,Afternoon (12PM-6PM),Sales,2023/09/30,North America,Contract,SQL,Individual,2023/06/14,job posting data,2023/04/22,category query
+job type data,North America,Canada,Enterprise,2024/05/15,Sunday,Evening (6PM-12AM),Product Management,2024/01/16,Europe,Contract,SQL,Enterprise,2024/03/28,promotional event data,2024/03/20,category query
+demographic data,Africa,Kenya,Startup,2024/10/25,Friday,Evening (6PM-12AM),Marketing,2023/02/20,Asia,Full-Time,Excel,Small Business,2024/02/05,promotional event data,2024/05/11,job search
+job posting data,South America,Chile,Startup,2023/05/30,Monday,Evening (6PM-12AM),Customer Support,2024/08/03,South America,Contract,Python,Individual,2024/12/27,assistant data,2024/07/28,category query
+job type data,North America,Canada,Enterprise,2024/01/01,Friday,Evening (6PM-12AM),Design,2024/02/05,Asia,Part-Time,Excel,Individual,2023/08/10,job posting data,2023/03/20,job search
+user data,Australia,Australia,Enterprise,2023/11/27,Saturday,Morning (6AM-12PM),Sales,2024/04/09,Australia,Internship,C++,Enterprise,2024/05/17,job posting data,2023/11/06,region search
+assistant data,South America,Argentina,Small Business,2024/09/17,Friday,Night (12AM-6AM),Engineering,2024/06/30,Africa,Internship,Java,Academic,2023/04/22,assistant data,2023/11/17,category query
+assistant data,South America,Brazil,Academic,2023/10/27,Wednesday,Morning (6AM-12PM),Customer Support,2023/04/07,Australia,Part-Time,Java,Enterprise,2023/11/06,job posting data,2023/05/26,region search
+promotional event data,Australia,Australia,Individual,2024/02/10,Monday,Night (12AM-6AM),Sales,2024/09/30,North America,Full-Time,Excel,Small Business,2023/08/11,assistant data,2023/08/13,job search
+user data,South America,Argentina,Small Business,2024/06/25,Tuesday,Morning (6AM-12PM),Customer Support,2024/03/16,Asia,Part-Time,JavaScript,Enterprise,2023/01/25,job posting data,2024/01/29,category query
+assistant data,South America,Argentina,Academic,2023/09/25,Tuesday,Morning (6AM-12PM),Design,2023/11/04,Europe,Full-Time,SQL,Academic,2024/01/23,promotional event data,2023/04/22,job search
+user data,Australia,Australia,Small Business,2023/05/19,Thursday,Morning (6AM-12PM),Sales,2023/04/17,South America,Internship,C++,Small Business,2023/05/15,assistant data,2023/06/13,job search
+assistant data,South America,Argentina,Individual,2024/03/11,Tuesday,Evening (6PM-12AM),Sales,2023/04/04,North America,Full-Time,Excel,Small Business,2023/01/12,assistant data,2023/09/30,category query
+job type data,Asia,India,Individual,2024/07/02,Saturday,Afternoon (12PM-6PM),Product Management,2023/05/20,Africa,Internship,SQL,Enterprise,2024/02/15,promotional event data,2024/06/04,job search
+job posting data,Australia,Australia,Small Business,2024/05/12,Wednesday,Morning (6AM-12PM),Marketing,2024/06/19,Asia,Contract,Excel,Academic,2024/08/09,assistant data,2023/04/20,category query
+user data,North America,USA,Enterprise,2023/12/19,Sunday,Evening (6PM-12AM),Engineering,2023/03/10,Asia,Internship,SQL,Individual,2023/06/16,assistant data,2023/12/25,job search
+promotional event data,North America,Canada,Small Business,2023/11/10,Saturday,Morning (6AM-12PM),Marketing,2023/01/08,Europe,Internship,Java,Academic,2023/05/23,assistant data,2024/02/05,category query
+assistant data,South America,Chile,Academic,2023/02/15,Sunday,Morning (6AM-12PM),Engineering,2024/07/23,South America,Internship,Excel,Academic,2023/09/22,promotional event data,2023/06/19,region search
+demographic data,Europe,France,Startup,2023/07/04,Monday,Morning (6AM-12PM),Design,2024/11/12,Australia,Internship,C++,Enterprise,2024/11/27,job posting data,2023/01/12,category query
+job posting data,South America,Chile,Academic,2023/05/19,Tuesday,Night (12AM-6AM),Product Management,2024/03/27,Asia,Part-Time,Java,Academic,2023/02/01,job posting data,2023/05/14,job search
+job posting data,Africa,Kenya,Individual,2023/05/08,Monday,Morning (6AM-12PM),Design,2024/02/18,Africa,Full-Time,Excel,Academic,2024/09/07,assistant data,2024/09/26,category query
+job posting data,Africa,South Africa,Small Business,2024/06/07,Friday,Evening (6PM-12AM),Marketing,2024/12/26,Asia,Internship,C++,Academic,2023/08/21,promotional event data,2023/11/20,region search
+user data,Europe,Germany,Enterprise,2023/12/03,Monday,Morning (6AM-12PM),Customer Support,2024/12/05,Australia,Full-Time,C++,Individual,2023/07/06,promotional event data,2024/11/11,region search
+assistant data,Africa,Kenya,Individual,2023/11/07,Tuesday,Morning (6AM-12PM),Engineering,2023/05/11,North America,Full-Time,Python,Academic,2024/03/22,assistant data,2023/02/14,category query
+promotional event data,South America,Brazil,Enterprise,2024/10/02,Friday,Night (12AM-6AM),Engineering,2024/06/04,Europe,Contract,C++,Individual,2024/04/27,assistant data,2023/11/12,region search
+job posting data,North America,USA,Startup,2023/08/21,Tuesday,Afternoon (12PM-6PM),Product Management,2024/11/03,Africa,Contract,JavaScript,Enterprise,2024/11/10,assistant data,2023/11/07,category query
+job posting data,Australia,Australia,Individual,2023/05/31,Thursday,Morning (6AM-12PM),Sales,2023/03/14,Asia,Contract,Java,Academic,2024/11/05,job posting data,2023/10/02,category query
+user data,Africa,South Africa,Academic,2024/12/18,Friday,Night (12AM-6AM),Engineering,2023/11/28,Asia,Contract,Excel,Individual,2024/04/22,promotional event data,2024/02/27,job search
+job posting data,North America,Mexico,Individual,2023/05/26,Monday,Evening (6PM-12AM),Design,2024/08/05,Europe,Contract,Java,Academic,2023/02/23,job posting data,2023/08/19,job search
+job posting data,Europe,UK,Individual,2024/03/09,Monday,Night (12AM-6AM),Marketing,2023/11/17,Africa,Internship,SQL,Academic,2024/08/18,job posting data,2023/06/22,region search
+demographic data,Africa,Kenya,Academic,2023/12/25,Saturday,Afternoon (12PM-6PM),Design,2023/05/26,South America,Internship,C++,Enterprise,2023/07/19,assistant data,2023/05/07,job search
+job posting data,South America,Argentina,Academic,2023/09/14,Tuesday,Afternoon (12PM-6PM),Marketing,2023/07/14,Australia,Contract,SQL,Individual,2024/03/28,job posting data,2023/03/08,region search
+assistant data,Africa,Nigeria,Academic,2024/07/29,Friday,Afternoon (12PM-6PM),Sales,2024/05/25,Europe,Full-Time,JavaScript,Enterprise,2024/01/06,job posting data,2024/12/22,category query
+demographic data,Australia,Australia,Enterprise,2024/02/28,Saturday,Afternoon (12PM-6PM),Marketing,2023/06/07,Africa,Internship,JavaScript,Individual,2023/12/24,assistant data,2023/01/28,region search
+promotional event data,Africa,Nigeria,Academic,2024/06/12,Tuesday,Morning (6AM-12PM),Design,2023/10/12,Europe,Full-Time,SQL,Individual,2023/11/17,promotional event data,2024/06/25,job search
+job posting data,Asia,Japan,Individual,2024/07/24,Thursday,Morning (6AM-12PM),Marketing,2023/02/13,Europe,Part-Time,SQL,Enterprise,2024/03/07,job posting data,2023/11/21,category query
+user data,Asia,India,Small Business,2024/07/21,Tuesday,Morning (6AM-12PM),Customer Support,2024/10/08,South America,Contract,JavaScript,Small Business,2023/12/11,promotional event data,2024/03/07,job search
+user data,South America,Chile,Academic,2023/09/12,Wednesday,Evening (6PM-12AM),Engineering,2023/09/10,Europe,Internship,Java,Academic,2023/05/31,assistant data,2023/05/15,region search
+promotional event data,Asia,India,Startup,2024/10/30,Saturday,Afternoon (12PM-6PM),Design,2024/12/15,North America,Part-Time,Excel,Individual,2023/02/25,promotional event data,2024/11/07,job search
+assistant data,North America,Mexico,Startup,2023/02/17,Friday,Evening (6PM-12AM),Sales,2024/08/21,Australia,Internship,SQL,Individual,2024/03/10,job posting data,2023/04/01,job search
+user data,Australia,Australia,Small Business,2024/10/05,Tuesday,Morning (6AM-12PM),Customer Support,2024/11/05,South America,Internship,Python,Enterprise,2023/05/03,assistant data,2023/12/02,job search
+job type data,Europe,France,Individual,2024/10/18,Thursday,Morning (6AM-12PM),Product Management,2023/12/06,Africa,Internship,Python,Enterprise,2023/01/04,assistant data,2024/02/06,category query
+demographic data,Africa,South Africa,Startup,2024/02/05,Thursday,Afternoon (12PM-6PM),Product Management,2023/05/24,Europe,Full-Time,Python,Academic,2024/12/18,job posting data,2023/11/02,category query
+job posting data,Australia,Australia,Individual,2023/04/09,Monday,Night (12AM-6AM),Engineering,2024/03/07,Europe,Contract,SQL,Individual,2024/09/17,promotional event data,2023/05/10,job search
+assistant data,Australia,Australia,Individual,2024/02/08,Wednesday,Evening (6PM-12AM),Design,2023/09/11,Africa,Contract,Python,Enterprise,2023/02/01,job posting data,2024/03/11,job search
+promotional event data,Australia,Australia,Small Business,2023/04/14,Wednesday,Afternoon (12PM-6PM),Sales,2023/03/04,North America,Part-Time,JavaScript,Small Business,2024/01/17,job posting data,2024/08/23,category query
+job posting data,South America,Argentina,Individual,2023/01/25,Wednesday,Night (12AM-6AM),Marketing,2024/04/11,South America,Internship,Java,Individual,2024/01/16,promotional event data,2023/07/28,job search
+demographic data,Europe,UK,Individual,2024/12/24,Wednesday,Morning (6AM-12PM),Sales,2023/06/22,Europe,Part-Time,SQL,Small Business,2023/01/30,assistant data,2023/03/11,region search
+job posting data,South America,Chile,Individual,2024/07/02,Saturday,Evening (6PM-12AM),Customer Support,2023/09/25,Australia,Part-Time,JavaScript,Small Business,2024/09/27,promotional event data,2024/11/20,region search
+assistant data,South America,Brazil,Enterprise,2024/11/11,Wednesday,Evening (6PM-12AM),Marketing,2024/06/09,North America,Internship,JavaScript,Academic,2023/10/14,job posting data,2024/12/26,region search
+user data,Europe,UK,Academic,2024/04/08,Tuesday,Night (12AM-6AM),Product Management,2024/03/10,Africa,Contract,C++,Academic,2023/07/19,job posting data,2024/03/17,region search
+demographic data,Europe,France,Academic,2024/04/15,Saturday,Afternoon (12PM-6PM),Customer Support,2023/06/22,Asia,Contract,Java,Individual,2023/10/09,promotional event data,2023/08/02,region search
+job posting data,Europe,UK,Academic,2023/12/05,Thursday,Afternoon (12PM-6PM),Engineering,2024/07/12,South America,Contract,C++,Individual,2023/07/19,job posting data,2023/10/28,region search
+user data,North America,Mexico,Academic,2024/09/20,Monday,Night (12AM-6AM),Marketing,2024/01/27,Asia,Full-Time,Python,Individual,2023/03/05,promotional event data,2024/09/14,category query
+demographic data,South America,Brazil,Small Business,2023/04/26,Monday,Morning (6AM-12PM),Product Management,2024/06/11,Australia,Part-Time,Python,Individual,2023/06/20,promotional event data,2023/03/30,category query
+promotional event data,Australia,Australia,Small Business,2023/06/10,Monday,Morning (6AM-12PM),Product Management,2024/10/24,Europe,Contract,Excel,Academic,2024/05/10,job posting data,2023/07/28,region search
+demographic data,North America,Mexico,Startup,2023/07/14,Tuesday,Night (12AM-6AM),Marketing,2023/07/17,Asia,Internship,SQL,Individual,2024/11/14,promotional event data,2024/05/15,job search
+promotional event data,Europe,UK,Enterprise,2023/11/20,Monday,Night (12AM-6AM),Marketing,2023/09/28,Asia,Full-Time,Python,Academic,2024/04/15,promotional event data,2024/10/14,category query
+job type data,Australia,Australia,Startup,2023/05/25,Monday,Evening (6PM-12AM),Customer Support,2024/01/28,Europe,Full-Time,Python,Individual,2023/11/18,assistant data,2024/01/30,category query
+demographic data,Asia,China,Individual,2024/03/14,Friday,Night (12AM-6AM),Sales,2023/07/01,North America,Internship,JavaScript,Small Business,2024/05/04,job posting data,2023/09/15,job search
+job type data,Europe,Germany,Academic,2023/02/24,Wednesday,Morning (6AM-12PM),Customer Support,2023/11/06,Europe,Full-Time,JavaScript,Small Business,2023/03/01,job posting data,2024/09/04,job search
+job type data,Africa,Nigeria,Startup,2024/01/24,Saturday,Afternoon (12PM-6PM),Product Management,2024/09/09,Australia,Internship,C++,Individual,2024/09/08,job posting data,2023/05/05,job search
+demographic data,North America,Canada,Individual,2024/11/08,Sunday,Afternoon (12PM-6PM),Sales,2023/07/10,Australia,Internship,Java,Academic,2024/07/03,assistant data,2024/09/13,category query
+assistant data,South America,Chile,Enterprise,2024/03/30,Thursday,Evening (6PM-12AM),Product Management,2023/09/29,Africa,Contract,C++,Individual,2024/12/05,assistant data,2024/01/09,job search
+user data,South America,Brazil,Academic,2023/09/15,Tuesday,Evening (6PM-12AM),Product Management,2024/05/25,Australia,Contract,Java,Individual,2023/07/23,assistant data,2024/06/05,job search
+assistant data,Asia,Japan,Academic,2023/12/29,Saturday,Night (12AM-6AM),Design,2023/10/10,Australia,Part-Time,Excel,Individual,2023/04/14,job posting data,2023/05/26,region search
+demographic data,North America,Canada,Academic,2024/11/01,Friday,Afternoon (12PM-6PM),Sales,2023/11/28,South America,Part-Time,JavaScript,Academic,2023/10/20,job posting data,2023/10/04,region search
+user data,South America,Chile,Individual,2023/01/28,Friday,Afternoon (12PM-6PM),Sales,2023/09/10,Europe,Internship,JavaScript,Enterprise,2023/02/16,promotional event data,2024/10/28,job search
+job type data,Asia,India,Individual,2023/06/27,Thursday,Evening (6PM-12AM),Customer Support,2023/11/05,Africa,Part-Time,Python,Enterprise,2023/05/09,job posting data,2024/08/20,category query
+promotional event data,Europe,UK,Individual,2024/04/21,Tuesday,Night (12AM-6AM),Sales,2023/12/11,South America,Internship,C++,Academic,2024/08/25,assistant data,2024/07/16,job search
+job posting data,Asia,China,Enterprise,2024/08/11,Monday,Night (12AM-6AM),Engineering,2024/12/19,Australia,Part-Time,JavaScript,Enterprise,2024/12/30,job posting data,2023/12/12,region search
+assistant data,Africa,Kenya,Enterprise,2023/02/14,Sunday,Afternoon (12PM-6PM),Sales,2023/06/17,South America,Internship,SQL,Small Business,2023/03/17,assistant data,2023/08/09,region search
+promotional event data,North America,USA,Academic,2023/10/07,Tuesday,Night (12AM-6AM),Sales,2023/11/02,North America,Part-Time,Java,Small Business,2023/01/11,promotional event data,2024/04/18,region search
+demographic data,Asia,India,Enterprise,2024/09/18,Friday,Morning (6AM-12PM),Design,2023/12/26,Asia,Internship,C++,Individual,2024/05/14,assistant data,2023/01/28,job search
+user data,Asia,Japan,Academic,2023/08/04,Thursday,Night (12AM-6AM),Sales,2024/07/03,Australia,Part-Time,C++,Academic,2023/11/22,job posting data,2023/05/13,category query
+promotional event data,North America,Mexico,Individual,2023/01/26,Thursday,Morning (6AM-12PM),Marketing,2023/01/15,Australia,Full-Time,JavaScript,Academic,2023/02/27,promotional event data,2024/09/24,region search
+job posting data,Europe,UK,Academic,2024/01/22,Monday,Night (12AM-6AM),Design,2023/05/04,North America,Internship,Excel,Academic,2024/04/24,promotional event data,2024/05/15,job search
+user data,Africa,South Africa,Small Business,2024/09/05,Friday,Afternoon (12PM-6PM),Design,2023/01/04,Europe,Internship,Python,Enterprise,2024/04/25,job posting data,2024/05/06,job search
+job type data,South America,Brazil,Startup,2024/02/19,Wednesday,Afternoon (12PM-6PM),Sales,2023/08/07,North America,Full-Time,C++,Academic,2023/11/19,job posting data,2023/11/02,region search
+job posting data,South America,Brazil,Enterprise,2024/01/22,Sunday,Morning (6AM-12PM),Marketing,2024/03/05,South America,Contract,JavaScript,Individual,2024/05/05,assistant data,2023/10/09,category query
+demographic data,Africa,Kenya,Academic,2023/05/14,Tuesday,Morning (6AM-12PM),Product Management,2024/06/05,Australia,Internship,C++,Individual,2024/04/05,assistant data,2023/09/03,job search
+promotional event data,South America,Brazil,Enterprise,2024/03/07,Sunday,Afternoon (12PM-6PM),Design,2023/09/22,Africa,Contract,Excel,Enterprise,2024/04/02,assistant data,2024/01/21,region search
+user data,Europe,France,Startup,2023/09/16,Tuesday,Night (12AM-6AM),Product Management,2023/07/26,Europe,Contract,Python,Academic,2024/11/26,assistant data,2024/08/17,job search
+demographic data,Africa,South Africa,Academic,2024/09/25,Wednesday,Evening (6PM-12AM),Customer Support,2023/05/27,Asia,Contract,JavaScript,Academic,2024/10/18,promotional event data,2024/06/06,category query
+demographic data,South America,Chile,Individual,2024/12/01,Friday,Afternoon (12PM-6PM),Customer Support,2024/12/14,South America,Full-Time,C++,Individual,2023/09/06,job posting data,2024/11/09,region search
+user data,North America,Canada,Startup,2024/10/19,Tuesday,Evening (6PM-12AM),Product Management,2024/09/19,Asia,Part-Time,JavaScript,Small Business,2023/12/21,job posting data,2023/05/14,job search
+promotional event data,Asia,China,Enterprise,2023/03/16,Friday,Afternoon (12PM-6PM),Product Management,2024/06/08,North America,Part-Time,C++,Individual,2024/08/27,job posting data,2023/05/24,job search
+promotional event data,Australia,Australia,Enterprise,2024/02/14,Sunday,Night (12AM-6AM),Design,2024/12/05,Australia,Full-Time,Java,Enterprise,2024/07/03,assistant data,2023/11/18,category query
+user data,Asia,India,Startup,2024/08/27,Friday,Night (12AM-6AM),Engineering,2023/09/17,Europe,Contract,C++,Enterprise,2023/01/12,promotional event data,2024/02/22,region search
+job posting data,Asia,India,Small Business,2023/09/11,Sunday,Afternoon (12PM-6PM),Engineering,2023/09/09,South America,Part-Time,Python,Enterprise,2023/02/26,assistant data,2023/12/20,category query
+assistant data,North America,USA,Individual,2023/10/01,Sunday,Night (12AM-6AM),Marketing,2023/01/04,Africa,Internship,Python,Small Business,2024/03/13,assistant data,2023/02/27,region search
+job posting data,North America,Mexico,Small Business,2024/01/09,Monday,Night (12AM-6AM),Engineering,2024/08/16,Europe,Part-Time,Python,Academic,2024/06/25,job posting data,2024/02/27,job search
+job type data,Africa,Kenya,Individual,2024/07/26,Friday,Evening (6PM-12AM),Product Management,2024/07/29,Australia,Part-Time,Excel,Academic,2023/12/24,promotional event data,2023/03/12,region search
+user data,Australia,Australia,Small Business,2024/05/26,Monday,Morning (6AM-12PM),Product Management,2023/10/10,Africa,Full-Time,SQL,Small Business,2024/08/13,promotional event data,2024/02/14,job search
+job posting data,South America,Chile,Small Business,2023/09/25,Thursday,Morning (6AM-12PM),Product Management,2023/10/01,Europe,Contract,JavaScript,Academic,2023/06/03,promotional event data,2023/06/23,region search
+assistant data,South America,Brazil,Enterprise,2023/03/28,Monday,Evening (6PM-12AM),Product Management,2024/08/10,North America,Internship,C++,Individual,2024/09/11,assistant data,2023/02/21,job search
+user data,Asia,India,Individual,2024/02/26,Tuesday,Evening (6PM-12AM),Customer Support,2023/10/25,Asia,Internship,JavaScript,Individual,2024/09/09,assistant data,2024/11/26,category query
+promotional event data,North America,Canada,Startup,2024/01/29,Sunday,Evening (6PM-12AM),Product Management,2024/01/10,North America,Full-Time,C++,Small Business,2024/04/03,promotional event data,2024/09/23,region search
+job type data,Asia,China,Enterprise,2023/02/21,Thursday,Afternoon (12PM-6PM),Design,2024/07/31,Australia,Full-Time,C++,Small Business,2024/06/16,assistant data,2023/05/04,region search
+promotional event data,South America,Brazil,Startup,2024/06/29,Sunday,Morning (6AM-12PM),Marketing,2023/06/17,Asia,Full-Time,SQL,Academic,2024/11/15,job posting data,2023/12/12,job search
+job posting data,South America,Argentina,Startup,2024/07/21,Thursday,Afternoon (12PM-6PM),Customer Support,2023/08/28,Asia,Part-Time,C++,Individual,2023/08/04,job posting data,2024/04/12,job search
+demographic data,North America,USA,Startup,2023/06/07,Thursday,Night (12AM-6AM),Sales,2023/07/12,South America,Internship,SQL,Small Business,2024/10/16,promotional event data,2024/07/27,job search
+demographic data,South America,Brazil,Enterprise,2024/02/10,Friday,Morning (6AM-12PM),Product Management,2024/02/16,Europe,Full-Time,SQL,Academic,2024/11/01,promotional event data,2023/05/02,category query
+demographic data,Asia,India,Academic,2024/03/21,Saturday,Evening (6PM-12AM),Sales,2023/06/25,North America,Part-Time,Python,Small Business,2023/10/29,assistant data,2023/01/11,category query
+assistant data,North America,Canada,Academic,2023/07/04,Thursday,Evening (6PM-12AM),Engineering,2023/10/01,Africa,Contract,Excel,Individual,2023/03/14,assistant data,2024/04/27,region search
+job type data,Africa,Kenya,Academic,2023/05/11,Friday,Night (12AM-6AM),Customer Support,2023/10/21,Asia,Contract,Excel,Enterprise,2023/10/02,job posting data,2023/06/08,category query
+user data,Europe,UK,Individual,2023/11/07,Wednesday,Afternoon (12PM-6PM),Marketing,2024/06/29,South America,Internship,C++,Enterprise,2024/09/29,job posting data,2024/03/27,job search
+promotional event data,Europe,Germany,Individual,2023/05/07,Thursday,Morning (6AM-12PM),Design,2024/04/24,South America,Contract,C++,Academic,2023/04/20,job posting data,2023/11/02,region search
+demographic data,Europe,Germany,Academic,2024/07/02,Sunday,Night (12AM-6AM),Engineering,2023/03/17,Europe,Contract,JavaScript,Enterprise,2023/06/12,assistant data,2024/01/16,job search
+user data,South America,Chile,Enterprise,2023/08/22,Saturday,Morning (6AM-12PM),Sales,2024/01/17,Europe,Full-Time,Excel,Individual,2023/09/19,job posting data,2023/04/16,category query
+demographic data,North America,Mexico,Enterprise,2023/10/16,Wednesday,Evening (6PM-12AM),Customer Support,2024/09/17,South America,Internship,Python,Academic,2023/02/28,assistant data,2023/10/17,category query
+promotional event data,South America,Brazil,Academic,2023/11/05,Thursday,Morning (6AM-12PM),Customer Support,2024/09/05,Australia,Contract,Java,Individual,2024/03/24,job posting data,2023/10/07,category query
+assistant data,Asia,China,Academic,2024/09/15,Saturday,Night (12AM-6AM),Sales,2023/06/17,Africa,Full-Time,JavaScript,Enterprise,2023/09/01,promotional event data,2023/06/30,job search
+job type data,Australia,Australia,Enterprise,2024/09/27,Saturday,Evening (6PM-12AM),Design,2024/10/22,Asia,Part-Time,Java,Individual,2023/01/03,promotional event data,2024/06/14,region search
+job type data,South America,Chile,Enterprise,2024/11/30,Saturday,Morning (6AM-12PM),Product Management,2024/12/09,North America,Contract,JavaScript,Small Business,2024/03/03,assistant data,2024/06/12,job search
+demographic data,Africa,Kenya,Individual,2023/02/27,Tuesday,Evening (6PM-12AM),Design,2023/07/22,South America,Contract,Java,Enterprise,2024/07/04,job posting data,2024/10/25,job search
+job posting data,Africa,South Africa,Startup,2024/01/25,Sunday,Morning (6AM-12PM),Customer Support,2024/11/01,Australia,Part-Time,SQL,Small Business,2024/11/26,assistant data,2023/05/02,region search
+user data,North America,Canada,Individual,2023/10/25,Tuesday,Night (12AM-6AM),Marketing,2024/04/22,Asia,Contract,Java,Small Business,2023/05/06,promotional event data,2024/02/17,job search
+demographic data,North America,Mexico,Startup,2024/03/29,Thursday,Night (12AM-6AM),Product Management,2024/11/18,North America,Part-Time,Excel,Individual,2024/09/24,assistant data,2024/05/23,category query
+job posting data,Australia,Australia,Individual,2024/12/02,Thursday,Night (12AM-6AM),Customer Support,2024/06/12,Africa,Internship,SQL,Academic,2023/08/29,assistant data,2023/06/24,category query
+promotional event data,North America,USA,Academic,2024/08/31,Thursday,Morning (6AM-12PM),Engineering,2024/12/10,North America,Internship,Python,Small Business,2024/03/08,promotional event data,2024/10/19,region search
+job posting data,Africa,South Africa,Startup,2024/12/04,Monday,Evening (6PM-12AM),Sales,2023/12/11,North America,Full-Time,Java,Academic,2023/06/24,promotional event data,2024/11/20,region search
+job type data,Asia,China,Small Business,2024/03/20,Monday,Morning (6AM-12PM),Marketing,2023/02/21,Asia,Contract,C++,Enterprise,2024/08/04,job posting data,2023/06/07,region search
+job posting data,South America,Chile,Individual,2023/06/07,Tuesday,Afternoon (12PM-6PM),Marketing,2023/10/05,Asia,Contract,Python,Small Business,2023/07/23,assistant data,2024/07/16,category query
+assistant data,Asia,India,Academic,2023/07/04,Thursday,Morning (6AM-12PM),Sales,2023/06/22,Africa,Contract,Java,Enterprise,2023/02/23,assistant data,2023/12/22,job search
+demographic data,Australia,Australia,Enterprise,2023/08/30,Saturday,Afternoon (12PM-6PM),Engineering,2023/01/24,South America,Part-Time,Excel,Enterprise,2024/04/10,assistant data,2024/07/04,job search
+job posting data,South America,Brazil,Individual,2024/10/04,Sunday,Night (12AM-6AM),Product Management,2024/07/04,Africa,Part-Time,SQL,Individual,2023/11/12,promotional event data,2024/01/22,job search
+user data,Asia,India,Academic,2024/01/29,Monday,Afternoon (12PM-6PM),Marketing,2023/08/02,Australia,Full-Time,Python,Enterprise,2023/10/08,promotional event data,2024/09/18,category query
+user data,North America,USA,Individual,2024/03/04,Saturday,Afternoon (12PM-6PM),Engineering,2024/08/31,Australia,Contract,Java,Academic,2024/05/20,promotional event data,2023/12/22,category query
+assistant data,Australia,Australia,Enterprise,2024/03/06,Wednesday,Afternoon (12PM-6PM),Engineering,2023/01/22,Australia,Internship,C++,Enterprise,2023/12/08,promotional event data,2024/12/25,region search
+demographic data,Australia,Australia,Academic,2024/03/20,Sunday,Night (12AM-6AM),Customer Support,2024/04/10,Europe,Contract,JavaScript,Academic,2023/08/19,promotional event data,2024/05/25,category query
+assistant data,Australia,Australia,Academic,2023/11/11,Friday,Evening (6PM-12AM),Product Management,2023/03/17,Europe,Full-Time,SQL,Individual,2023/01/11,assistant data,2023/06/23,region search
+job posting data,Asia,India,Startup,2023/03/01,Thursday,Evening (6PM-12AM),Product Management,2024/05/05,North America,Full-Time,Java,Individual,2024/04/10,promotional event data,2023/12/10,category query
+demographic data,North America,Mexico,Enterprise,2023/03/31,Friday,Morning (6AM-12PM),Product Management,2024/04/05,Australia,Internship,C++,Small Business,2023/09/30,assistant data,2023/06/22,category query
+user data,Europe,France,Enterprise,2024/01/08,Friday,Morning (6AM-12PM),Sales,2023/05/07,South America,Internship,Python,Enterprise,2024/07/08,promotional event data,2023/03/13,job search
+user data,Europe,UK,Academic,2024/01/24,Monday,Afternoon (12PM-6PM),Marketing,2024/02/02,Europe,Internship,JavaScript,Enterprise,2023/04/19,assistant data,2023/07/14,category query
+promotional event data,Europe,France,Individual,2024/08/27,Tuesday,Afternoon (12PM-6PM),Sales,2023/03/14,Africa,Part-Time,C++,Individual,2023/01/21,job posting data,2024/09/18,region search
+assistant data,Asia,China,Individual,2023/12/20,Saturday,Morning (6AM-12PM),Design,2024/01/15,South America,Full-Time,C++,Small Business,2023/01/19,promotional event data,2024/11/13,job search
+job type data,Europe,Germany,Enterprise,2024/05/22,Monday,Morning (6AM-12PM),Engineering,2024/03/14,South America,Contract,Java,Enterprise,2023/03/05,job posting data,2024/10/24,job search
+promotional event data,Asia,India,Startup,2023/12/16,Thursday,Afternoon (12PM-6PM),Design,2023/03/30,North America,Contract,Excel,Individual,2023/10/31,job posting data,2024/09/14,region search
+assistant data,Asia,Japan,Enterprise,2024/03/21,Friday,Morning (6AM-12PM),Design,2023/12/09,Europe,Internship,C++,Academic,2023/12/21,job posting data,2023/06/05,region search
+job type data,Africa,South Africa,Academic,2023/05/12,Thursday,Night (12AM-6AM),Sales,2023/12/28,Africa,Full-Time,SQL,Small Business,2024/02/03,promotional event data,2024/10/28,category query
+assistant data,Australia,Australia,Small Business,2024/11/20,Monday,Afternoon (12PM-6PM),Design,2024/02/06,Australia,Part-Time,C++,Small Business,2023/09/29,promotional event data,2024/12/04,category query
+assistant data,Europe,France,Enterprise,2024/07/04,Sunday,Evening (6PM-12AM),Engineering,2023/02/05,Europe,Internship,C++,Small Business,2024/11/25,assistant data,2023/07/20,region search
+user data,South America,Chile,Enterprise,2023/07/23,Monday,Night (12AM-6AM),Product Management,2023/04/22,Africa,Contract,Java,Small Business,2023/02/17,job posting data,2023/02/06,region search
+demographic data,North America,Mexico,Small Business,2024/08/25,Saturday,Morning (6AM-12PM),Customer Support,2023/05/07,North America,Part-Time,Excel,Academic,2024/09/21,job posting data,2024/09/17,region search
+user data,North America,Mexico,Individual,2024/03/29,Wednesday,Evening (6PM-12AM),Design,2024/07/11,North America,Full-Time,Python,Academic,2023/09/09,promotional event data,2023/07/10,category query
+job posting data,Asia,India,Individual,2024/12/23,Wednesday,Night (12AM-6AM),Customer Support,2023/03/07,Europe,Part-Time,Excel,Individual,2024/09/04,job posting data,2023/05/14,category query
+job posting data,South America,Chile,Startup,2023/08/06,Tuesday,Morning (6AM-12PM),Design,2023/08/30,South America,Contract,SQL,Academic,2023/03/27,promotional event data,2024/08/21,region search
+assistant data,North America,Mexico,Small Business,2024/02/07,Monday,Night (12AM-6AM),Design,2023/09/21,Africa,Internship,JavaScript,Small Business,2023/02/12,job posting data,2024/12/14,category query
+user data,Africa,South Africa,Small Business,2024/07/12,Monday,Night (12AM-6AM),Sales,2024/03/26,Australia,Internship,Excel,Small Business,2024/07/30,job posting data,2024/08/01,job search
+demographic data,Europe,Germany,Enterprise,2024/02/04,Monday,Night (12AM-6AM),Product Management,2023/12/11,Europe,Full-Time,JavaScript,Enterprise,2023/10/29,job posting data,2024/05/18,category query
+demographic data,Africa,South Africa,Academic,2024/04/12,Thursday,Evening (6PM-12AM),Customer Support,2024/09/06,Australia,Part-Time,JavaScript,Individual,2024/07/06,promotional event data,2024/06/06,category query
+job type data,Asia,China,Small Business,2024/09/20,Saturday,Night (12AM-6AM),Engineering,2023/12/14,Australia,Part-Time,C++,Individual,2024/05/25,promotional event data,2024/02/29,job search
+promotional event data,Australia,Australia,Small Business,2024/05/28,Saturday,Night (12AM-6AM),Engineering,2023/10/13,Europe,Full-Time,SQL,Enterprise,2023/06/15,job posting data,2024/10/18,category query
+job type data,Asia,India,Enterprise,2023/08/14,Tuesday,Night (12AM-6AM),Customer Support,2024/03/06,Asia,Internship,SQL,Enterprise,2023/07/13,job posting data,2024/02/04,job search
+user data,Africa,Nigeria,Startup,2023/02/18,Tuesday,Afternoon (12PM-6PM),Sales,2024/04/20,South America,Full-Time,Python,Enterprise,2024/12/14,promotional event data,2023/07/06,category query
+job type data,Asia,India,Academic,2023/03/31,Saturday,Night (12AM-6AM),Customer Support,2024/09/24,Australia,Contract,Java,Academic,2024/01/06,assistant data,2024/05/10,category query
+demographic data,Australia,Australia,Startup,2023/08/17,Sunday,Evening (6PM-12AM),Product Management,2024/06/26,Australia,Part-Time,Excel,Small Business,2023/11/04,job posting data,2023/08/12,category query
+demographic data,South America,Brazil,Small Business,2023/07/26,Tuesday,Night (12AM-6AM),Sales,2024/08/29,Africa,Part-Time,JavaScript,Academic,2023/10/07,promotional event data,2024/09/07,category query
+job type data,Asia,Japan,Enterprise,2023/11/29,Wednesday,Morning (6AM-12PM),Sales,2024/05/25,Europe,Full-Time,JavaScript,Enterprise,2024/11/16,promotional event data,2023/12/04,region search
+demographic data,Australia,Australia,Academic,2024/02/08,Saturday,Afternoon (12PM-6PM),Marketing,2023/01/03,South America,Part-Time,SQL,Small Business,2024/02/16,job posting data,2024/12/18,region search
+assistant data,North America,Canada,Startup,2023/06/01,Tuesday,Evening (6PM-12AM),Customer Support,2023/04/17,Africa,Full-Time,Java,Individual,2024/06/11,assistant data,2024/03/27,job search
+demographic data,South America,Argentina,Individual,2024/07/15,Friday,Afternoon (12PM-6PM),Customer Support,2024/01/23,Europe,Part-Time,JavaScript,Enterprise,2024/01/12,job posting data,2023/01/26,job search
+demographic data,Asia,Japan,Startup,2023/11/14,Tuesday,Evening (6PM-12AM),Sales,2024/05/19,Europe,Internship,Python,Academic,2024/05/11,promotional event data,2024/07/31,region search
+promotional event data,Australia,Australia,Startup,2024/09/26,Friday,Afternoon (12PM-6PM),Marketing,2024/06/15,South America,Full-Time,C++,Academic,2023/10/16,job posting data,2024/10/18,category query
+job type data,Africa,Nigeria,Small Business,2023/12/07,Friday,Morning (6AM-12PM),Sales,2024/06/19,Australia,Internship,Python,Individual,2023/09/08,assistant data,2024/04/25,region search
+promotional event data,Africa,Kenya,Enterprise,2023/07/15,Friday,Morning (6AM-12PM),Marketing,2024/11/02,Europe,Part-Time,Python,Individual,2024/05/05,job posting data,2024/09/24,job search
+job posting data,Europe,France,Academic,2023/11/05,Wednesday,Morning (6AM-12PM),Design,2023/06/12,South America,Part-Time,Excel,Individual,2023/03/27,assistant data,2023/05/02,category query
+demographic data,South America,Chile,Enterprise,2024/01/04,Friday,Morning (6AM-12PM),Customer Support,2023/01/11,Europe,Full-Time,JavaScript,Enterprise,2023/08/25,job posting data,2023/03/02,category query
+assistant data,Europe,UK,Individual,2024/05/22,Thursday,Morning (6AM-12PM),Marketing,2024/08/20,Africa,Contract,Java,Enterprise,2023/07/29,promotional event data,2023/12/18,job search
+assistant data,North America,Mexico,Individual,2023/08/16,Sunday,Morning (6AM-12PM),Engineering,2023/10/28,Asia,Internship,Java,Enterprise,2023/12/24,assistant data,2023/10/03,region search
+demographic data,North America,USA,Startup,2024/05/27,Tuesday,Evening (6PM-12AM),Design,2024/04/13,Africa,Part-Time,C++,Enterprise,2023/02/27,promotional event data,2024/03/27,job search
+promotional event data,North America,Canada,Startup,2024/11/22,Monday,Evening (6PM-12AM),Marketing,2024/02/01,South America,Internship,SQL,Individual,2023/07/21,promotional event data,2023/04/18,job search
+demographic data,Asia,India,Small Business,2024/09/17,Thursday,Afternoon (12PM-6PM),Customer Support,2023/05/19,South America,Internship,Python,Small Business,2023/09/09,promotional event data,2023/08/19,region search
+job posting data,Africa,Kenya,Individual,2024/04/12,Thursday,Evening (6PM-12AM),Engineering,2024/10/19,North America,Contract,JavaScript,Small Business,2023/12/02,job posting data,2024/07/17,region search
+demographic data,North America,Canada,Academic,2023/02/27,Friday,Night (12AM-6AM),Sales,2023/04/07,Australia,Internship,Excel,Small Business,2023/08/07,promotional event data,2024/12/27,job search
+user data,South America,Chile,Small Business,2023/04/22,Monday,Night (12AM-6AM),Engineering,2023/06/06,Europe,Contract,C++,Enterprise,2023/09/16,assistant data,2024/04/03,job search
+job posting data,Europe,France,Small Business,2024/12/26,Sunday,Morning (6AM-12PM),Sales,2023/06/05,Europe,Part-Time,C++,Enterprise,2023/08/06,assistant data,2024/03/20,region search
+job type data,Australia,Australia,Individual,2024/03/30,Friday,Afternoon (12PM-6PM),Customer Support,2024/11/26,South America,Full-Time,SQL,Enterprise,2024/07/19,assistant data,2024/06/13,job search
+job type data,North America,Mexico,Academic,2024/07/16,Wednesday,Evening (6PM-12AM),Design,2024/11/02,South America,Internship,JavaScript,Small Business,2024/04/26,assistant data,2023/02/25,category query
+demographic data,North America,Mexico,Individual,2024/01/10,Thursday,Afternoon (12PM-6PM),Marketing,2023/01/27,Australia,Contract,JavaScript,Individual,2023/05/15,promotional event data,2024/07/26,category query
+job type data,Europe,Germany,Small Business,2024/04/20,Wednesday,Morning (6AM-12PM),Engineering,2024/04/12,Australia,Full-Time,SQL,Enterprise,2024/11/04,assistant data,2023/02/09,job search
+job type data,Europe,UK,Academic,2023/02/16,Thursday,Night (12AM-6AM),Engineering,2024/03/12,Asia,Full-Time,Java,Individual,2023/01/10,job posting data,2024/08/28,region search
+user data,South America,Chile,Individual,2023/08/13,Tuesday,Afternoon (12PM-6PM),Design,2024/09/03,Europe,Full-Time,Java,Small Business,2024/07/27,job posting data,2023/08/23,job search
+promotional event data,Europe,UK,Academic,2024/08/27,Thursday,Evening (6PM-12AM),Product Management,2023/08/08,Australia,Internship,SQL,Individual,2023/05/24,job posting data,2023/04/10,region search
+demographic data,Australia,Australia,Enterprise,2023/01/21,Tuesday,Morning (6AM-12PM),Product Management,2023/01/10,Asia,Full-Time,C++,Small Business,2024/06/24,assistant data,2023/06/04,category query
+promotional event data,South America,Brazil,Enterprise,2023/10/04,Tuesday,Afternoon (12PM-6PM),Customer Support,2023/07/05,Australia,Internship,JavaScript,Small Business,2023/07/25,assistant data,2024/02/08,region search
+promotional event data,South America,Brazil,Startup,2023/03/21,Sunday,Morning (6AM-12PM),Marketing,2023/06/07,Africa,Part-Time,Excel,Individual,2024/03/15,assistant data,2023/06/05,region search
+job posting data,South America,Brazil,Startup,2023/02/01,Tuesday,Afternoon (12PM-6PM),Sales,2024/01/22,Australia,Full-Time,Java,Individual,2024/11/04,assistant data,2024/01/15,job search
+promotional event data,South America,Chile,Individual,2024/10/29,Tuesday,Morning (6AM-12PM),Marketing,2023/06/15,South America,Internship,Python,Academic,2023/11/11,job posting data,2024/04/01,category query
+assistant data,North America,USA,Individual,2023/03/01,Wednesday,Afternoon (12PM-6PM),Engineering,2023/10/13,South America,Part-Time,SQL,Small Business,2024/04/05,job posting data,2024/06/12,region search
+job type data,Asia,Japan,Small Business,2023/06/07,Wednesday,Morning (6AM-12PM),Design,2023/07/11,Australia,Part-Time,Excel,Academic,2024/09/12,promotional event data,2023/09/08,job search
+user data,North America,USA,Startup,2023/05/20,Thursday,Night (12AM-6AM),Customer Support,2023/03/26,South America,Internship,Java,Individual,2024/11/06,job posting data,2023/12/09,category query
+demographic data,South America,Argentina,Startup,2023/03/07,Tuesday,Evening (6PM-12AM),Marketing,2024/06/11,South America,Internship,Java,Academic,2024/02/13,job posting data,2023/10/08,category query
+promotional event data,South America,Brazil,Academic,2023/08/21,Sunday,Evening (6PM-12AM),Marketing,2023/04/24,North America,Internship,Python,Academic,2023/10/07,job posting data,2023/12/04,category query
+promotional event data,Australia,Australia,Individual,2024/01/05,Friday,Afternoon (12PM-6PM),Design,2024/07/24,Europe,Contract,C++,Individual,2024/02/20,assistant data,2023/09/23,category query
+promotional event data,Europe,France,Enterprise,2024/04/02,Monday,Evening (6PM-12AM),Sales,2024/01/03,South America,Internship,Java,Enterprise,2023/06/11,job posting data,2023/07/22,category query
+demographic data,South America,Argentina,Academic,2023/08/09,Tuesday,Morning (6AM-12PM),Product Management,2023/02/10,Europe,Part-Time,Python,Small Business,2024/06/26,assistant data,2024/11/29,category query
+promotional event data,Australia,Australia,Individual,2023/03/25,Sunday,Afternoon (12PM-6PM),Product Management,2024/01/03,North America,Part-Time,SQL,Small Business,2024/04/30,job posting data,2023/09/12,job search
+demographic data,South America,Chile,Academic,2023/09/01,Tuesday,Night (12AM-6AM),Engineering,2023/01/26,Europe,Full-Time,Java,Individual,2023/10/12,job posting data,2023/10/25,job search
+demographic data,Europe,France,Individual,2023/04/06,Tuesday,Evening (6PM-12AM),Product Management,2023/03/30,Australia,Contract,Python,Academic,2023/06/13,job posting data,2023/02/06,region search
+demographic data,North America,USA,Enterprise,2023/05/02,Friday,Night (12AM-6AM),Product Management,2023/01/07,Asia,Internship,Excel,Small Business,2023/09/09,job posting data,2023/09/08,job search
+demographic data,Europe,France,Individual,2024/06/29,Saturday,Morning (6AM-12PM),Marketing,2024/06/02,Africa,Contract,Java,Academic,2023/08/24,job posting data,2024/01/17,region search
+promotional event data,South America,Argentina,Enterprise,2023/07/12,Tuesday,Evening (6PM-12AM),Product Management,2024/01/18,Europe,Full-Time,Python,Academic,2024/02/09,job posting data,2024/09/23,category query
+job type data,Asia,China,Small Business,2024/07/19,Friday,Morning (6AM-12PM),Sales,2023/07/26,North America,Full-Time,Java,Academic,2024/05/16,promotional event data,2023/05/17,region search
+assistant data,Africa,Nigeria,Small Business,2023/02/10,Friday,Afternoon (12PM-6PM),Marketing,2024/03/10,Europe,Internship,JavaScript,Individual,2023/11/20,assistant data,2024/07/20,region search
+assistant data,Africa,Nigeria,Startup,2024/09/13,Saturday,Night (12AM-6AM),Engineering,2024/01/06,Europe,Contract,Python,Enterprise,2023/04/02,promotional event data,2023/07/16,region search
+job type data,North America,USA,Small Business,2024/11/25,Sunday,Evening (6PM-12AM),Sales,2023/04/06,Australia,Part-Time,Java,Enterprise,2024/04/10,job posting data,2023/11/05,category query
+demographic data,North America,Canada,Individual,2024/04/18,Wednesday,Afternoon (12PM-6PM),Design,2024/04/07,South America,Full-Time,Java,Small Business,2024/06/25,job posting data,2024/03/30,region search
+user data,North America,Canada,Startup,2023/11/11,Tuesday,Evening (6PM-12AM),Product Management,2023/05/24,South America,Part-Time,Python,Academic,2023/01/03,assistant data,2023/02/05,job search
+assistant data,Europe,UK,Academic,2024/06/06,Wednesday,Afternoon (12PM-6PM),Sales,2023/10/14,Asia,Contract,Python,Individual,2023/10/03,promotional event data,2023/12/09,job search
+user data,Australia,Australia,Academic,2023/04/02,Thursday,Morning (6AM-12PM),Sales,2024/09/11,South America,Full-Time,Java,Individual,2023/07/23,job posting data,2023/08/21,category query
+user data,Europe,Germany,Enterprise,2023/12/22,Saturday,Night (12AM-6AM),Product Management,2024/11/03,North America,Internship,C++,Individual,2024/09/20,assistant data,2023/05/21,job search
+user data,Asia,China,Small Business,2023/05/14,Sunday,Afternoon (12PM-6PM),Customer Support,2023/01/07,South America,Internship,Excel,Enterprise,2024/07/03,assistant data,2023/12/18,region search
+job posting data,North America,Canada,Enterprise,2024/06/02,Saturday,Morning (6AM-12PM),Marketing,2023/07/20,Australia,Full-Time,C++,Enterprise,2024/08/23,job posting data,2023/04/24,job search
+job posting data,Asia,India,Enterprise,2023/05/08,Thursday,Night (12AM-6AM),Marketing,2024/03/29,Asia,Contract,Python,Small Business,2023/05/27,assistant data,2023/03/01,region search
+job type data,South America,Brazil,Small Business,2024/09/04,Wednesday,Night (12AM-6AM),Design,2024/12/01,Europe,Internship,C++,Enterprise,2023/06/15,promotional event data,2023/12/16,category query
+user data,Australia,Australia,Startup,2023/09/02,Tuesday,Afternoon (12PM-6PM),Sales,2024/09/02,Australia,Part-Time,SQL,Enterprise,2023/06/14,job posting data,2023/08/11,category query
+user data,Africa,Kenya,Individual,2023/09/01,Friday,Morning (6AM-12PM),Marketing,2023/10/12,Africa,Internship,SQL,Academic,2023/03/30,assistant data,2024/08/12,category query
+user data,North America,USA,Small Business,2024/11/17,Saturday,Evening (6PM-12AM),Sales,2024/09/05,Australia,Internship,Excel,Individual,2024/01/18,promotional event data,2023/05/13,job search
+user data,Australia,Australia,Academic,2024/10/28,Saturday,Afternoon (12PM-6PM),Customer Support,2024/08/09,North America,Contract,SQL,Small Business,2023/08/14,promotional event data,2023/12/03,job search
+job posting data,North America,USA,Enterprise,2024/04/14,Wednesday,Afternoon (12PM-6PM),Sales,2023/10/07,North America,Contract,Python,Individual,2023/09/28,job posting data,2023/12/24,job search
+user data,Europe,France,Enterprise,2024/03/27,Saturday,Evening (6PM-12AM),Marketing,2024/04/17,Australia,Contract,Java,Academic,2024/11/21,assistant data,2023/10/27,region search
+user data,Africa,Kenya,Enterprise,2023/09/15,Monday,Morning (6AM-12PM),Product Management,2023/03/20,Europe,Full-Time,Java,Small Business,2024/05/14,assistant data,2024/06/17,category query
+user data,North America,Mexico,Enterprise,2024/07/30,Tuesday,Night (12AM-6AM),Sales,2023/03/28,Europe,Part-Time,Python,Individual,2024/11/19,promotional event data,2024/11/11,region search
+user data,North America,USA,Individual,2024/03/05,Sunday,Afternoon (12PM-6PM),Customer Support,2024/03/02,North America,Contract,SQL,Individual,2023/01/06,job posting data,2023/11/29,job search
+promotional event data,North America,Canada,Startup,2024/12/28,Wednesday,Afternoon (12PM-6PM),Product Management,2024/04/13,Asia,Contract,JavaScript,Small Business,2024/03/10,assistant data,2023/02/23,category query
+job type data,North America,Canada,Small Business,2024/03/16,Monday,Night (12AM-6AM),Marketing,2023/01/22,Africa,Contract,SQL,Individual,2024/01/25,promotional event data,2023/11/30,region search
+demographic data,Africa,Kenya,Academic,2024/09/05,Sunday,Morning (6AM-12PM),Sales,2023/05/26,Asia,Full-Time,Java,Individual,2024/01/09,job posting data,2024/10/25,job search
+user data,Asia,India,Academic,2023/06/17,Monday,Morning (6AM-12PM),Sales,2023/08/24,Asia,Full-Time,Java,Individual,2024/09/06,assistant data,2024/04/30,category query
+demographic data,North America,USA,Academic,2024/05/15,Saturday,Afternoon (12PM-6PM),Engineering,2024/04/15,Europe,Full-Time,Excel,Small Business,2024/09/30,job posting data,2023/12/13,category query
+promotional event data,North America,Mexico,Small Business,2023/01/15,Thursday,Night (12AM-6AM),Customer Support,2024/09/02,North America,Contract,JavaScript,Small Business,2024/08/24,job posting data,2023/09/30,region search
+user data,North America,Canada,Individual,2024/11/10,Saturday,Morning (6AM-12PM),Marketing,2024/10/07,Europe,Internship,SQL,Enterprise,2024/05/30,promotional event data,2024/05/19,category query
+user data,Asia,China,Academic,2024/05/25,Saturday,Morning (6AM-12PM),Product Management,2023/06/28,North America,Contract,Excel,Individual,2024/11/04,promotional event data,2023/08/29,category query
+user data,Europe,France,Individual,2024/02/24,Friday,Evening (6PM-12AM),Engineering,2024/04/07,Africa,Internship,C++,Enterprise,2024/04/07,promotional event data,2024/12/09,job search
+assistant data,South America,Chile,Small Business,2024/06/03,Sunday,Evening (6PM-12AM),Design,2024/09/27,Europe,Contract,Python,Academic,2024/05/30,assistant data,2024/08/29,job search
+assistant data,Africa,Nigeria,Enterprise,2023/06/02,Tuesday,Night (12AM-6AM),Engineering,2023/12/15,Africa,Contract,C++,Individual,2023/06/21,promotional event data,2024/04/04,category query
+job type data,South America,Argentina,Individual,2024/01/06,Friday,Afternoon (12PM-6PM),Design,2024/06/19,Asia,Full-Time,JavaScript,Individual,2024/01/24,promotional event data,2023/12/29,job search
+demographic data,Australia,Australia,Small Business,2023/10/25,Friday,Afternoon (12PM-6PM),Engineering,2024/11/14,South America,Contract,Python,Individual,2024/07/13,promotional event data,2024/01/13,category query
+promotional event data,Africa,Nigeria,Enterprise,2023/05/07,Sunday,Morning (6AM-12PM),Design,2024/10/10,Asia,Full-Time,C++,Academic,2023/03/21,job posting data,2024/07/22,region search
+promotional event data,Africa,South Africa,Academic,2024/08/21,Wednesday,Morning (6AM-12PM),Engineering,2024/01/08,South America,Contract,SQL,Academic,2023/08/12,job posting data,2024/05/24,job search
+promotional event data,Africa,Nigeria,Enterprise,2023/01/14,Tuesday,Night (12AM-6AM),Product Management,2024/09/02,North America,Part-Time,Java,Individual,2024/12/26,job posting data,2024/05/07,job search
+demographic data,Africa,Nigeria,Small Business,2023/11/14,Tuesday,Night (12AM-6AM),Marketing,2023/07/08,South America,Internship,C++,Individual,2023/05/31,assistant data,2024/02/29,job search
+job posting data,Australia,Australia,Small Business,2024/01/12,Saturday,Evening (6PM-12AM),Sales,2024/01/13,Africa,Contract,Excel,Small Business,2024/05/27,promotional event data,2023/12/08,region search
+user data,Africa,Nigeria,Individual,2024/05/22,Friday,Evening (6PM-12AM),Customer Support,2023/03/24,Australia,Internship,JavaScript,Small Business,2024/02/10,job posting data,2024/01/16,region search
+promotional event data,Europe,France,Startup,2023/11/23,Wednesday,Evening (6PM-12AM),Product Management,2023/01/06,Asia,Part-Time,Excel,Small Business,2024/07/06,job posting data,2023/09/28,region search
+assistant data,South America,Chile,Individual,2023/05/29,Wednesday,Afternoon (12PM-6PM),Marketing,2023/10/20,Africa,Full-Time,SQL,Enterprise,2024/08/28,job posting data,2024/09/25,region search
+assistant data,North America,USA,Enterprise,2023/09/07,Tuesday,Afternoon (12PM-6PM),Customer Support,2023/10/03,Europe,Full-Time,SQL,Enterprise,2024/10/08,assistant data,2023/10/03,region search
+assistant data,Australia,Australia,Startup,2024/06/09,Tuesday,Morning (6AM-12PM),Marketing,2024/07/09,North America,Internship,JavaScript,Academic,2024/03/25,job posting data,2024/08/06,job search
+promotional event data,Africa,Nigeria,Academic,2023/06/14,Thursday,Morning (6AM-12PM),Design,2023/05/09,South America,Contract,Java,Academic,2023/02/16,promotional event data,2023/08/28,region search
+demographic data,Asia,Japan,Startup,2024/05/01,Friday,Evening (6PM-12AM),Customer Support,2024/01/11,Africa,Full-Time,C++,Academic,2023/08/09,promotional event data,2023/02/20,region search
+user data,South America,Brazil,Startup,2023/04/17,Wednesday,Evening (6PM-12AM),Engineering,2023/11/25,Africa,Full-Time,Java,Small Business,2023/12/30,promotional event data,2024/11/27,region search
+promotional event data,Australia,Australia,Enterprise,2024/03/11,Friday,Evening (6PM-12AM),Design,2024/05/20,Europe,Contract,C++,Enterprise,2023/04/01,promotional event data,2024/08/14,category query
+job posting data,Asia,India,Small Business,2023/12/14,Tuesday,Afternoon (12PM-6PM),Marketing,2023/01/13,Europe,Contract,Java,Enterprise,2024/02/15,promotional event data,2023/10/24,job search
+assistant data,Asia,India,Enterprise,2024/04/14,Sunday,Morning (6AM-12PM),Sales,2024/04/20,Australia,Internship,Excel,Academic,2023/01/15,job posting data,2024/04/01,category query
+job posting data,Australia,Australia,Individual,2023/02/05,Friday,Evening (6PM-12AM),Product Management,2023/04/16,Australia,Contract,C++,Academic,2023/12/02,assistant data,2023/07/18,region search
+job type data,South America,Argentina,Academic,2024/07/04,Monday,Morning (6AM-12PM),Customer Support,2024/12/25,Europe,Full-Time,Python,Enterprise,2023/02/22,job posting data,2024/01/03,job search
+job posting data,South America,Brazil,Enterprise,2024/05/10,Monday,Evening (6PM-12AM),Customer Support,2023/02/24,Australia,Contract,JavaScript,Individual,2023/06/29,assistant data,2024/11/14,region search
+demographic data,Africa,Kenya,Startup,2023/01/18,Sunday,Morning (6AM-12PM),Product Management,2024/01/07,Australia,Internship,C++,Academic,2024/12/24,job posting data,2023/07/23,job search
+job type data,Europe,France,Startup,2023/01/07,Monday,Evening (6PM-12AM),Product Management,2024/12/22,North America,Full-Time,Python,Enterprise,2023/06/23,assistant data,2023/09/24,region search
+user data,North America,USA,Academic,2024/12/23,Friday,Afternoon (12PM-6PM),Design,2024/08/25,Australia,Internship,Java,Small Business,2023/10/12,assistant data,2023/11/21,region search
+user data,Europe,Germany,Individual,2023/01/10,Sunday,Evening (6PM-12AM),Customer Support,2024/09/04,North America,Internship,Excel,Enterprise,2024/12/10,assistant data,2023/02/10,category query
+promotional event data,North America,Canada,Academic,2023/04/25,Friday,Morning (6AM-12PM),Product Management,2023/10/11,South America,Full-Time,C++,Small Business,2024/10/02,job posting data,2024/03/18,category query
+assistant data,Asia,India,Individual,2023/11/04,Tuesday,Night (12AM-6AM),Design,2024/12/31,Europe,Contract,Excel,Small Business,2024/03/13,assistant data,2024/09/05,job search
+job posting data,Africa,Nigeria,Enterprise,2023/03/25,Sunday,Afternoon (12PM-6PM),Design,2023/08/23,South America,Part-Time,SQL,Academic,2023/04/18,job posting data,2024/03/21,category query
+user data,Europe,Germany,Small Business,2023/01/30,Wednesday,Morning (6AM-12PM),Customer Support,2023/05/27,North America,Contract,C++,Enterprise,2024/12/16,promotional event data,2024/03/30,category query
+assistant data,Africa,Nigeria,Enterprise,2023/09/11,Sunday,Evening (6PM-12AM),Product Management,2024/07/15,South America,Contract,JavaScript,Small Business,2024/07/02,job posting data,2023/04/25,region search
+promotional event data,North America,Canada,Individual,2023/03/23,Monday,Night (12AM-6AM),Design,2023/05/18,Australia,Internship,C++,Academic,2023/07/08,assistant data,2023/01/28,category query
+promotional event data,North America,Canada,Small Business,2023/03/27,Wednesday,Morning (6AM-12PM),Customer Support,2023/03/22,Africa,Internship,C++,Individual,2023/01/21,job posting data,2023/12/04,region search
+demographic data,Africa,South Africa,Individual,2024/05/17,Tuesday,Morning (6AM-12PM),Sales,2023/07/12,Africa,Contract,JavaScript,Enterprise,2024/05/19,job posting data,2023/05/10,region search
+assistant data,North America,Canada,Academic,2024/03/11,Wednesday,Evening (6PM-12AM),Engineering,2023/06/13,Australia,Full-Time,SQL,Enterprise,2024/07/16,assistant data,2023/12/07,job search
+job type data,Africa,South Africa,Startup,2023/05/08,Monday,Evening (6PM-12AM),Product Management,2023/06/21,Africa,Part-Time,C++,Academic,2024/09/26,promotional event data,2024/12/24,category query
+assistant data,Europe,France,Enterprise,2023/05/01,Monday,Afternoon (12PM-6PM),Customer Support,2023/08/13,Africa,Part-Time,Excel,Enterprise,2024/10/14,promotional event data,2024/02/12,region search
+user data,Asia,India,Startup,2023/03/02,Sunday,Morning (6AM-12PM),Engineering,2023/04/07,Asia,Full-Time,SQL,Small Business,2024/04/30,promotional event data,2024/04/29,region search
+job posting data,South America,Chile,Academic,2024/10/15,Thursday,Afternoon (12PM-6PM),Design,2023/04/14,Africa,Part-Time,C++,Enterprise,2023/11/09,job posting data,2023/11/15,job search
+user data,North America,Canada,Startup,2023/02/10,Thursday,Night (12AM-6AM),Design,2024/01/07,Europe,Part-Time,SQL,Small Business,2023/04/28,promotional event data,2023/04/18,category query
+job posting data,Asia,Japan,Startup,2024/05/30,Tuesday,Evening (6PM-12AM),Marketing,2023/08/19,Australia,Part-Time,C++,Small Business,2024/08/20,promotional event data,2024/12/19,category query
+assistant data,Europe,Germany,Small Business,2023/04/15,Sunday,Morning (6AM-12PM),Engineering,2024/06/28,North America,Full-Time,C++,Individual,2023/10/23,promotional event data,2023/02/24,region search
+assistant data,South America,Chile,Enterprise,2023/02/24,Tuesday,Night (12AM-6AM),Marketing,2024/05/30,Asia,Internship,JavaScript,Academic,2024/08/01,job posting data,2023/11/26,region search
+user data,North America,USA,Individual,2024/02/27,Wednesday,Evening (6PM-12AM),Marketing,2023/01/07,Africa,Part-Time,Excel,Academic,2023/01/03,promotional event data,2023/05/25,region search
+user data,Africa,Kenya,Startup,2024/12/25,Sunday,Afternoon (12PM-6PM),Sales,2024/07/25,Africa,Part-Time,Excel,Small Business,2023/03/25,promotional event data,2024/04/10,job search
+demographic data,Africa,Kenya,Small Business,2024/06/03,Tuesday,Evening (6PM-12AM),Marketing,2023/02/22,North America,Full-Time,Excel,Academic,2023/01/27,promotional event data,2024/01/26,job search
+promotional event data,Australia,Australia,Academic,2023/11/24,Monday,Morning (6AM-12PM),Marketing,2023/06/21,Europe,Internship,C++,Academic,2024/11/29,assistant data,2023/03/16,job search
+user data,North America,USA,Individual,2024/12/18,Thursday,Morning (6AM-12PM),Engineering,2024/05/25,South America,Contract,JavaScript,Enterprise,2023/12/06,assistant data,2023/08/27,region search
+promotional event data,Australia,Australia,Small Business,2024/03/21,Thursday,Morning (6AM-12PM),Sales,2023/07/30,South America,Internship,SQL,Academic,2024/08/18,job posting data,2024/11/14,category query
+job type data,Africa,Kenya,Individual,2024/03/31,Tuesday,Night (12AM-6AM),Engineering,2024/02/05,South America,Part-Time,JavaScript,Individual,2023/06/23,promotional event data,2024/12/15,category query
+demographic data,Asia,Japan,Small Business,2023/11/29,Monday,Afternoon (12PM-6PM),Customer Support,2023/10/28,Asia,Part-Time,Java,Enterprise,2023/04/09,promotional event data,2023/07/27,category query
+promotional event data,Australia,Australia,Startup,2023/07/30,Monday,Evening (6PM-12AM),Product Management,2024/01/27,North America,Contract,JavaScript,Small Business,2023/01/29,job posting data,2023/01/15,region search
+promotional event data,Europe,Germany,Individual,2024/09/22,Sunday,Evening (6PM-12AM),Design,2023/04/20,Africa,Full-Time,SQL,Academic,2023/01/01,assistant data,2023/08/11,category query
+job posting data,Asia,India,Academic,2024/08/26,Thursday,Night (12AM-6AM),Marketing,2023/02/05,Africa,Internship,Python,Small Business,2023/07/12,job posting data,2023/06/03,job search
+job type data,Europe,Germany,Academic,2023/11/30,Friday,Night (12AM-6AM),Marketing,2024/07/06,North America,Part-Time,Java,Enterprise,2024/05/20,promotional event data,2024/08/18,job search
+assistant data,South America,Chile,Startup,2023/05/30,Wednesday,Night (12AM-6AM),Customer Support,2024/02/19,Europe,Internship,C++,Small Business,2024/09/07,assistant data,2023/06/29,region search
+promotional event data,North America,USA,Enterprise,2024/02/03,Friday,Evening (6PM-12AM),Engineering,2024/03/24,Europe,Contract,SQL,Individual,2023/01/12,job posting data,2024/06/23,region search
+user data,North America,Mexico,Small Business,2024/08/02,Saturday,Evening (6PM-12AM),Product Management,2024/09/13,North America,Contract,SQL,Individual,2023/08/21,assistant data,2024/07/22,region search
+user data,Europe,France,Academic,2023/08/19,Tuesday,Evening (6PM-12AM),Engineering,2023/10/14,Africa,Internship,JavaScript,Individual,2024/07/25,assistant data,2023/04/27,job search
+job posting data,Australia,Australia,Startup,2024/03/17,Friday,Night (12AM-6AM),Sales,2024/05/18,South America,Contract,C++,Individual,2024/06/06,assistant data,2024/05/21,job search
+demographic data,Australia,Australia,Startup,2023/01/26,Monday,Afternoon (12PM-6PM),Customer Support,2024/05/08,Australia,Internship,SQL,Individual,2023/04/26,promotional event data,2024/04/28,job search
+demographic data,North America,USA,Startup,2024/01/10,Saturday,Night (12AM-6AM),Customer Support,2023/11/06,North America,Part-Time,JavaScript,Individual,2024/05/20,job posting data,2023/03/13,category query
+job type data,Asia,Japan,Individual,2023/11/14,Wednesday,Morning (6AM-12PM),Product Management,2024/10/27,North America,Part-Time,Excel,Individual,2024/08/08,assistant data,2023/11/26,category query
+promotional event data,North America,Canada,Academic,2024/01/28,Monday,Afternoon (12PM-6PM),Customer Support,2024/03/15,North America,Contract,Excel,Academic,2024/03/27,assistant data,2024/11/18,job search
+promotional event data,Africa,South Africa,Individual,2023/09/25,Sunday,Afternoon (12PM-6PM),Product Management,2024/11/10,South America,Part-Time,Excel,Academic,2024/10/18,assistant data,2023/11/27,category query
+job type data,Asia,Japan,Academic,2024/01/29,Saturday,Evening (6PM-12AM),Sales,2023/06/06,Europe,Part-Time,Excel,Academic,2024/06/06,promotional event data,2023/05/16,region search
+demographic data,South America,Argentina,Startup,2023/11/03,Tuesday,Afternoon (12PM-6PM),Product Management,2024/08/09,North America,Full-Time,JavaScript,Enterprise,2024/06/25,job posting data,2023/01/05,job search
+assistant data,South America,Argentina,Enterprise,2023/03/10,Wednesday,Night (12AM-6AM),Design,2023/09/06,Europe,Full-Time,SQL,Small Business,2024/03/10,promotional event data,2024/01/10,category query
+user data,North America,USA,Individual,2023/03/29,Tuesday,Evening (6PM-12AM),Engineering,2024/08/28,Australia,Part-Time,C++,Academic,2023/05/10,promotional event data,2024/09/08,category query
+demographic data,South America,Chile,Startup,2024/11/24,Thursday,Night (12AM-6AM),Design,2023/08/26,South America,Internship,JavaScript,Academic,2023/11/24,assistant data,2024/07/22,region search
+user data,Europe,UK,Individual,2023/11/24,Friday,Morning (6AM-12PM),Sales,2023/12/21,Asia,Part-Time,C++,Small Business,2023/03/19,assistant data,2024/08/01,region search
+promotional event data,Europe,Germany,Small Business,2024/09/27,Friday,Evening (6PM-12AM),Design,2024/06/03,North America,Full-Time,C++,Enterprise,2024/02/28,job posting data,2024/04/16,category query
+job posting data,North America,USA,Startup,2023/03/25,Thursday,Morning (6AM-12PM),Marketing,2024/05/11,Australia,Full-Time,SQL,Small Business,2023/09/22,job posting data,2024/12/19,category query
+assistant data,Europe,UK,Small Business,2024/03/26,Thursday,Afternoon (12PM-6PM),Marketing,2023/10/12,South America,Full-Time,JavaScript,Academic,2024/11/14,assistant data,2024/11/04,category query
+job posting data,Europe,France,Startup,2024/10/17,Wednesday,Morning (6AM-12PM),Engineering,2024/06/13,Europe,Full-Time,Python,Enterprise,2024/12/31,assistant data,2023/11/03,region search
+user data,North America,Canada,Academic,2023/03/20,Thursday,Night (12AM-6AM),Marketing,2023/10/14,Europe,Part-Time,Java,Individual,2023/04/03,promotional event data,2023/07/29,job search
+user data,North America,USA,Individual,2024/09/27,Thursday,Night (12AM-6AM),Marketing,2024/12/25,South America,Full-Time,JavaScript,Enterprise,2024/08/17,assistant data,2024/12/15,job search
+job posting data,Europe,UK,Individual,2024/09/13,Saturday,Morning (6AM-12PM),Design,2024/09/16,Asia,Contract,JavaScript,Individual,2023/07/25,job posting data,2023/08/13,region search
+promotional event data,Africa,Nigeria,Enterprise,2023/04/20,Wednesday,Afternoon (12PM-6PM),Product Management,2024/12/31,Africa,Full-Time,SQL,Individual,2024/09/22,promotional event data,2024/06/03,category query
+job posting data,Australia,Australia,Enterprise,2023/12/07,Thursday,Night (12AM-6AM),Engineering,2024/07/07,Australia,Internship,Python,Individual,2024/12/22,job posting data,2023/05/16,job search
+job posting data,Africa,Kenya,Individual,2024/09/12,Saturday,Morning (6AM-12PM),Marketing,2023/05/30,Australia,Part-Time,SQL,Enterprise,2023/06/28,job posting data,2023/03/26,region search
+job type data,Australia,Australia,Enterprise,2023/06/02,Tuesday,Night (12AM-6AM),Engineering,2024/05/14,Europe,Internship,Python,Academic,2024/05/18,job posting data,2023/01/22,region search
+assistant data,North America,USA,Small Business,2024/06/23,Wednesday,Night (12AM-6AM),Engineering,2023/04/21,Australia,Contract,JavaScript,Small Business,2023/04/25,promotional event data,2024/12/11,job search
+assistant data,Europe,Germany,Individual,2023/03/16,Saturday,Night (12AM-6AM),Customer Support,2023/11/17,Asia,Internship,SQL,Enterprise,2024/03/07,promotional event data,2024/04/07,job search
+user data,Europe,UK,Individual,2024/10/13,Thursday,Afternoon (12PM-6PM),Marketing,2024/05/09,North America,Full-Time,SQL,Small Business,2023/04/21,job posting data,2024/01/14,job search
+job type data,North America,Canada,Enterprise,2024/12/14,Thursday,Night (12AM-6AM),Product Management,2023/05/30,Europe,Part-Time,Python,Small Business,2024/10/28,assistant data,2023/09/28,job search
+promotional event data,Asia,Japan,Small Business,2023/01/30,Monday,Evening (6PM-12AM),Product Management,2024/05/30,Europe,Part-Time,SQL,Academic,2023/12/23,assistant data,2023/10/08,category query
+job type data,North America,Mexico,Small Business,2023/04/11,Thursday,Evening (6PM-12AM),Customer Support,2024/11/03,South America,Full-Time,Python,Academic,2024/10/14,assistant data,2024/08/12,region search
+assistant data,Australia,Australia,Startup,2023/11/05,Thursday,Afternoon (12PM-6PM),Design,2024/12/29,South America,Internship,Java,Enterprise,2024/07/28,job posting data,2024/06/11,region search
+user data,Australia,Australia,Startup,2023/04/09,Monday,Morning (6AM-12PM),Engineering,2024/10/27,South America,Full-Time,JavaScript,Individual,2024/07/19,promotional event data,2024/02/16,category query
+user data,Europe,UK,Academic,2024/01/03,Saturday,Evening (6PM-12AM),Product Management,2024/07/22,South America,Internship,SQL,Enterprise,2024/08/11,promotional event data,2024/08/13,region search
+job posting data,Africa,Kenya,Startup,2023/05/17,Thursday,Afternoon (12PM-6PM),Product Management,2024/10/06,South America,Part-Time,JavaScript,Academic,2023/08/13,job posting data,2024/01/03,region search
+job posting data,Australia,Australia,Startup,2023/01/08,Monday,Evening (6PM-12AM),Design,2024/09/19,North America,Full-Time,C++,Academic,2023/11/20,promotional event data,2023/04/30,region search
+job type data,Europe,UK,Startup,2024/09/16,Tuesday,Night (12AM-6AM),Marketing,2023/10/30,Africa,Internship,Java,Individual,2023/05/10,assistant data,2023/12/09,category query
+assistant data,Africa,Nigeria,Enterprise,2024/10/28,Monday,Night (12AM-6AM),Sales,2024/03/28,North America,Full-Time,C++,Small Business,2024/03/17,promotional event data,2024/08/24,job search
+user data,South America,Brazil,Academic,2024/10/07,Monday,Morning (6AM-12PM),Product Management,2023/07/14,Asia,Part-Time,C++,Enterprise,2023/08/31,assistant data,2024/09/08,category query
+promotional event data,Europe,France,Enterprise,2024/04/25,Thursday,Night (12AM-6AM),Engineering,2023/04/26,North America,Full-Time,Excel,Enterprise,2024/12/09,promotional event data,2023/07/22,region search
+demographic data,Asia,India,Enterprise,2024/09/30,Tuesday,Evening (6PM-12AM),Design,2023/04/08,Europe,Contract,SQL,Small Business,2023/03/27,promotional event data,2023/06/24,job search
+user data,Asia,China,Enterprise,2023/11/21,Saturday,Morning (6AM-12PM),Design,2023/04/25,North America,Full-Time,JavaScript,Individual,2024/11/16,promotional event data,2023/05/12,job search
+assistant data,Africa,South Africa,Individual,2023/03/07,Sunday,Night (12AM-6AM),Engineering,2023/07/07,South America,Internship,Excel,Individual,2024/03/17,promotional event data,2023/12/29,category query
+job type data,Africa,Nigeria,Individual,2023/03/10,Thursday,Night (12AM-6AM),Sales,2024/09/09,South America,Full-Time,C++,Enterprise,2023/07/09,promotional event data,2024/10/14,category query
+promotional event data,Africa,Kenya,Enterprise,2024/06/19,Tuesday,Afternoon (12PM-6PM),Sales,2023/04/09,South America,Internship,C++,Small Business,2023/09/24,assistant data,2024/05/05,region search
+job type data,Africa,Kenya,Small Business,2023/04/03,Friday,Night (12AM-6AM),Engineering,2023/01/23,Australia,Internship,Java,Academic,2024/03/25,assistant data,2023/12/15,region search
+promotional event data,Australia,Australia,Individual,2023/08/10,Friday,Morning (6AM-12PM),Sales,2024/04/13,South America,Internship,Excel,Academic,2024/04/29,job posting data,2023/06/04,region search
+job type data,Europe,UK,Enterprise,2024/10/15,Sunday,Evening (6PM-12AM),Marketing,2024/11/29,Africa,Internship,Python,Enterprise,2024/02/13,job posting data,2024/04/23,region search
+job type data,Australia,Australia,Academic,2024/09/06,Friday,Morning (6AM-12PM),Design,2024/08/30,Australia,Full-Time,Java,Individual,2023/01/19,assistant data,2023/03/13,job search
+assistant data,Europe,France,Enterprise,2024/04/18,Sunday,Evening (6PM-12AM),Sales,2023/11/19,Australia,Part-Time,JavaScript,Small Business,2023/04/28,promotional event data,2024/11/04,job search
+promotional event data,Australia,Australia,Academic,2024/08/01,Sunday,Evening (6PM-12AM),Marketing,2023/06/30,North America,Full-Time,SQL,Small Business,2023/09/07,assistant data,2024/08/12,category query
+assistant data,Europe,Germany,Startup,2024/07/03,Saturday,Afternoon (12PM-6PM),Engineering,2023/03/27,Africa,Contract,Java,Individual,2024/05/26,promotional event data,2023/02/09,job search
+job type data,Africa,South Africa,Individual,2023/08/30,Thursday,Night (12AM-6AM),Customer Support,2023/04/13,South America,Contract,C++,Enterprise,2023/11/26,assistant data,2024/04/17,region search
+assistant data,North America,USA,Academic,2024/03/21,Friday,Morning (6AM-12PM),Marketing,2023/04/26,South America,Contract,SQL,Enterprise,2023/02/09,assistant data,2024/06/02,job search
+job posting data,South America,Brazil,Small Business,2023/04/30,Wednesday,Morning (6AM-12PM),Product Management,2024/05/05,Australia,Contract,SQL,Academic,2024/01/02,job posting data,2024/11/07,job search
+assistant data,Australia,Australia,Academic,2023/09/27,Thursday,Afternoon (12PM-6PM),Sales,2023/06/02,South America,Full-Time,JavaScript,Academic,2023/02/27,job posting data,2024/08/15,job search
+job type data,Asia,India,Enterprise,2023/11/18,Thursday,Night (12AM-6AM),Customer Support,2023/08/15,Europe,Part-Time,Python,Small Business,2024/05/11,assistant data,2023/07/03,category query
+demographic data,Asia,China,Small Business,2023/03/06,Tuesday,Morning (6AM-12PM),Customer Support,2023/11/27,South America,Internship,Excel,Academic,2024/04/09,promotional event data,2023/02/06,category query
+promotional event data,Asia,India,Individual,2024/02/21,Sunday,Morning (6AM-12PM),Engineering,2024/08/12,Africa,Contract,Python,Individual,2024/04/22,job posting data,2024/10/18,region search
+user data,South America,Argentina,Startup,2024/07/28,Tuesday,Evening (6PM-12AM),Engineering,2024/12/20,Australia,Contract,SQL,Academic,2023/01/17,assistant data,2024/05/22,region search
+user data,Asia,Japan,Startup,2023/06/27,Thursday,Evening (6PM-12AM),Marketing,2023/05/18,Australia,Contract,Python,Enterprise,2024/05/13,assistant data,2024/08/02,category query
+demographic data,Africa,Kenya,Individual,2023/08/18,Thursday,Evening (6PM-12AM),Customer Support,2023/08/12,Australia,Internship,C++,Small Business,2023/12/18,assistant data,2024/08/26,region search
+user data,North America,Mexico,Academic,2024/10/24,Sunday,Night (12AM-6AM),Sales,2024/11/19,North America,Part-Time,SQL,Small Business,2023/03/14,promotional event data,2024/05/03,region search
+demographic data,Australia,Australia,Individual,2024/10/09,Thursday,Night (12AM-6AM),Sales,2024/10/06,North America,Part-Time,Excel,Enterprise,2024/09/11,job posting data,2024/03/15,job search
+job type data,Europe,France,Enterprise,2024/08/24,Sunday,Afternoon (12PM-6PM),Product Management,2024/06/10,South America,Contract,C++,Academic,2024/06/25,job posting data,2024/11/26,job search
+user data,Africa,Nigeria,Academic,2024/06/01,Wednesday,Night (12AM-6AM),Design,2024/07/15,South America,Contract,C++,Individual,2023/07/27,promotional event data,2024/04/11,job search
+job type data,Africa,Nigeria,Enterprise,2023/08/06,Friday,Morning (6AM-12PM),Customer Support,2024/09/24,North America,Part-Time,Python,Individual,2024/11/16,job posting data,2024/06/19,category query
+assistant data,Africa,Nigeria,Academic,2024/10/12,Tuesday,Afternoon (12PM-6PM),Design,2023/03/30,Asia,Full-Time,SQL,Individual,2023/12/23,promotional event data,2023/02/03,job search
+assistant data,South America,Argentina,Individual,2023/05/30,Friday,Night (12AM-6AM),Marketing,2024/09/02,North America,Full-Time,Excel,Individual,2023/08/08,promotional event data,2024/03/03,job search
+assistant data,South America,Brazil,Enterprise,2023/10/25,Saturday,Night (12AM-6AM),Marketing,2023/10/17,Europe,Contract,Python,Enterprise,2023/10/22,job posting data,2024/06/28,region search
+demographic data,Africa,Nigeria,Academic,2024/05/24,Thursday,Night (12AM-6AM),Marketing,2024/09/14,North America,Contract,SQL,Academic,2024/06/17,assistant data,2024/05/11,region search
+job type data,South America,Brazil,Startup,2023/08/30,Wednesday,Morning (6AM-12PM),Design,2023/11/07,South America,Internship,Java,Small Business,2023/07/12,assistant data,2023/02/14,job search
+user data,North America,USA,Small Business,2023/01/15,Monday,Night (12AM-6AM),Engineering,2024/08/15,Europe,Contract,C++,Individual,2023/12/03,promotional event data,2024/04/01,region search
+demographic data,Australia,Australia,Startup,2023/09/12,Monday,Morning (6AM-12PM),Marketing,2023/02/20,Europe,Full-Time,C++,Enterprise,2024/11/29,promotional event data,2024/08/30,region search
+job type data,Australia,Australia,Startup,2024/10/20,Thursday,Morning (6AM-12PM),Design,2023/01/05,Asia,Full-Time,Java,Enterprise,2024/04/16,job posting data,2024/02/02,job search
+user data,Asia,Japan,Small Business,2023/05/06,Saturday,Morning (6AM-12PM),Sales,2023/11/15,Africa,Part-Time,SQL,Individual,2023/11/15,assistant data,2024/07/09,job search
+user data,Europe,Germany,Enterprise,2023/04/20,Monday,Night (12AM-6AM),Design,2023/08/13,Africa,Full-Time,Excel,Enterprise,2024/05/23,assistant data,2024/09/03,region search
+promotional event data,South America,Brazil,Academic,2024/05/09,Thursday,Afternoon (12PM-6PM),Sales,2024/12/10,Europe,Part-Time,Java,Enterprise,2023/07/15,job posting data,2024/11/13,category query
+user data,Africa,South Africa,Enterprise,2024/08/09,Tuesday,Evening (6PM-12AM),Design,2024/01/23,Australia,Contract,Excel,Academic,2024/03/08,promotional event data,2024/05/30,category query
+demographic data,Asia,Japan,Academic,2023/04/16,Wednesday,Morning (6AM-12PM),Engineering,2024/03/04,Africa,Contract,JavaScript,Enterprise,2024/07/16,promotional event data,2024/06/05,job search
+job posting data,Africa,Kenya,Startup,2023/11/29,Friday,Night (12AM-6AM),Product Management,2023/04/25,Asia,Internship,Excel,Academic,2024/10/28,assistant data,2024/03/06,region search
+assistant data,Asia,India,Academic,2024/12/11,Monday,Night (12AM-6AM),Customer Support,2023/06/11,Europe,Contract,Excel,Enterprise,2023/07/28,promotional event data,2024/10/01,region search
+job posting data,Africa,Kenya,Individual,2024/06/03,Sunday,Afternoon (12PM-6PM),Engineering,2023/04/23,North America,Full-Time,Python,Enterprise,2024/10/25,assistant data,2024/05/07,job search
+promotional event data,North America,USA,Academic,2023/04/29,Sunday,Afternoon (12PM-6PM),Design,2024/07/02,Australia,Internship,Excel,Small Business,2023/04/02,job posting data,2024/04/04,region search
+job type data,Australia,Australia,Startup,2023/10/20,Thursday,Afternoon (12PM-6PM),Customer Support,2024/02/23,Europe,Full-Time,C++,Academic,2023/09/28,job posting data,2023/11/03,category query
+job type data,Asia,India,Individual,2024/09/29,Sunday,Afternoon (12PM-6PM),Sales,2023/01/20,Europe,Internship,Java,Individual,2024/06/21,promotional event data,2024/04/14,category query
+user data,Europe,France,Small Business,2023/11/15,Saturday,Night (12AM-6AM),Product Management,2024/11/17,Australia,Part-Time,SQL,Individual,2023/02/21,assistant data,2023/02/23,category query
+job posting data,North America,USA,Startup,2024/05/04,Wednesday,Afternoon (12PM-6PM),Marketing,2023/11/18,South America,Internship,JavaScript,Academic,2024/10/25,job posting data,2024/03/26,category query
+demographic data,Asia,India,Small Business,2023/10/13,Thursday,Afternoon (12PM-6PM),Customer Support,2024/10/10,Australia,Internship,SQL,Enterprise,2023/07/19,assistant data,2024/11/14,region search
+job posting data,Asia,Japan,Startup,2024/11/18,Tuesday,Evening (6PM-12AM),Product Management,2023/04/18,South America,Part-Time,Python,Academic,2023/05/27,job posting data,2023/08/25,category query
+demographic data,Africa,Nigeria,Small Business,2024/12/15,Friday,Evening (6PM-12AM),Marketing,2024/09/22,Asia,Part-Time,SQL,Small Business,2024/05/25,job posting data,2023/03/17,job search
+assistant data,Australia,Australia,Academic,2024/02/06,Sunday,Night (12AM-6AM),Engineering,2023/09/23,North America,Contract,SQL,Small Business,2023/01/16,job posting data,2023/03/03,job search
+user data,Africa,South Africa,Individual,2023/04/24,Tuesday,Afternoon (12PM-6PM),Design,2023/04/30,Australia,Part-Time,Excel,Individual,2024/07/06,assistant data,2024/10/28,region search
+user data,Asia,India,Academic,2023/06/19,Thursday,Afternoon (12PM-6PM),Engineering,2023/10/14,Australia,Internship,SQL,Academic,2024/05/09,job posting data,2023/04/19,region search
+assistant data,Europe,Germany,Individual,2024/10/31,Wednesday,Morning (6AM-12PM),Marketing,2023/04/07,Europe,Full-Time,SQL,Academic,2024/03/20,job posting data,2024/12/23,region search
+job posting data,Europe,Germany,Individual,2023/11/14,Monday,Evening (6PM-12AM),Product Management,2024/05/06,Africa,Internship,Java,Enterprise,2024/11/12,assistant data,2024/08/13,region search
+promotional event data,Australia,Australia,Academic,2023/01/17,Wednesday,Morning (6AM-12PM),Sales,2023/07/19,Asia,Contract,Java,Academic,2024/01/26,assistant data,2023/08/22,category query
+job posting data,Asia,India,Startup,2023/05/01,Monday,Morning (6AM-12PM),Product Management,2023/03/19,Australia,Part-Time,Excel,Small Business,2023/03/28,assistant data,2024/04/05,job search
+job type data,South America,Chile,Small Business,2024/09/06,Thursday,Morning (6AM-12PM),Customer Support,2024/09/12,North America,Contract,Java,Enterprise,2023/09/19,promotional event data,2024/08/09,region search
+user data,North America,Mexico,Small Business,2023/12/02,Sunday,Night (12AM-6AM),Design,2023/10/20,Asia,Part-Time,JavaScript,Individual,2023/06/12,job posting data,2024/05/20,job search
+demographic data,South America,Brazil,Small Business,2024/12/02,Sunday,Afternoon (12PM-6PM),Design,2023/08/13,Europe,Internship,Excel,Academic,2024/02/24,job posting data,2024/10/31,job search
+assistant data,Asia,India,Enterprise,2024/01/11,Tuesday,Evening (6PM-12AM),Sales,2023/09/22,South America,Contract,C++,Individual,2023/10/19,promotional event data,2024/06/06,job search
+job posting data,South America,Chile,Startup,2023/02/02,Friday,Night (12AM-6AM),Engineering,2024/11/22,North America,Contract,Python,Individual,2023/04/21,promotional event data,2024/04/27,job search
+job type data,North America,USA,Individual,2024/01/13,Thursday,Evening (6PM-12AM),Design,2023/12/28,Asia,Full-Time,Java,Enterprise,2023/03/01,promotional event data,2023/11/05,region search
+job type data,North America,Canada,Individual,2023/05/25,Monday,Morning (6AM-12PM),Marketing,2023/10/25,North America,Part-Time,Python,Individual,2023/11/11,promotional event data,2023/08/22,region search
+user data,Australia,Australia,Enterprise,2024/04/25,Wednesday,Afternoon (12PM-6PM),Customer Support,2024/08/25,Australia,Full-Time,Java,Academic,2023/01/30,assistant data,2024/08/17,category query
+job posting data,North America,USA,Academic,2023/03/19,Wednesday,Evening (6PM-12AM),Customer Support,2024/11/25,Africa,Part-Time,Python,Academic,2024/01/05,job posting data,2023/04/28,region search
+assistant data,Australia,Australia,Startup,2023/03/17,Wednesday,Evening (6PM-12AM),Engineering,2023/03/31,North America,Contract,Excel,Academic,2023/12/29,promotional event data,2024/06/20,category query
+job type data,Asia,Japan,Small Business,2024/09/07,Tuesday,Morning (6AM-12PM),Marketing,2024/08/21,Australia,Full-Time,Excel,Small Business,2023/12/22,assistant data,2024/02/03,job search
+user data,Australia,Australia,Individual,2024/04/16,Friday,Night (12AM-6AM),Sales,2024/07/26,Africa,Internship,C++,Small Business,2024/04/15,promotional event data,2024/06/09,job search
+user data,Europe,France,Academic,2024/04/07,Thursday,Night (12AM-6AM),Engineering,2023/09/28,Europe,Part-Time,Java,Individual,2024/12/29,job posting data,2023/05/01,region search
+promotional event data,Africa,Kenya,Individual,2024/08/30,Thursday,Morning (6AM-12PM),Product Management,2023/10/29,Australia,Contract,Excel,Individual,2024/10/25,assistant data,2024/11/26,region search
+demographic data,Africa,Nigeria,Enterprise,2024/08/18,Monday,Afternoon (12PM-6PM),Design,2023/03/29,Australia,Part-Time,Python,Enterprise,2023/07/25,job posting data,2024/10/25,job search
+job posting data,Africa,Nigeria,Academic,2024/01/08,Wednesday,Afternoon (12PM-6PM),Design,2023/03/17,Europe,Internship,Python,Enterprise,2023/08/06,job posting data,2023/04/09,region search
+demographic data,Australia,Australia,Academic,2023/11/18,Sunday,Evening (6PM-12AM),Design,2024/08/05,Africa,Internship,SQL,Enterprise,2023/07/24,promotional event data,2024/07/03,region search
+assistant data,South America,Brazil,Small Business,2023/03/14,Thursday,Evening (6PM-12AM),Sales,2023/02/03,North America,Part-Time,Java,Academic,2024/08/27,job posting data,2024/08/09,job search
+promotional event data,South America,Argentina,Startup,2023/01/15,Wednesday,Afternoon (12PM-6PM),Customer Support,2024/05/13,Asia,Contract,Python,Small Business,2024/05/30,promotional event data,2023/04/09,job search
+assistant data,Australia,Australia,Individual,2024/05/29,Monday,Night (12AM-6AM),Marketing,2023/06/28,Asia,Part-Time,Python,Small Business,2023/09/17,assistant data,2023/08/11,region search
+job type data,Australia,Australia,Academic,2024/03/12,Tuesday,Evening (6PM-12AM),Product Management,2023/09/28,Australia,Part-Time,Java,Enterprise,2023/03/26,job posting data,2024/04/27,job search
+assistant data,Asia,Japan,Individual,2024/05/08,Saturday,Afternoon (12PM-6PM),Marketing,2024/02/29,South America,Contract,Excel,Enterprise,2024/09/07,promotional event data,2024/07/22,region search
+promotional event data,Asia,Japan,Academic,2024/08/05,Thursday,Evening (6PM-12AM),Sales,2023/09/02,Asia,Part-Time,C++,Small Business,2023/04/23,job posting data,2023/11/30,region search
+promotional event data,Australia,Australia,Academic,2023/08/02,Sunday,Night (12AM-6AM),Design,2023/08/31,South America,Full-Time,JavaScript,Individual,2023/05/01,promotional event data,2023/06/16,region search
+assistant data,Africa,Kenya,Startup,2023/11/04,Friday,Night (12AM-6AM),Product Management,2023/10/18,Australia,Internship,Java,Individual,2023/11/20,promotional event data,2023/10/06,category query
+job posting data,North America,Mexico,Individual,2024/05/30,Saturday,Night (12AM-6AM),Product Management,2023/11/21,Asia,Full-Time,Python,Academic,2023/04/15,assistant data,2023/01/28,job search
+job posting data,Australia,Australia,Small Business,2024/12/23,Tuesday,Afternoon (12PM-6PM),Engineering,2023/04/04,Africa,Full-Time,SQL,Academic,2024/06/29,assistant data,2024/08/26,category query
+user data,North America,Mexico,Small Business,2023/12/12,Thursday,Evening (6PM-12AM),Engineering,2024/06/10,South America,Internship,C++,Small Business,2023/03/24,assistant data,2024/12/16,category query
+promotional event data,South America,Brazil,Enterprise,2023/10/12,Monday,Afternoon (12PM-6PM),Customer Support,2023/10/12,North America,Part-Time,C++,Individual,2023/01/17,job posting data,2024/08/30,category query
+assistant data,South America,Chile,Academic,2024/10/12,Wednesday,Afternoon (12PM-6PM),Marketing,2023/12/30,Europe,Full-Time,Java,Enterprise,2023/07/23,job posting data,2023/04/22,category query
+promotional event data,South America,Chile,Academic,2024/12/22,Friday,Evening (6PM-12AM),Design,2024/12/12,South America,Internship,SQL,Small Business,2023/05/26,assistant data,2023/06/02,region search
+job type data,North America,Canada,Academic,2024/10/07,Friday,Afternoon (12PM-6PM),Engineering,2024/03/13,Australia,Contract,Java,Individual,2023/08/09,assistant data,2023/04/25,category query
+job posting data,Asia,India,Small Business,2023/05/10,Wednesday,Afternoon (12PM-6PM),Design,2023/10/25,Asia,Part-Time,Python,Enterprise,2023/01/04,assistant data,2024/07/01,region search
+user data,Africa,Kenya,Individual,2023/05/05,Saturday,Evening (6PM-12AM),Marketing,2024/11/16,Europe,Internship,JavaScript,Academic,2024/02/19,assistant data,2024/04/12,job search
+user data,Asia,India,Startup,2024/04/23,Friday,Afternoon (12PM-6PM),Engineering,2024/11/02,South America,Part-Time,SQL,Individual,2023/11/14,job posting data,2023/07/02,region search
+job type data,Australia,Australia,Academic,2024/11/18,Saturday,Afternoon (12PM-6PM),Sales,2023/12/04,Africa,Part-Time,Excel,Small Business,2023/08/10,promotional event data,2023/08/16,job search
+job posting data,Asia,China,Academic,2023/06/14,Thursday,Evening (6PM-12AM),Customer Support,2024/09/28,Africa,Internship,Java,Academic,2023/04/02,promotional event data,2024/04/22,job search
+job type data,South America,Brazil,Startup,2023/05/10,Sunday,Afternoon (12PM-6PM),Customer Support,2024/03/10,Africa,Internship,Java,Small Business,2023/05/17,job posting data,2024/03/09,region search
+demographic data,South America,Argentina,Academic,2024/09/06,Friday,Afternoon (12PM-6PM),Sales,2024/01/17,Australia,Internship,JavaScript,Academic,2023/09/14,promotional event data,2023/02/09,category query
+demographic data,Europe,France,Individual,2023/08/12,Friday,Afternoon (12PM-6PM),Engineering,2024/11/11,Asia,Full-Time,Excel,Enterprise,2023/07/14,job posting data,2023/06/07,job search
+job type data,Africa,Kenya,Enterprise,2024/08/02,Tuesday,Evening (6PM-12AM),Marketing,2023/06/25,Australia,Part-Time,Python,Enterprise,2023/08/18,promotional event data,2023/06/24,region search
+job type data,Australia,Australia,Startup,2023/06/26,Friday,Morning (6AM-12PM),Product Management,2024/05/03,South America,Part-Time,JavaScript,Enterprise,2023/04/14,assistant data,2023/05/02,job search
+user data,North America,Canada,Startup,2024/08/16,Tuesday,Afternoon (12PM-6PM),Customer Support,2024/08/08,Asia,Full-Time,SQL,Enterprise,2024/04/19,assistant data,2024/01/04,job search
+demographic data,North America,Mexico,Startup,2023/12/06,Tuesday,Night (12AM-6AM),Sales,2023/01/15,Africa,Full-Time,Excel,Academic,2024/03/01,job posting data,2023/12/14,region search
+demographic data,Australia,Australia,Academic,2023/12/02,Tuesday,Afternoon (12PM-6PM),Marketing,2024/03/16,North America,Part-Time,SQL,Small Business,2024/11/21,assistant data,2024/05/18,region search
+promotional event data,Africa,Nigeria,Small Business,2023/10/09,Wednesday,Afternoon (12PM-6PM),Customer Support,2024/02/22,North America,Full-Time,JavaScript,Individual,2023/09/20,job posting data,2024/10/02,job search
+user data,Asia,Japan,Small Business,2023/01/16,Wednesday,Afternoon (12PM-6PM),Design,2023/10/09,Europe,Internship,C++,Individual,2023/07/10,assistant data,2023/04/07,category query
+demographic data,North America,USA,Startup,2024/05/16,Tuesday,Night (12AM-6AM),Design,2023/11/26,North America,Full-Time,JavaScript,Academic,2023/05/13,job posting data,2023/09/20,job search
+user data,South America,Chile,Enterprise,2024/05/11,Sunday,Afternoon (12PM-6PM),Design,2024/02/10,Europe,Contract,Excel,Enterprise,2024/04/25,job posting data,2023/05/19,job search
+job type data,North America,Mexico,Individual,2024/07/26,Monday,Afternoon (12PM-6PM),Marketing,2024/02/16,Australia,Part-Time,JavaScript,Small Business,2024/06/29,job posting data,2024/01/15,region search
+user data,Asia,India,Academic,2024/08/01,Monday,Afternoon (12PM-6PM),Product Management,2023/07/16,South America,Full-Time,Excel,Individual,2024/06/07,assistant data,2024/08/16,region search
+promotional event data,South America,Brazil,Startup,2023/03/20,Thursday,Evening (6PM-12AM),Sales,2023/06/02,South America,Internship,JavaScript,Individual,2023/08/17,assistant data,2024/05/11,region search
+promotional event data,Australia,Australia,Academic,2023/07/21,Thursday,Afternoon (12PM-6PM),Marketing,2023/08/18,South America,Internship,Python,Enterprise,2023/05/05,job posting data,2024/08/23,region search
+demographic data,Africa,South Africa,Enterprise,2024/12/05,Sunday,Night (12AM-6AM),Engineering,2023/04/27,Europe,Internship,Excel,Academic,2024/01/22,assistant data,2024/07/28,region search
+promotional event data,North America,Mexico,Small Business,2023/01/13,Monday,Night (12AM-6AM),Marketing,2023/01/19,South America,Part-Time,Python,Academic,2023/01/08,promotional event data,2023/01/16,job search
+job posting data,North America,USA,Small Business,2023/11/24,Wednesday,Morning (6AM-12PM),Engineering,2024/03/04,Africa,Internship,Python,Academic,2024/04/26,assistant data,2024/09/23,category query
+job posting data,South America,Argentina,Individual,2023/08/05,Tuesday,Evening (6PM-12AM),Customer Support,2024/09/17,Africa,Internship,C++,Small Business,2024/03/22,promotional event data,2024/02/14,category query
+demographic data,Asia,India,Academic,2024/11/04,Tuesday,Morning (6AM-12PM),Design,2023/06/22,Europe,Internship,SQL,Academic,2024/06/19,promotional event data,2024/03/10,region search
+job posting data,Australia,Australia,Startup,2024/10/19,Thursday,Afternoon (12PM-6PM),Engineering,2023/06/24,South America,Part-Time,Python,Small Business,2023/07/21,promotional event data,2023/09/04,category query
+assistant data,Australia,Australia,Small Business,2023/04/07,Saturday,Morning (6AM-12PM),Sales,2023/05/26,Europe,Contract,SQL,Individual,2023/09/03,promotional event data,2023/03/21,job search
+job type data,Europe,UK,Startup,2024/10/27,Tuesday,Afternoon (12PM-6PM),Engineering,2024/01/01,Asia,Contract,Excel,Academic,2024/05/08,promotional event data,2024/08/03,region search
+promotional event data,North America,Canada,Academic,2023/04/16,Thursday,Night (12AM-6AM),Design,2024/01/31,Africa,Contract,Excel,Small Business,2023/01/29,promotional event data,2024/10/28,region search
+promotional event data,Australia,Australia,Academic,2023/08/17,Monday,Afternoon (12PM-6PM),Sales,2023/12/15,North America,Part-Time,Excel,Enterprise,2024/12/14,job posting data,2023/11/06,category query
+demographic data,North America,Canada,Individual,2024/07/06,Friday,Night (12AM-6AM),Customer Support,2023/03/05,Africa,Full-Time,C++,Enterprise,2023/11/20,job posting data,2023/08/19,job search
+user data,Australia,Australia,Small Business,2024/09/17,Friday,Night (12AM-6AM),Sales,2023/06/03,Europe,Contract,Python,Small Business,2024/04/13,promotional event data,2023/10/09,job search
+demographic data,South America,Brazil,Individual,2023/02/23,Friday,Evening (6PM-12AM),Marketing,2024/02/09,Australia,Part-Time,SQL,Individual,2024/04/21,job posting data,2023/06/10,region search
+job type data,North America,Canada,Startup,2024/06/26,Saturday,Night (12AM-6AM),Design,2023/06/19,Europe,Contract,Excel,Individual,2024/11/02,promotional event data,2023/08/12,job search
+assistant data,Africa,South Africa,Enterprise,2023/10/03,Sunday,Afternoon (12PM-6PM),Marketing,2024/03/29,Australia,Contract,JavaScript,Small Business,2024/05/09,promotional event data,2023/05/05,region search
+job type data,Australia,Australia,Small Business,2024/05/30,Thursday,Evening (6PM-12AM),Design,2023/04/17,North America,Internship,C++,Small Business,2024/08/16,promotional event data,2024/07/28,category query
+assistant data,Australia,Australia,Individual,2024/02/24,Monday,Morning (6AM-12PM),Design,2024/01/31,Asia,Internship,Java,Small Business,2023/11/12,promotional event data,2023/11/06,category query
+promotional event data,North America,USA,Academic,2023/03/25,Monday,Evening (6PM-12AM),Product Management,2024/12/30,Europe,Part-Time,SQL,Small Business,2024/09/04,promotional event data,2024/09/08,category query
+demographic data,Asia,Japan,Startup,2024/05/10,Monday,Afternoon (12PM-6PM),Marketing,2023/01/02,Europe,Part-Time,C++,Academic,2023/12/09,promotional event data,2024/09/14,job search
+demographic data,South America,Argentina,Enterprise,2023/02/15,Sunday,Morning (6AM-12PM),Marketing,2023/12/22,Australia,Full-Time,JavaScript,Enterprise,2023/12/31,job posting data,2023/04/28,region search
+job posting data,South America,Chile,Individual,2024/09/30,Wednesday,Afternoon (12PM-6PM),Marketing,2024/03/14,Asia,Internship,JavaScript,Individual,2024/03/17,promotional event data,2024/11/17,job search
+user data,Africa,Kenya,Small Business,2023/04/28,Tuesday,Night (12AM-6AM),Design,2024/08/24,Africa,Part-Time,JavaScript,Individual,2024/06/04,promotional event data,2024/12/01,region search
+user data,North America,Canada,Enterprise,2023/06/25,Wednesday,Morning (6AM-12PM),Sales,2023/11/02,Europe,Contract,Java,Small Business,2024/06/01,assistant data,2024/04/14,job search
+demographic data,Australia,Australia,Academic,2024/05/22,Sunday,Evening (6PM-12AM),Marketing,2023/05/13,Australia,Internship,Python,Academic,2023/04/09,promotional event data,2024/01/13,region search
+job posting data,Africa,South Africa,Small Business,2023/08/15,Wednesday,Evening (6PM-12AM),Product Management,2024/02/13,Europe,Contract,SQL,Individual,2023/04/25,job posting data,2024/06/03,job search
+job posting data,Europe,Germany,Individual,2023/09/01,Monday,Night (12AM-6AM),Design,2024/01/31,North America,Part-Time,C++,Enterprise,2024/01/12,promotional event data,2024/08/07,region search
+assistant data,Asia,Japan,Academic,2024/07/23,Tuesday,Morning (6AM-12PM),Design,2023/08/24,South America,Part-Time,Python,Small Business,2023/08/13,promotional event data,2023/05/24,job search
+job posting data,Europe,UK,Individual,2024/05/07,Thursday,Night (12AM-6AM),Design,2024/03/15,Europe,Full-Time,Java,Enterprise,2024/12/01,job posting data,2024/11/02,region search
+job posting data,Africa,South Africa,Individual,2023/10/16,Wednesday,Evening (6PM-12AM),Product Management,2023/02/01,Asia,Internship,JavaScript,Small Business,2024/11/18,assistant data,2024/04/04,job search
+user data,Asia,India,Startup,2024/03/06,Tuesday,Morning (6AM-12PM),Sales,2024/08/14,Australia,Part-Time,SQL,Enterprise,2024/08/03,job posting data,2023/04/10,job search
+promotional event data,Africa,South Africa,Academic,2023/07/21,Monday,Night (12AM-6AM),Product Management,2024/12/02,Africa,Internship,Java,Enterprise,2023/12/19,promotional event data,2023/12/15,region search
+user data,Europe,France,Small Business,2024/04/11,Saturday,Afternoon (12PM-6PM),Engineering,2024/07/17,Asia,Contract,JavaScript,Academic,2024/08/06,job posting data,2024/04/20,category query
+demographic data,Africa,Nigeria,Academic,2023/11/27,Sunday,Afternoon (12PM-6PM),Product Management,2023/08/02,North America,Internship,JavaScript,Individual,2023/05/04,assistant data,2024/08/06,job search
+job type data,Africa,Nigeria,Startup,2024/04/01,Sunday,Morning (6AM-12PM),Design,2023/03/01,Europe,Full-Time,JavaScript,Academic,2024/02/11,promotional event data,2024/08/27,category query
+promotional event data,Asia,India,Individual,2023/03/26,Thursday,Evening (6PM-12AM),Customer Support,2023/04/13,Australia,Internship,Excel,Individual,2023/01/17,assistant data,2024/11/06,region search
+job type data,Asia,China,Small Business,2024/04/20,Saturday,Night (12AM-6AM),Customer Support,2023/01/11,South America,Full-Time,Python,Small Business,2023/09/26,assistant data,2023/11/16,category query
+promotional event data,Africa,Nigeria,Enterprise,2023/06/17,Tuesday,Afternoon (12PM-6PM),Product Management,2023/02/06,Australia,Contract,Java,Individual,2024/09/17,job posting data,2024/10/17,category query
+job type data,Asia,China,Enterprise,2023/04/17,Wednesday,Afternoon (12PM-6PM),Customer Support,2023/01/30,Europe,Full-Time,Python,Academic,2023/03/24,assistant data,2024/07/19,job search
+demographic data,Asia,Japan,Startup,2023/02/21,Friday,Afternoon (12PM-6PM),Engineering,2023/11/02,South America,Contract,Excel,Small Business,2024/07/09,job posting data,2024/10/08,category query
+demographic data,Europe,France,Individual,2024/03/22,Sunday,Evening (6PM-12AM),Product Management,2024/12/16,North America,Contract,SQL,Enterprise,2023/05/08,assistant data,2023/09/08,category query
+demographic data,Africa,South Africa,Individual,2024/06/24,Monday,Morning (6AM-12PM),Design,2023/01/20,Asia,Internship,C++,Academic,2023/01/18,promotional event data,2023/06/20,job search
+demographic data,North America,Canada,Individual,2023/04/18,Friday,Evening (6PM-12AM),Marketing,2023/12/28,Asia,Part-Time,Excel,Academic,2024/10/23,assistant data,2024/01/20,region search
+demographic data,North America,Mexico,Academic,2023/10/07,Friday,Night (12AM-6AM),Product Management,2024/06/12,Asia,Contract,JavaScript,Individual,2024/07/07,assistant data,2023/11/19,category query
+job type data,North America,Mexico,Enterprise,2024/03/16,Monday,Night (12AM-6AM),Design,2024/08/06,Europe,Internship,JavaScript,Enterprise,2024/05/11,promotional event data,2024/03/24,job search
+assistant data,Africa,Nigeria,Individual,2023/08/01,Sunday,Night (12AM-6AM),Marketing,2023/11/16,Africa,Part-Time,Excel,Enterprise,2023/08/14,assistant data,2024/07/21,category query
+promotional event data,South America,Chile,Startup,2023/09/04,Tuesday,Night (12AM-6AM),Marketing,2023/07/17,South America,Contract,C++,Small Business,2024/01/24,job posting data,2024/06/27,category query
+job type data,South America,Brazil,Small Business,2023/03/25,Wednesday,Evening (6PM-12AM),Product Management,2023/12/26,Europe,Full-Time,Python,Enterprise,2023/07/27,promotional event data,2023/01/22,region search
+job posting data,South America,Argentina,Startup,2023/01/15,Thursday,Evening (6PM-12AM),Product Management,2024/08/02,South America,Internship,SQL,Enterprise,2023/12/31,job posting data,2023/03/03,job search
+user data,Australia,Australia,Enterprise,2024/12/13,Wednesday,Night (12AM-6AM),Marketing,2023/06/17,Australia,Contract,JavaScript,Individual,2024/12/06,assistant data,2024/02/16,region search
+job posting data,Australia,Australia,Small Business,2024/10/24,Monday,Night (12AM-6AM),Customer Support,2024/07/10,Africa,Contract,Java,Academic,2024/12/10,job posting data,2024/06/30,job search
+user data,South America,Chile,Small Business,2023/11/05,Wednesday,Night (12AM-6AM),Sales,2023/06/24,North America,Full-Time,Python,Small Business,2023/05/30,promotional event data,2024/02/19,category query
+job posting data,Australia,Australia,Individual,2024/05/15,Sunday,Afternoon (12PM-6PM),Customer Support,2024/08/23,North America,Full-Time,JavaScript,Academic,2024/09/17,assistant data,2024/07/05,category query
+assistant data,Asia,Japan,Enterprise,2023/07/01,Friday,Morning (6AM-12PM),Design,2023/05/02,Africa,Full-Time,C++,Academic,2023/08/08,job posting data,2023/04/01,job search
+promotional event data,North America,Canada,Enterprise,2023/06/26,Sunday,Night (12AM-6AM),Product Management,2023/11/13,Australia,Contract,Excel,Individual,2024/07/31,promotional event data,2024/05/23,category query
+job posting data,Australia,Australia,Academic,2024/05/23,Saturday,Morning (6AM-12PM),Engineering,2024/03/30,South America,Full-Time,Java,Individual,2023/10/21,promotional event data,2023/09/02,job search
+user data,Africa,Kenya,Enterprise,2024/05/12,Sunday,Night (12AM-6AM),Marketing,2023/07/23,Africa,Part-Time,Java,Individual,2024/01/15,promotional event data,2023/10/29,region search
+assistant data,Europe,France,Academic,2024/06/03,Monday,Afternoon (12PM-6PM),Design,2024/01/22,South America,Full-Time,Python,Enterprise,2023/12/24,assistant data,2024/04/10,category query
+assistant data,North America,Canada,Enterprise,2024/01/12,Tuesday,Night (12AM-6AM),Engineering,2024/02/26,Asia,Internship,JavaScript,Enterprise,2023/11/15,job posting data,2024/08/05,job search
+assistant data,Africa,South Africa,Small Business,2024/04/16,Tuesday,Night (12AM-6AM),Engineering,2023/10/11,North America,Full-Time,SQL,Individual,2024/10/24,assistant data,2023/09/13,job search
+demographic data,Asia,Japan,Small Business,2024/03/10,Tuesday,Morning (6AM-12PM),Marketing,2024/02/13,Europe,Part-Time,JavaScript,Individual,2024/07/13,promotional event data,2024/06/23,category query
+user data,South America,Brazil,Enterprise,2023/06/18,Thursday,Afternoon (12PM-6PM),Product Management,2024/05/21,Europe,Internship,SQL,Small Business,2024/05/26,job posting data,2023/07/22,region search
+promotional event data,Asia,China,Enterprise,2023/01/27,Tuesday,Afternoon (12PM-6PM),Design,2024/08/02,Asia,Part-Time,Java,Academic,2023/02/16,job posting data,2024/02/23,region search
+promotional event data,Africa,Nigeria,Enterprise,2024/02/24,Friday,Evening (6PM-12AM),Design,2024/07/15,Asia,Internship,Java,Individual,2024/09/11,promotional event data,2023/07/31,category query
+job type data,Asia,India,Small Business,2023/12/11,Thursday,Morning (6AM-12PM),Marketing,2023/03/14,North America,Part-Time,Python,Small Business,2024/02/24,job posting data,2024/12/06,job search
+job type data,Australia,Australia,Enterprise,2024/03/03,Saturday,Night (12AM-6AM),Engineering,2023/07/19,Africa,Part-Time,C++,Small Business,2023/03/16,promotional event data,2024/12/19,job search
+assistant data,Europe,UK,Startup,2023/09/24,Sunday,Afternoon (12PM-6PM),Product Management,2024/04/30,Europe,Full-Time,Excel,Academic,2024/02/05,job posting data,2023/09/07,category query
+promotional event data,Europe,UK,Startup,2023/04/05,Wednesday,Evening (6PM-12AM),Design,2023/05/12,North America,Contract,SQL,Small Business,2024/02/26,job posting data,2023/01/05,job search
+job type data,Europe,France,Individual,2023/09/23,Sunday,Night (12AM-6AM),Marketing,2024/03/20,Australia,Full-Time,Excel,Small Business,2024/05/06,promotional event data,2023/02/09,job search
+user data,Australia,Australia,Small Business,2023/12/15,Saturday,Afternoon (12PM-6PM),Engineering,2024/04/11,Asia,Full-Time,JavaScript,Individual,2023/02/26,job posting data,2024/02/25,region search
+assistant data,Africa,South Africa,Startup,2023/10/17,Sunday,Afternoon (12PM-6PM),Sales,2024/10/02,Africa,Contract,JavaScript,Academic,2023/08/13,promotional event data,2023/11/23,job search
+demographic data,South America,Chile,Startup,2023/10/24,Sunday,Morning (6AM-12PM),Customer Support,2024/04/16,Asia,Contract,SQL,Academic,2023/02/24,job posting data,2023/12/11,category query
+assistant data,Asia,Japan,Academic,2023/05/15,Thursday,Afternoon (12PM-6PM),Marketing,2023/02/17,Europe,Part-Time,C++,Enterprise,2023/05/28,job posting data,2024/07/31,region search
+job type data,Asia,India,Individual,2024/07/20,Friday,Evening (6PM-12AM),Product Management,2023/06/05,South America,Contract,SQL,Small Business,2024/12/06,promotional event data,2024/09/11,job search
+job type data,Europe,Germany,Enterprise,2023/09/30,Thursday,Evening (6PM-12AM),Engineering,2024/08/02,Asia,Contract,SQL,Academic,2023/07/23,promotional event data,2023/02/06,region search
+assistant data,North America,USA,Startup,2024/10/16,Thursday,Afternoon (12PM-6PM),Engineering,2024/10/30,North America,Internship,Excel,Small Business,2023/11/25,promotional event data,2024/02/24,job search
+demographic data,North America,Mexico,Small Business,2024/01/24,Monday,Morning (6AM-12PM),Marketing,2024/08/04,South America,Contract,Java,Academic,2024/07/21,job posting data,2023/12/04,job search
+job posting data,South America,Chile,Enterprise,2024/08/07,Saturday,Night (12AM-6AM),Engineering,2024/10/04,Africa,Contract,Java,Small Business,2023/09/16,assistant data,2024/04/07,category query
+job type data,Australia,Australia,Academic,2024/05/03,Thursday,Afternoon (12PM-6PM),Design,2023/02/12,North America,Contract,Python,Academic,2024/09/03,assistant data,2024/10/19,job search
+job type data,North America,USA,Academic,2023/10/08,Thursday,Morning (6AM-12PM),Product Management,2024/09/15,Asia,Part-Time,C++,Small Business,2024/12/28,promotional event data,2023/06/10,job search
+promotional event data,Asia,China,Academic,2024/04/13,Friday,Afternoon (12PM-6PM),Sales,2024/10/03,Asia,Full-Time,Java,Individual,2023/06/23,assistant data,2024/12/25,region search
+demographic data,Europe,UK,Academic,2023/12/11,Thursday,Morning (6AM-12PM),Design,2023/12/07,South America,Contract,SQL,Academic,2024/01/14,assistant data,2023/09/04,job search
+promotional event data,Australia,Australia,Individual,2024/12/29,Sunday,Evening (6PM-12AM),Marketing,2024/05/13,Europe,Contract,SQL,Academic,2024/03/09,job posting data,2023/12/23,job search
+promotional event data,Europe,France,Startup,2023/03/23,Sunday,Afternoon (12PM-6PM),Marketing,2024/09/05,Europe,Internship,Excel,Enterprise,2024/12/17,assistant data,2023/04/30,category query
+job posting data,South America,Brazil,Academic,2023/11/17,Sunday,Evening (6PM-12AM),Engineering,2024/05/30,Europe,Contract,Python,Small Business,2024/11/07,job posting data,2023/06/30,region search
+job posting data,Asia,China,Individual,2023/10/05,Wednesday,Evening (6PM-12AM),Engineering,2024/12/16,Africa,Full-Time,SQL,Academic,2023/05/03,job posting data,2023/10/17,category query
+demographic data,South America,Chile,Startup,2024/01/04,Saturday,Night (12AM-6AM),Sales,2024/07/13,Africa,Contract,Excel,Enterprise,2023/01/28,job posting data,2024/03/13,job search
+demographic data,South America,Argentina,Small Business,2023/10/31,Friday,Morning (6AM-12PM),Engineering,2024/01/18,North America,Contract,Python,Individual,2024/09/23,promotional event data,2023/05/27,category query
+promotional event data,Asia,Japan,Individual,2024/12/19,Tuesday,Afternoon (12PM-6PM),Product Management,2023/02/27,Asia,Full-Time,Java,Individual,2024/09/04,assistant data,2024/03/22,job search
+job posting data,Europe,France,Academic,2024/09/13,Monday,Evening (6PM-12AM),Design,2023/08/04,North America,Internship,C++,Small Business,2024/09/08,promotional event data,2024/02/15,region search
+demographic data,South America,Argentina,Enterprise,2024/04/24,Wednesday,Afternoon (12PM-6PM),Sales,2024/11/11,Australia,Internship,C++,Academic,2024/08/31,job posting data,2023/04/13,category query
+job posting data,Europe,UK,Academic,2024/07/26,Thursday,Afternoon (12PM-6PM),Marketing,2024/11/16,Asia,Contract,Python,Enterprise,2024/08/12,promotional event data,2024/07/27,category query
+job type data,South America,Argentina,Small Business,2024/10/13,Wednesday,Morning (6AM-12PM),Design,2023/06/26,Europe,Internship,Python,Academic,2023/06/26,promotional event data,2023/05/01,job search
+promotional event data,Asia,Japan,Startup,2023/04/05,Thursday,Night (12AM-6AM),Design,2024/12/10,North America,Contract,SQL,Enterprise,2023/10/31,assistant data,2023/05/13,region search
+user data,South America,Brazil,Startup,2023/12/18,Saturday,Evening (6PM-12AM),Engineering,2023/06/26,Asia,Part-Time,Python,Individual,2024/02/09,assistant data,2024/03/17,category query
+user data,Africa,South Africa,Startup,2024/03/11,Monday,Afternoon (12PM-6PM),Marketing,2023/08/19,Asia,Contract,Excel,Academic,2023/07/26,assistant data,2024/04/17,job search
+job posting data,Australia,Australia,Enterprise,2024/01/09,Tuesday,Night (12AM-6AM),Product Management,2024/05/03,South America,Internship,Python,Enterprise,2024/08/25,assistant data,2023/12/04,category query
+assistant data,Australia,Australia,Academic,2024/07/11,Saturday,Morning (6AM-12PM),Engineering,2023/03/12,South America,Internship,Excel,Small Business,2023/10/05,job posting data,2023/02/12,region search
+job posting data,South America,Argentina,Academic,2023/05/24,Wednesday,Afternoon (12PM-6PM),Product Management,2024/11/17,South America,Contract,Excel,Individual,2023/06/23,promotional event data,2024/10/06,job search
+user data,North America,Canada,Individual,2023/09/26,Sunday,Afternoon (12PM-6PM),Product Management,2023/06/30,Europe,Part-Time,SQL,Small Business,2023/08/06,promotional event data,2024/05/02,job search
+job posting data,Africa,South Africa,Individual,2023/11/19,Wednesday,Night (12AM-6AM),Engineering,2023/03/20,Europe,Full-Time,Excel,Individual,2023/02/15,assistant data,2023/09/13,category query
+job type data,North America,Mexico,Individual,2023/05/26,Thursday,Night (12AM-6AM),Product Management,2024/06/30,Australia,Contract,Excel,Small Business,2023/04/20,job posting data,2024/03/25,category query
+promotional event data,Asia,China,Startup,2023/08/05,Friday,Morning (6AM-12PM),Engineering,2023/02/07,North America,Full-Time,SQL,Academic,2023/10/16,assistant data,2024/11/06,category query
+job posting data,Australia,Australia,Enterprise,2024/10/29,Sunday,Morning (6AM-12PM),Customer Support,2024/08/04,North America,Full-Time,C++,Academic,2024/04/27,assistant data,2023/02/01,job search
+job type data,Africa,South Africa,Enterprise,2023/03/16,Sunday,Night (12AM-6AM),Marketing,2024/05/04,Europe,Internship,Python,Small Business,2023/11/18,assistant data,2023/05/28,job search
+promotional event data,Europe,Germany,Academic,2023/02/01,Monday,Morning (6AM-12PM),Product Management,2023/06/12,Australia,Part-Time,C++,Small Business,2023/11/09,promotional event data,2024/12/20,job search
+demographic data,Asia,China,Small Business,2024/09/20,Tuesday,Afternoon (12PM-6PM),Customer Support,2024/11/06,Australia,Internship,SQL,Small Business,2024/10/22,promotional event data,2023/05/07,category query
+user data,Australia,Australia,Individual,2023/10/03,Thursday,Night (12AM-6AM),Marketing,2024/04/14,Africa,Full-Time,SQL,Enterprise,2024/01/03,job posting data,2024/07/23,region search
+assistant data,Europe,France,Enterprise,2024/11/27,Sunday,Evening (6PM-12AM),Marketing,2023/10/21,Europe,Contract,C++,Individual,2024/10/04,assistant data,2023/04/01,job search
+assistant data,South America,Brazil,Individual,2024/01/06,Monday,Morning (6AM-12PM),Design,2024/06/04,Asia,Internship,Excel,Small Business,2023/01/27,job posting data,2023/08/30,category query
+promotional event data,Australia,Australia,Small Business,2023/04/26,Saturday,Evening (6PM-12AM),Product Management,2024/08/27,Asia,Contract,Excel,Small Business,2023/08/24,promotional event data,2023/11/28,category query
+job posting data,Europe,France,Academic,2024/08/29,Saturday,Afternoon (12PM-6PM),Design,2024/09/15,Australia,Part-Time,JavaScript,Enterprise,2023/02/13,assistant data,2024/09/17,region search
+assistant data,Asia,India,Academic,2024/04/22,Saturday,Evening (6PM-12AM),Sales,2024/09/07,Asia,Contract,Java,Enterprise,2024/08/06,promotional event data,2023/04/20,job search
+assistant data,Asia,China,Startup,2024/12/23,Wednesday,Night (12AM-6AM),Sales,2024/01/13,South America,Full-Time,Python,Small Business,2023/08/18,promotional event data,2023/03/30,category query
+assistant data,Australia,Australia,Small Business,2023/06/03,Friday,Afternoon (12PM-6PM),Sales,2023/05/17,Africa,Part-Time,JavaScript,Academic,2024/07/25,job posting data,2024/12/02,category query
+assistant data,Europe,France,Individual,2024/01/12,Wednesday,Afternoon (12PM-6PM),Marketing,2023/04/16,South America,Internship,JavaScript,Enterprise,2024/04/23,promotional event data,2023/08/28,category query
+demographic data,North America,Canada,Startup,2024/03/02,Saturday,Morning (6AM-12PM),Product Management,2024/02/23,Africa,Part-Time,C++,Small Business,2023/05/30,promotional event data,2023/12/09,job search
+assistant data,North America,Canada,Startup,2024/02/20,Monday,Evening (6PM-12AM),Marketing,2023/01/19,Australia,Full-Time,Java,Academic,2024/06/18,promotional event data,2023/05/10,job search
+job type data,Australia,Australia,Enterprise,2023/07/03,Tuesday,Night (12AM-6AM),Sales,2023/11/25,Africa,Contract,Java,Small Business,2023/10/05,job posting data,2024/07/31,job search
+job posting data,Australia,Australia,Academic,2024/09/22,Sunday,Night (12AM-6AM),Product Management,2024/05/11,Asia,Internship,Excel,Enterprise,2023/11/06,job posting data,2024/05/16,job search
+assistant data,Australia,Australia,Small Business,2024/05/30,Tuesday,Morning (6AM-12PM),Design,2024/10/15,Africa,Internship,Python,Academic,2024/06/05,assistant data,2023/02/04,category query
+assistant data,Asia,Japan,Individual,2023/02/09,Wednesday,Evening (6PM-12AM),Sales,2023/10/16,Africa,Internship,SQL,Individual,2023/09/02,promotional event data,2023/06/15,category query
+assistant data,Europe,UK,Academic,2023/07/07,Saturday,Afternoon (12PM-6PM),Sales,2024/02/29,Europe,Internship,Java,Academic,2023/06/08,job posting data,2024/05/02,category query
+demographic data,North America,Canada,Startup,2024/05/03,Tuesday,Evening (6PM-12AM),Marketing,2023/09/18,Asia,Internship,Java,Enterprise,2023/07/03,assistant data,2024/01/06,category query
+assistant data,South America,Argentina,Academic,2023/09/28,Saturday,Night (12AM-6AM),Product Management,2024/01/12,South America,Internship,Python,Enterprise,2023/04/15,assistant data,2023/02/08,region search
+user data,Asia,China,Individual,2024/12/10,Saturday,Evening (6PM-12AM),Marketing,2024/04/09,Asia,Contract,Python,Individual,2023/07/08,promotional event data,2024/12/20,job search
+assistant data,South America,Chile,Individual,2023/12/13,Thursday,Afternoon (12PM-6PM),Engineering,2023/06/24,Europe,Part-Time,Excel,Enterprise,2023/11/18,promotional event data,2023/04/19,job search
+assistant data,Africa,South Africa,Academic,2024/04/23,Wednesday,Evening (6PM-12AM),Customer Support,2023/11/09,Australia,Internship,C++,Small Business,2023/03/17,job posting data,2023/07/30,category query
+job type data,Australia,Australia,Academic,2024/08/18,Monday,Night (12AM-6AM),Engineering,2023/07/31,North America,Contract,Excel,Small Business,2023/09/04,assistant data,2024/12/13,job search
+demographic data,Australia,Australia,Individual,2023/04/07,Friday,Night (12AM-6AM),Customer Support,2023/10/24,South America,Part-Time,SQL,Academic,2023/02/16,promotional event data,2023/09/30,job search
+job type data,Australia,Australia,Enterprise,2023/01/10,Tuesday,Night (12AM-6AM),Customer Support,2023/05/08,Australia,Full-Time,JavaScript,Academic,2024/02/12,job posting data,2023/03/26,job search
+job posting data,Africa,South Africa,Academic,2023/11/03,Tuesday,Morning (6AM-12PM),Customer Support,2023/08/30,Australia,Internship,JavaScript,Small Business,2023/02/27,promotional event data,2024/10/29,job search
+assistant data,Europe,Germany,Enterprise,2024/05/15,Monday,Afternoon (12PM-6PM),Sales,2024/07/16,Asia,Internship,JavaScript,Small Business,2023/12/31,promotional event data,2024/06/02,region search
+promotional event data,Australia,Australia,Startup,2023/01/05,Monday,Afternoon (12PM-6PM),Marketing,2023/07/22,Africa,Part-Time,Excel,Small Business,2023/11/16,assistant data,2024/11/27,category query
+job posting data,Africa,Nigeria,Academic,2023/04/25,Tuesday,Morning (6AM-12PM),Sales,2024/07/31,Australia,Full-Time,JavaScript,Individual,2023/05/02,assistant data,2023/04/11,region search
+job type data,Asia,China,Small Business,2024/07/10,Saturday,Afternoon (12PM-6PM),Product Management,2024/01/12,North America,Part-Time,Excel,Small Business,2024/01/25,assistant data,2023/04/27,job search
+user data,Africa,South Africa,Academic,2023/12/20,Wednesday,Afternoon (12PM-6PM),Marketing,2023/03/25,Asia,Full-Time,Python,Enterprise,2023/12/04,job posting data,2023/07/10,region search
+job posting data,Africa,South Africa,Academic,2023/10/03,Tuesday,Morning (6AM-12PM),Product Management,2024/07/29,South America,Full-Time,Python,Enterprise,2023/07/24,promotional event data,2023/08/29,region search
+job type data,Europe,Germany,Small Business,2024/01/04,Tuesday,Morning (6AM-12PM),Marketing,2023/04/16,Australia,Part-Time,C++,Enterprise,2023/06/05,job posting data,2023/10/29,job search
+job type data,Australia,Australia,Academic,2023/05/17,Thursday,Morning (6AM-12PM),Marketing,2023/05/09,North America,Full-Time,Python,Individual,2023/03/21,job posting data,2024/03/06,region search
+promotional event data,North America,Canada,Academic,2023/01/31,Monday,Afternoon (12PM-6PM),Customer Support,2024/01/04,South America,Full-Time,Java,Academic,2024/05/20,job posting data,2023/10/31,job search
+assistant data,South America,Brazil,Small Business,2023/11/11,Tuesday,Night (12AM-6AM),Design,2023/10/26,North America,Internship,C++,Individual,2024/02/07,assistant data,2023/11/20,region search
+demographic data,Europe,Germany,Small Business,2024/04/12,Friday,Morning (6AM-12PM),Product Management,2024/10/28,Europe,Contract,SQL,Small Business,2023/05/21,promotional event data,2024/06/29,region search
+user data,Asia,China,Academic,2023/10/07,Tuesday,Evening (6PM-12AM),Product Management,2023/05/11,South America,Full-Time,SQL,Academic,2023/10/31,job posting data,2024/04/11,region search
+promotional event data,Australia,Australia,Small Business,2024/02/27,Sunday,Morning (6AM-12PM),Sales,2023/01/16,Africa,Part-Time,Python,Enterprise,2023/02/12,job posting data,2024/03/05,region search
+job posting data,South America,Brazil,Academic,2023/10/16,Saturday,Morning (6AM-12PM),Sales,2024/01/03,Australia,Internship,Excel,Small Business,2023/06/21,assistant data,2023/02/13,category query
+demographic data,Asia,India,Individual,2024/10/12,Sunday,Night (12AM-6AM),Customer Support,2024/10/05,Africa,Contract,Excel,Individual,2024/08/28,job posting data,2024/09/02,category query
+promotional event data,North America,Canada,Academic,2024/01/14,Thursday,Night (12AM-6AM),Design,2024/05/16,Europe,Contract,C++,Academic,2023/04/05,promotional event data,2023/02/25,region search
+job type data,Australia,Australia,Small Business,2023/05/21,Friday,Morning (6AM-12PM),Marketing,2023/01/15,South America,Contract,SQL,Individual,2024/12/31,job posting data,2023/02/26,job search
+job type data,North America,USA,Academic,2024/10/23,Saturday,Evening (6PM-12AM),Engineering,2023/07/03,Australia,Internship,C++,Small Business,2023/03/08,promotional event data,2024/03/14,region search
+assistant data,Australia,Australia,Startup,2023/04/23,Saturday,Evening (6PM-12AM),Customer Support,2023/01/19,South America,Full-Time,Python,Individual,2023/03/20,promotional event data,2024/01/06,region search
+job posting data,Africa,South Africa,Individual,2023/10/08,Sunday,Night (12AM-6AM),Product Management,2024/12/08,South America,Part-Time,Python,Academic,2024/01/16,assistant data,2023/10/03,category query
+demographic data,South America,Brazil,Enterprise,2024/04/01,Friday,Afternoon (12PM-6PM),Engineering,2023/08/06,Europe,Contract,Excel,Enterprise,2024/11/11,assistant data,2023/03/24,category query
+promotional event data,North America,Mexico,Small Business,2024/02/21,Saturday,Morning (6AM-12PM),Product Management,2024/10/25,Africa,Full-Time,Python,Small Business,2023/09/15,job posting data,2024/01/10,category query
+promotional event data,Africa,South Africa,Startup,2023/07/18,Thursday,Evening (6PM-12AM),Design,2023/10/07,South America,Internship,Python,Academic,2023/10/02,job posting data,2024/09/10,region search
+demographic data,Africa,Kenya,Enterprise,2024/11/25,Thursday,Afternoon (12PM-6PM),Engineering,2024/04/01,Australia,Contract,JavaScript,Academic,2023/11/29,promotional event data,2024/03/19,category query
+job posting data,South America,Chile,Enterprise,2024/08/15,Wednesday,Afternoon (12PM-6PM),Marketing,2024/09/07,Africa,Contract,JavaScript,Enterprise,2024/11/20,assistant data,2023/05/15,category query
+user data,Africa,South Africa,Individual,2023/01/15,Wednesday,Night (12AM-6AM),Marketing,2024/01/02,South America,Full-Time,C++,Individual,2024/11/25,assistant data,2024/08/27,region search
+demographic data,Africa,Nigeria,Startup,2023/05/25,Saturday,Morning (6AM-12PM),Product Management,2024/04/22,Australia,Part-Time,Java,Small Business,2023/09/09,promotional event data,2023/06/30,job search
+promotional event data,Africa,South Africa,Individual,2023/10/18,Sunday,Night (12AM-6AM),Engineering,2023/12/25,Asia,Full-Time,JavaScript,Enterprise,2023/03/24,job posting data,2024/06/16,region search
+job posting data,Asia,Japan,Academic,2023/03/15,Friday,Night (12AM-6AM),Engineering,2024/12/14,Australia,Part-Time,Python,Enterprise,2024/11/30,assistant data,2024/01/16,category query
+assistant data,Asia,India,Enterprise,2024/08/19,Wednesday,Afternoon (12PM-6PM),Customer Support,2024/04/14,North America,Contract,JavaScript,Small Business,2023/02/04,promotional event data,2023/06/27,category query
+user data,Europe,UK,Academic,2024/11/12,Thursday,Evening (6PM-12AM),Design,2024/02/28,South America,Contract,SQL,Small Business,2023/10/13,job posting data,2024/06/29,category query
+job type data,Africa,Nigeria,Enterprise,2023/07/30,Thursday,Night (12AM-6AM),Marketing,2024/12/22,North America,Part-Time,Java,Individual,2024/05/01,job posting data,2023/08/31,category query
+promotional event data,Africa,Nigeria,Academic,2024/04/15,Friday,Night (12AM-6AM),Design,2024/06/13,Africa,Contract,C++,Individual,2024/01/13,job posting data,2024/05/24,category query
+user data,Africa,Nigeria,Academic,2023/07/04,Sunday,Morning (6AM-12PM),Sales,2024/04/13,Africa,Part-Time,SQL,Small Business,2023/01/01,promotional event data,2023/01/28,region search
+assistant data,Australia,Australia,Small Business,2024/01/24,Friday,Afternoon (12PM-6PM),Customer Support,2024/01/13,Australia,Part-Time,Python,Academic,2024/12/17,job posting data,2024/05/17,region search
+job type data,Australia,Australia,Startup,2023/01/16,Wednesday,Night (12AM-6AM),Engineering,2023/12/08,Asia,Contract,Java,Small Business,2024/05/30,job posting data,2023/06/28,region search
+demographic data,Europe,France,Enterprise,2024/08/11,Sunday,Evening (6PM-12AM),Customer Support,2024/09/24,Europe,Part-Time,SQL,Academic,2023/07/23,assistant data,2023/05/13,category query
+demographic data,Europe,France,Academic,2023/06/05,Sunday,Evening (6PM-12AM),Product Management,2023/06/12,Africa,Contract,Python,Enterprise,2024/12/07,promotional event data,2024/09/18,region search
+job type data,Europe,Germany,Individual,2024/08/07,Monday,Evening (6PM-12AM),Customer Support,2024/09/25,Australia,Contract,C++,Individual,2024/11/01,job posting data,2023/11/26,category query
+demographic data,Europe,France,Individual,2024/07/11,Wednesday,Morning (6AM-12PM),Sales,2023/09/29,South America,Internship,JavaScript,Enterprise,2024/11/12,assistant data,2024/09/30,region search
+promotional event data,Australia,Australia,Academic,2023/12/10,Friday,Evening (6PM-12AM),Product Management,2023/07/06,South America,Contract,Python,Individual,2023/12/30,job posting data,2023/02/22,region search
+job type data,Australia,Australia,Individual,2023/12/30,Friday,Afternoon (12PM-6PM),Engineering,2023/07/23,Asia,Internship,Excel,Individual,2023/01/22,job posting data,2023/02/24,region search
+job posting data,Australia,Australia,Individual,2024/06/21,Thursday,Afternoon (12PM-6PM),Design,2024/02/28,Europe,Part-Time,SQL,Small Business,2023/01/28,assistant data,2024/11/13,category query
+user data,Australia,Australia,Small Business,2024/07/31,Monday,Night (12AM-6AM),Sales,2024/05/31,South America,Full-Time,Java,Small Business,2023/11/17,job posting data,2024/11/10,job search
+assistant data,South America,Brazil,Individual,2024/12/28,Saturday,Night (12AM-6AM),Marketing,2023/07/08,North America,Part-Time,SQL,Academic,2024/10/20,promotional event data,2024/08/09,job search
+job posting data,Asia,Japan,Startup,2024/01/17,Friday,Night (12AM-6AM),Customer Support,2023/09/17,Europe,Full-Time,JavaScript,Individual,2024/11/05,assistant data,2024/04/09,job search
+assistant data,Europe,France,Small Business,2024/05/28,Wednesday,Night (12AM-6AM),Sales,2023/11/03,South America,Internship,Excel,Small Business,2023/06/22,promotional event data,2024/08/04,category query
+assistant data,North America,Mexico,Academic,2023/10/05,Monday,Night (12AM-6AM),Design,2024/05/16,North America,Internship,JavaScript,Academic,2024/08/14,assistant data,2024/12/30,category query
+assistant data,South America,Chile,Individual,2023/06/26,Thursday,Night (12AM-6AM),Sales,2024/08/02,Australia,Full-Time,SQL,Individual,2024/03/24,job posting data,2024/10/10,job search
+promotional event data,Europe,Germany,Small Business,2024/08/28,Monday,Night (12AM-6AM),Marketing,2023/04/11,Europe,Part-Time,Excel,Academic,2023/05/13,assistant data,2023/12/01,category query
+demographic data,Australia,Australia,Individual,2023/11/28,Monday,Afternoon (12PM-6PM),Design,2024/02/02,North America,Part-Time,Python,Small Business,2024/05/24,job posting data,2024/03/24,region search
+job type data,South America,Brazil,Enterprise,2023/03/01,Monday,Night (12AM-6AM),Marketing,2023/10/24,Asia,Contract,JavaScript,Academic,2023/06/20,assistant data,2024/08/12,region search
+promotional event data,Africa,Kenya,Startup,2023/02/22,Sunday,Morning (6AM-12PM),Product Management,2024/09/20,North America,Part-Time,SQL,Academic,2024/04/19,job posting data,2024/08/15,job search
+promotional event data,Africa,South Africa,Enterprise,2023/08/25,Monday,Evening (6PM-12AM),Customer Support,2023/10/30,Europe,Part-Time,Java,Academic,2024/02/06,promotional event data,2023/10/24,category query
+job type data,North America,USA,Startup,2023/03/05,Monday,Night (12AM-6AM),Sales,2023/08/08,Europe,Contract,JavaScript,Individual,2024/08/02,promotional event data,2023/06/15,region search
+user data,Asia,Japan,Small Business,2023/04/28,Saturday,Evening (6PM-12AM),Design,2024/04/14,Asia,Contract,Excel,Enterprise,2023/04/05,assistant data,2023/03/22,region search
+assistant data,South America,Argentina,Small Business,2024/11/26,Wednesday,Night (12AM-6AM),Product Management,2023/12/18,North America,Full-Time,Excel,Individual,2024/03/25,assistant data,2024/01/07,job search
+promotional event data,Asia,China,Enterprise,2023/02/13,Saturday,Night (12AM-6AM),Engineering,2023/07/21,North America,Part-Time,Python,Enterprise,2024/12/30,assistant data,2024/12/23,category query
+user data,Europe,Germany,Small Business,2023/07/05,Monday,Night (12AM-6AM),Engineering,2024/02/28,Asia,Full-Time,C++,Academic,2024/03/20,promotional event data,2024/01/26,job search
+job posting data,North America,Canada,Academic,2024/04/08,Wednesday,Morning (6AM-12PM),Sales,2024/11/01,North America,Internship,SQL,Academic,2023/03/12,promotional event data,2023/04/24,job search
+job type data,Europe,France,Individual,2024/05/12,Wednesday,Afternoon (12PM-6PM),Design,2023/03/11,Asia,Internship,Python,Small Business,2023/12/03,promotional event data,2023/08/01,category query
+job type data,South America,Brazil,Individual,2023/12/14,Tuesday,Afternoon (12PM-6PM),Product Management,2023/04/05,Asia,Internship,Python,Individual,2023/09/06,job posting data,2024/02/15,category query
+promotional event data,North America,Mexico,Small Business,2024/09/18,Thursday,Evening (6PM-12AM),Marketing,2024/05/29,Asia,Part-Time,Excel,Academic,2024/03/13,assistant data,2023/08/15,job search
+demographic data,South America,Chile,Academic,2024/12/28,Thursday,Morning (6AM-12PM),Product Management,2024/08/02,Africa,Full-Time,Excel,Academic,2024/12/26,assistant data,2023/02/22,category query
+user data,Asia,India,Enterprise,2023/08/13,Friday,Night (12AM-6AM),Marketing,2024/11/29,Australia,Full-Time,Java,Individual,2024/10/09,assistant data,2024/07/13,job search
+job posting data,South America,Chile,Startup,2023/12/02,Thursday,Evening (6PM-12AM),Customer Support,2024/11/25,Europe,Contract,SQL,Academic,2023/02/15,promotional event data,2024/08/04,job search
+job type data,South America,Argentina,Enterprise,2023/12/13,Saturday,Night (12AM-6AM),Customer Support,2023/11/17,Europe,Part-Time,Python,Individual,2023/06/05,promotional event data,2024/12/25,category query
+demographic data,Asia,Japan,Enterprise,2024/10/02,Thursday,Morning (6AM-12PM),Design,2023/04/25,Asia,Contract,Python,Academic,2024/01/30,promotional event data,2024/06/19,category query
+job type data,South America,Brazil,Small Business,2024/08/10,Friday,Evening (6PM-12AM),Design,2023/03/15,Europe,Internship,SQL,Small Business,2023/04/01,promotional event data,2023/04/18,job search
+job type data,South America,Argentina,Individual,2023/01/18,Saturday,Morning (6AM-12PM),Customer Support,2023/08/09,Africa,Part-Time,Excel,Small Business,2023/11/18,promotional event data,2023/12/29,region search
+user data,Asia,China,Startup,2024/05/08,Wednesday,Morning (6AM-12PM),Product Management,2024/09/17,Africa,Internship,SQL,Enterprise,2024/09/18,promotional event data,2023/04/25,region search
+job posting data,North America,Mexico,Enterprise,2024/09/25,Thursday,Night (12AM-6AM),Design,2024/01/06,Australia,Internship,Python,Individual,2023/02/05,assistant data,2023/07/22,category query
+job type data,Australia,Australia,Individual,2024/01/12,Monday,Night (12AM-6AM),Product Management,2024/07/08,Asia,Internship,Java,Individual,2023/02/15,assistant data,2023/06/09,job search
+user data,Europe,Germany,Startup,2024/12/01,Monday,Morning (6AM-12PM),Design,2023/07/23,Africa,Full-Time,C++,Academic,2024/05/13,job posting data,2024/02/11,category query
+demographic data,Asia,China,Individual,2024/06/28,Saturday,Night (12AM-6AM),Design,2023/11/26,Africa,Full-Time,Python,Individual,2024/09/16,assistant data,2023/10/01,region search
+user data,North America,Mexico,Enterprise,2024/12/08,Monday,Evening (6PM-12AM),Product Management,2024/07/22,Australia,Part-Time,Java,Enterprise,2024/06/21,promotional event data,2024/05/07,region search
+job type data,Africa,Kenya,Academic,2024/03/11,Monday,Night (12AM-6AM),Engineering,2024/09/22,North America,Full-Time,C++,Academic,2023/09/18,assistant data,2023/02/28,category query
+job posting data,Africa,South Africa,Small Business,2023/03/17,Friday,Night (12AM-6AM),Product Management,2023/12/09,Europe,Full-Time,Excel,Small Business,2024/04/30,assistant data,2023/05/23,category query
+assistant data,North America,USA,Individual,2024/05/10,Friday,Afternoon (12PM-6PM),Marketing,2024/08/08,Europe,Part-Time,JavaScript,Individual,2023/03/06,assistant data,2023/09/04,region search
+promotional event data,South America,Brazil,Academic,2024/08/15,Sunday,Morning (6AM-12PM),Product Management,2024/12/18,Australia,Part-Time,SQL,Individual,2023/02/21,assistant data,2023/02/08,category query
+demographic data,Europe,UK,Enterprise,2024/10/02,Thursday,Afternoon (12PM-6PM),Marketing,2023/06/27,North America,Part-Time,JavaScript,Academic,2023/04/21,assistant data,2024/05/16,category query
+promotional event data,South America,Brazil,Small Business,2024/12/25,Thursday,Afternoon (12PM-6PM),Customer Support,2023/06/19,Australia,Full-Time,Python,Small Business,2024/05/01,assistant data,2023/06/04,job search
+job type data,Australia,Australia,Academic,2023/02/05,Saturday,Evening (6PM-12AM),Engineering,2023/03/09,North America,Contract,Excel,Small Business,2024/04/10,job posting data,2024/11/08,job search
+demographic data,North America,USA,Individual,2024/09/13,Thursday,Morning (6AM-12PM),Marketing,2024/04/08,Europe,Contract,SQL,Individual,2024/02/21,assistant data,2023/10/30,job search
+job posting data,Europe,Germany,Small Business,2023/02/03,Sunday,Afternoon (12PM-6PM),Customer Support,2024/03/26,Asia,Internship,JavaScript,Academic,2023/09/19,assistant data,2023/01/09,category query
+job posting data,Australia,Australia,Individual,2024/07/01,Monday,Morning (6AM-12PM),Design,2023/05/17,Australia,Contract,Python,Small Business,2023/07/16,assistant data,2024/03/26,category query
+user data,South America,Argentina,Startup,2024/05/06,Tuesday,Night (12AM-6AM),Customer Support,2023/03/27,Asia,Contract,SQL,Enterprise,2023/11/06,job posting data,2024/09/22,job search
+assistant data,South America,Brazil,Startup,2024/03/21,Friday,Afternoon (12PM-6PM),Design,2023/10/26,Australia,Part-Time,Java,Small Business,2023/04/10,job posting data,2024/10/07,job search
+user data,South America,Chile,Individual,2023/06/10,Tuesday,Afternoon (12PM-6PM),Design,2024/01/04,Asia,Internship,Java,Individual,2024/11/16,promotional event data,2023/10/23,category query
+assistant data,South America,Argentina,Enterprise,2024/03/31,Wednesday,Night (12AM-6AM),Product Management,2023/03/26,Asia,Full-Time,JavaScript,Small Business,2023/03/06,assistant data,2023/09/15,job search
+job type data,Africa,Kenya,Individual,2024/10/27,Monday,Afternoon (12PM-6PM),Design,2023/03/25,Africa,Contract,SQL,Enterprise,2023/04/06,job posting data,2024/07/05,job search
+assistant data,South America,Brazil,Individual,2023/03/31,Wednesday,Evening (6PM-12AM),Engineering,2024/03/19,Australia,Contract,JavaScript,Small Business,2024/04/29,assistant data,2024/03/12,job search
+user data,Asia,China,Individual,2023/08/26,Monday,Evening (6PM-12AM),Product Management,2024/11/16,Australia,Part-Time,Excel,Enterprise,2023/01/09,job posting data,2023/03/08,region search
+job type data,Asia,India,Startup,2024/06/26,Sunday,Evening (6PM-12AM),Sales,2024/05/09,Africa,Part-Time,C++,Small Business,2024/11/18,promotional event data,2024/04/20,category query
+user data,Europe,France,Enterprise,2024/11/07,Thursday,Afternoon (12PM-6PM),Design,2024/10/04,North America,Internship,C++,Small Business,2024/05/12,assistant data,2024/10/05,region search
+job posting data,South America,Brazil,Small Business,2024/08/26,Monday,Night (12AM-6AM),Customer Support,2024/05/08,Australia,Part-Time,Python,Individual,2024/06/09,promotional event data,2023/02/03,category query
+assistant data,South America,Argentina,Enterprise,2023/04/08,Wednesday,Night (12AM-6AM),Design,2023/04/03,South America,Full-Time,Java,Individual,2023/01/16,promotional event data,2024/04/25,region search
+job type data,North America,Canada,Academic,2024/11/18,Tuesday,Afternoon (12PM-6PM),Design,2024/04/30,North America,Full-Time,Java,Enterprise,2024/11/11,promotional event data,2023/04/11,job search
+user data,Asia,Japan,Small Business,2024/03/28,Monday,Morning (6AM-12PM),Marketing,2024/12/25,South America,Internship,JavaScript,Individual,2024/10/07,assistant data,2023/01/13,category query
+assistant data,Australia,Australia,Small Business,2023/01/14,Monday,Evening (6PM-12AM),Marketing,2024/05/18,Australia,Contract,JavaScript,Enterprise,2024/06/11,assistant data,2023/04/10,category query
+demographic data,Europe,Germany,Small Business,2023/02/07,Sunday,Morning (6AM-12PM),Product Management,2023/03/16,Asia,Contract,JavaScript,Academic,2024/06/30,assistant data,2023/07/07,region search
+assistant data,South America,Chile,Individual,2024/05/16,Thursday,Evening (6PM-12AM),Design,2023/05/03,North America,Part-Time,Java,Individual,2023/02/05,assistant data,2024/03/20,category query
+user data,Africa,South Africa,Academic,2024/10/02,Thursday,Evening (6PM-12AM),Sales,2024/11/30,Europe,Part-Time,SQL,Individual,2023/02/24,promotional event data,2023/02/16,region search
+promotional event data,Europe,UK,Individual,2024/12/12,Saturday,Evening (6PM-12AM),Engineering,2024/01/19,Asia,Part-Time,JavaScript,Academic,2024/11/25,assistant data,2023/02/10,category query
+assistant data,Europe,France,Startup,2023/04/06,Tuesday,Evening (6PM-12AM),Product Management,2023/02/18,Africa,Full-Time,C++,Academic,2023/03/04,promotional event data,2023/07/22,job search
+promotional event data,South America,Argentina,Academic,2023/02/15,Thursday,Night (12AM-6AM),Sales,2023/07/06,Africa,Full-Time,Excel,Small Business,2023/05/10,assistant data,2023/11/01,job search
+job type data,Australia,Australia,Small Business,2023/10/18,Monday,Morning (6AM-12PM),Product Management,2024/11/24,Asia,Full-Time,Excel,Small Business,2024/02/10,job posting data,2024/08/22,region search
+job posting data,Asia,India,Academic,2024/11/18,Monday,Afternoon (12PM-6PM),Product Management,2023/06/01,Africa,Internship,Python,Individual,2023/06/29,job posting data,2023/09/24,region search
+user data,Australia,Australia,Enterprise,2023/07/20,Saturday,Morning (6AM-12PM),Engineering,2023/03/02,North America,Contract,Excel,Academic,2024/05/16,promotional event data,2023/04/27,job search
+demographic data,Africa,Nigeria,Academic,2023/06/21,Monday,Evening (6PM-12AM),Engineering,2023/05/19,Australia,Internship,Python,Individual,2024/11/04,assistant data,2024/06/23,region search
+assistant data,South America,Chile,Startup,2024/06/30,Friday,Afternoon (12PM-6PM),Marketing,2023/09/04,North America,Contract,Excel,Enterprise,2023/08/05,promotional event data,2024/06/27,category query
+job posting data,Asia,China,Enterprise,2023/02/27,Friday,Night (12AM-6AM),Engineering,2023/05/19,Asia,Contract,JavaScript,Enterprise,2023/02/19,promotional event data,2024/05/12,region search
+user data,Australia,Australia,Enterprise,2024/04/13,Saturday,Afternoon (12PM-6PM),Design,2023/12/01,Europe,Internship,Java,Small Business,2024/02/24,job posting data,2023/04/28,job search
+promotional event data,Asia,India,Small Business,2024/07/18,Tuesday,Morning (6AM-12PM),Product Management,2023/01/10,North America,Full-Time,SQL,Enterprise,2024/08/21,job posting data,2024/12/02,region search
+demographic data,South America,Argentina,Individual,2023/12/20,Monday,Morning (6AM-12PM),Engineering,2023/08/11,Africa,Contract,C++,Enterprise,2024/11/22,promotional event data,2024/02/12,region search
+assistant data,South America,Brazil,Enterprise,2024/05/27,Saturday,Night (12AM-6AM),Sales,2023/10/19,Australia,Part-Time,Excel,Academic,2023/06/19,job posting data,2023/07/21,category query
+demographic data,North America,Mexico,Startup,2024/04/21,Monday,Night (12AM-6AM),Product Management,2023/11/12,South America,Part-Time,Java,Individual,2024/09/07,assistant data,2024/03/12,category query
+user data,Asia,India,Individual,2024/01/31,Thursday,Morning (6AM-12PM),Engineering,2024/06/03,Australia,Part-Time,JavaScript,Small Business,2024/09/30,assistant data,2024/12/08,category query
+assistant data,Africa,South Africa,Enterprise,2024/10/20,Friday,Morning (6AM-12PM),Customer Support,2024/08/31,Europe,Part-Time,Java,Enterprise,2023/08/29,job posting data,2023/07/12,job search
+assistant data,Europe,UK,Startup,2023/12/23,Thursday,Night (12AM-6AM),Design,2023/01/27,Asia,Internship,C++,Enterprise,2023/12/22,job posting data,2023/01/19,job search
+job posting data,Australia,Australia,Enterprise,2024/07/21,Sunday,Evening (6PM-12AM),Product Management,2024/11/10,Africa,Internship,Java,Academic,2024/05/10,assistant data,2023/02/09,job search
+job posting data,Europe,Germany,Academic,2023/02/25,Tuesday,Night (12AM-6AM),Engineering,2024/08/27,North America,Internship,JavaScript,Individual,2024/02/27,assistant data,2024/06/06,region search
+job posting data,South America,Chile,Individual,2023/04/04,Monday,Morning (6AM-12PM),Engineering,2024/08/11,South America,Contract,C++,Enterprise,2024/05/12,promotional event data,2024/06/11,job search
+promotional event data,Europe,France,Startup,2023/06/24,Sunday,Evening (6PM-12AM),Product Management,2024/12/25,Australia,Part-Time,JavaScript,Individual,2023/07/09,job posting data,2024/02/14,category query
+demographic data,Australia,Australia,Academic,2023/05/05,Saturday,Night (12AM-6AM),Customer Support,2023/03/05,South America,Internship,Python,Academic,2023/11/23,assistant data,2023/02/05,job search
+job posting data,South America,Chile,Enterprise,2024/04/05,Monday,Morning (6AM-12PM),Marketing,2023/07/28,Africa,Internship,SQL,Individual,2024/01/06,promotional event data,2024/03/22,category query
+job type data,South America,Brazil,Small Business,2023/10/03,Friday,Morning (6AM-12PM),Sales,2024/11/17,Australia,Internship,Java,Enterprise,2023/05/02,job posting data,2023/01/14,region search
+job posting data,Australia,Australia,Enterprise,2023/08/16,Thursday,Evening (6PM-12AM),Sales,2024/02/22,South America,Internship,C++,Individual,2024/01/25,job posting data,2023/11/25,job search
+user data,South America,Brazil,Startup,2023/12/18,Thursday,Morning (6AM-12PM),Customer Support,2024/02/08,North America,Part-Time,Java,Individual,2024/10/08,job posting data,2024/08/17,category query
+job type data,South America,Argentina,Small Business,2024/11/03,Saturday,Night (12AM-6AM),Engineering,2023/04/14,Africa,Part-Time,C++,Individual,2023/05/30,job posting data,2024/10/25,job search
+demographic data,Africa,Kenya,Startup,2023/02/22,Friday,Evening (6PM-12AM),Design,2023/01/09,Africa,Part-Time,Python,Academic,2023/09/19,assistant data,2024/01/12,job search
+assistant data,Asia,China,Small Business,2024/08/15,Thursday,Morning (6AM-12PM),Engineering,2024/10/18,North America,Internship,SQL,Individual,2023/03/20,promotional event data,2024/10/10,job search

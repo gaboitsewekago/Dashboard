@@ -1,0 +1,379 @@
+[
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "BadZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "ZipFile",
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "isExtraImport": true,
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "dash",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dash",
+        "description": "dash",
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dcc",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "html",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Input",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "Output",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "State",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "callback",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "dash_table",
+        "importPath": "dash",
+        "description": "dash",
+        "isExtraImport": true,
+        "detail": "dash",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "extract_file",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "description": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "peekOfCode": "def extract_file(xlsm_zip, filename):\n    # Extract a single file from an Excel xlsm macro file.\n    data = xlsm_zip.read(\"xl/\" + filename)\n    # Write the data to a local file.\n    file = open(filename, \"wb\")\n    file.write(data)\n    file.close()\n# The VBA project file and project signature file we want to extract.\nvba_filename = \"vbaProject.bin\"\nvba_signature_filename = \"vbaProjectSignature.bin\"",
+        "detail": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "documentation": {}
+    },
+    {
+        "label": "vba_filename",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "description": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "peekOfCode": "vba_filename = \"vbaProject.bin\"\nvba_signature_filename = \"vbaProjectSignature.bin\"\n# Get the xlsm file name from the commandline.\nif len(sys.argv) > 1:\n    xlsm_file = sys.argv[1]\nelse:\n    print(\n        \"\\nUtility to extract a vbaProject.bin binary from an Excel 2007+ \"\n        \"xlsm macro file for insertion into an XlsxWriter file.\\n\"\n        \"If the macros are digitally signed, extracts also a vbaProjectSignature.bin \"",
+        "detail": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "documentation": {}
+    },
+    {
+        "label": "vba_signature_filename",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "description": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "peekOfCode": "vba_signature_filename = \"vbaProjectSignature.bin\"\n# Get the xlsm file name from the commandline.\nif len(sys.argv) > 1:\n    xlsm_file = sys.argv[1]\nelse:\n    print(\n        \"\\nUtility to extract a vbaProject.bin binary from an Excel 2007+ \"\n        \"xlsm macro file for insertion into an XlsxWriter file.\\n\"\n        \"If the macros are digitally signed, extracts also a vbaProjectSignature.bin \"\n        \"file.\\n\"",
+        "detail": "sample_dash_apps..sample_vertual_env.Scripts.vba_extract",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)\n            print(f\"Data loaded successfully from specific path with {len(data)} records\")\n            date_columns = ['signup_date', 'posting_date', 'request_date', 'query_date']",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "show_login",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def show_login(session):\n    return {\n        'display': 'none'\n    } if session else {\n        'display': 'block', \n        'minHeight': '100vh', \n        'background': 'linear-gradient(135deg, #1E3A8A, #14B8A6)',\n        'padding': '20px'\n    }\n# Callback to show/hide dashboard based on session",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "show_dashboard",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def show_dashboard(session):\n    return {\n        'display': 'block', \n        'minHeight': '100vh', \n        'backgroundColor': '#F9FAFB'\n    } if session else {\n        'display': 'none'\n    }\n# Combined callback for login and logout\n@app.callback(",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "handle_auth",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def handle_auth(login_clicks, logout_clicks, username, password):\n    ctx = dash.callback_context\n    if not ctx.triggered:\n        return dash.no_update, dash.no_update, dash.no_update\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0]\n    error_style = {\n        'color': '#F87171', \n        'marginTop': '15px', \n        'textAlign': 'center', \n        'minHeight': '20px',",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_tab_content",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_tab_content(tab):\n    if tab == 'dataset-overview':\n        return render_dataset_overview()\n    elif tab == 'user-distribution':\n        return render_user_distribution()\n    elif tab == 'job-posting':\n        return render_job_posting()\n    elif tab == 'job-types':\n        return render_job_types()\n    elif tab == 'demo-requests':",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_dataset_overview",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_dataset_overview():\n    return html.Div([\n        html.H2(\n            \"Dataset Overview\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600',",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_user_distribution",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_user_distribution():\n    return html.Div([\n        html.H2(\n            \"User Distribution Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_user_distribution",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_user_distribution(clickData, back_clicks, selected_continent):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    continent_data = df[df['data_type'] == 'assistant data'].groupby('continent').size().reset_index(name='count')\n    primary_fig = px.bar(\n        continent_data, \n        x='continent', \n        y='count',\n        title='User Distribution by Continent',\n        labels={'count': 'Number of Users', 'continent': 'Continent'},",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_job_posting",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_job_posting():\n    return html.Div([\n        html.H2(\n            \"Job Posting Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_job_posting",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_job_posting(clickData, back_clicks, selected_day):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    job_data = df[df['data_type'].str.contains('job', case=False, na=False)]\n    day_data = job_data.groupby('day').size().reset_index(name='count')\n    day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']\n    day_data['day'] = pd.Categorical(day_data['day'], categories=day_order, ordered=True)\n    day_data = day_data.sort_values('day')\n    primary_fig = px.bar(\n        day_data, ",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_job_types",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_job_types():\n    return html.Div([\n        html.H2(\n            \"Job Types Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_job_types",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_job_types(clickData, back_clicks, selected_continent):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    job_continent_data = df[df['data_type'].str.contains('job', case=False, na=False)].groupby(['continent', 'job_type']).size().reset_index(name='count')\n    pivot_data = job_continent_data.pivot_table(index='continent', columns='job_type', values='count', fill_value=0).reset_index()\n    melted_data = pd.melt(pivot_data, id_vars=['continent'], var_name='job_type', value_name='count')\n    primary_fig = px.bar(\n        melted_data, \n        x='continent', \n        y='count', ",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_demo_requests",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_demo_requests():\n    return html.Div([\n        html.H2(\n            \"Demo Requests Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_demo_requests",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_demo_requests(clickData, back_clicks, selected_continent):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    demo_continent_data = df[df['demo_type'].notna()].groupby('continent').size().reset_index(name='count')\n    primary_fig = px.bar(\n        demo_continent_data, \n        x='continent', \n        y='count',\n        title='Demo Requests Distribution by Continent',\n        labels={'count': 'Number of Demo Requests', 'continent': 'Continent'},",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_promotional_events",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_promotional_events():\n    return html.Div([\n        html.H2(\n            \"Promotional Events Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_promotional_events",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_promotional_events(clickData, back_clicks, selected_day):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    promo_day_data = df[df['event_type'] == 'promotional event data'].groupby('day').size().reset_index(name='count')\n    day_order = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']\n    promo_day_data['day'] = pd.Categorical(promo_day_data['day'], categories=day_order, ordered=True)\n    promo_day_data = promo_day_data.sort_values('day')\n    primary_fig = px.bar(\n        promo_day_data, \n        x='day', ",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "render_virtual_assistant",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def render_virtual_assistant():\n    return html.Div([\n        html.H2(\n            \"Virtual Assistant Queries Analysis\", \n            style={\n                'textAlign': 'center', \n                'marginTop': '20px',\n                'color': '#1E3A8A',\n                'fontSize': '28px',\n                'fontWeight': '600'",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "update_virtual_assistant",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def update_virtual_assistant(clickData, back_clicks, selected_continent):\n    ctx = dash.callback_context\n    triggered_id = ctx.triggered[0]['prop_id'].split('.')[0] if ctx.triggered else None\n    va_continent_data = df[df['data_type'] == 'assistant data'].groupby('continent').size().reset_index(name='count')\n    primary_fig = px.bar(\n        va_continent_data, \n        x='continent', \n        y='count',\n        title='Virtual Assistant Requests by Continent',\n        labels={'count': 'Number of Virtual assistant Requests', 'continent': 'Continent'},",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "export_dataset",
+        "kind": 2,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "def export_dataset(n_clicks):\n    if n_clicks:\n        return \"Dataset Exported!\"\n    return \"Export Dataset\"\n# Run the app\nif __name__ == '__main__':\n    app.run(debug=True, port=8050)",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "app = dash.Dash(__name__, suppress_callback_exceptions=True)\nserver = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "server = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "USERS",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "USERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "df = load_data()\n# Print data info for debugging\nprint(\"Data loaded successfully. Shape:\", df.shape)\nprint(\"Columns:\", df.columns.tolist())\nprint(\"Sample data:\")\nprint(df.head())\n# Define the app layout with styled login screen and dashboard\napp.layout = html.Div([\n    dcc.Store(id='session', data=False, storage_type='session'),\n    # Styled login screen",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    },
+    {
+        "label": "app.layout",
+        "kind": 5,
+        "importPath": "sample_dash_apps..sample_vertual_env.app",
+        "description": "sample_dash_apps..sample_vertual_env.app",
+        "peekOfCode": "app.layout = html.Div([\n    dcc.Store(id='session', data=False, storage_type='session'),\n    # Styled login screen\n    html.Div(id='login-screen', children=[\n        html.Div([\n            html.H2(\"AI-Solutions Dashboard Login\", \n                    style={\n                        'textAlign': 'center', \n                        'color': '#1E3A8A', \n                        'marginBottom': '20px',",
+        "detail": "sample_dash_apps..sample_vertual_env.app",
+        "documentation": {}
+    }
+]
