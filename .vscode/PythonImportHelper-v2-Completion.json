@@ -165,7 +165,7 @@
         "kind": 2,
         "importPath": "sample_dash_apps..sample_vertual_env.app",
         "description": "sample_dash_apps..sample_vertual_env.app",
-        "peekOfCode": "def load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)\n            print(f\"Data loaded successfully from specific path with {len(data)} records\")\n            date_columns = ['signup_date', 'posting_date', 'request_date', 'query_date']",
+        "peekOfCode": "def load_data():\n    import os\n    from pathlib import Path\n    try:\n        data_path = os.path.join(os.path.dirname(__file__), \"data\", \"data.csv\")\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)\n            print(f\"Data loaded successfully from specific path with {len(data)} records\")\n            date_columns = ['signup_date', 'posting_date', 'request_date', 'query_date']",
         "detail": "sample_dash_apps..sample_vertual_env.app",
         "documentation": {}
     },
@@ -336,7 +336,7 @@
         "kind": 5,
         "importPath": "sample_dash_apps..sample_vertual_env.app",
         "description": "sample_dash_apps..sample_vertual_env.app",
-        "peekOfCode": "app = dash.Dash(__name__, suppress_callback_exceptions=True)\nserver = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"",
+        "peekOfCode": "app = dash.Dash(__name__, suppress_callback_exceptions=True)\nserver = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        data_path = os.path.join(os.path.dirname(__file__), \"data\", \"data.csv\")",
         "detail": "sample_dash_apps..sample_vertual_env.app",
         "documentation": {}
     },
@@ -345,7 +345,7 @@
         "kind": 5,
         "importPath": "sample_dash_apps..sample_vertual_env.app",
         "description": "sample_dash_apps..sample_vertual_env.app",
-        "peekOfCode": "server = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")",
+        "peekOfCode": "server = app.server\n# User database for authentication (hardcoded for simplicity)\nUSERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        data_path = os.path.join(os.path.dirname(__file__), \"data\", \"data.csv\")\n        print(f\"Attempting to load data from specific path: {specific_path}\")",
         "detail": "sample_dash_apps..sample_vertual_env.app",
         "documentation": {}
     },
@@ -354,7 +354,7 @@
         "kind": 5,
         "importPath": "sample_dash_apps..sample_vertual_env.app",
         "description": "sample_dash_apps..sample_vertual_env.app",
-        "peekOfCode": "USERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        specific_path = r\"C:/Users/kagog/Documents/Dash_apps/sample_dash_apps/.sample_vertual_env/data.csv\"\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)",
+        "peekOfCode": "USERS = {'admin': 'admin123'}\n# Load the dataset\ndef load_data():\n    import os\n    from pathlib import Path\n    try:\n        data_path = os.path.join(os.path.dirname(__file__), \"data\", \"data.csv\")\n        print(f\"Attempting to load data from specific path: {specific_path}\")\n        if os.path.exists(specific_path):\n            data = pd.read_csv(specific_path)",
         "detail": "sample_dash_apps..sample_vertual_env.app",
         "documentation": {}
     },
